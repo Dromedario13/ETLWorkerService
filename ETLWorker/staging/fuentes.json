@@ -1,0 +1,502 @@
+[
+  {
+    "IdFuente": "F001",
+    "TipoFuente": "Web",
+    "FechaCarga": "2025-04-10"
+  },
+  {
+    "IdFuente": "F002",
+    "TipoFuente": "CSV",
+    "FechaCarga": "2025-01-01"
+  },
+  {
+    "IdFuente": "F003",
+    "TipoFuente": "CSV",
+    "FechaCarga": "2025-03-12"
+  },
+  {
+    "IdFuente": "F004",
+    "TipoFuente": "CSV",
+    "FechaCarga": "2025-01-28"
+  },
+  {
+    "IdFuente": "F005",
+    "TipoFuente": "Red Social",
+    "FechaCarga": "2025-08-02"
+  },
+  {
+    "IdFuente": "F006",
+    "TipoFuente": "Web",
+    "FechaCarga": "2025-05-30"
+  },
+  {
+    "IdFuente": "F007",
+    "TipoFuente": "Red Social",
+    "FechaCarga": "2025-09-10"
+  },
+  {
+    "IdFuente": "F008",
+    "TipoFuente": "Red Social",
+    "FechaCarga": "2025-08-23"
+  },
+  {
+    "IdFuente": "F009",
+    "TipoFuente": "Web",
+    "FechaCarga": "2025-01-02"
+  },
+  {
+    "IdFuente": "F010",
+    "TipoFuente": "Red Social",
+    "FechaCarga": "2025-07-21"
+  },
+  {
+    "IdFuente": "F011",
+    "TipoFuente": "CSV",
+    "FechaCarga": "2025-09-08"
+  },
+  {
+    "IdFuente": "F012",
+    "TipoFuente": "Red Social",
+    "FechaCarga": "2025-03-07"
+  },
+  {
+    "IdFuente": "F013",
+    "TipoFuente": "Red Social",
+    "FechaCarga": "2025-05-13"
+  },
+  {
+    "IdFuente": "F014",
+    "TipoFuente": "Web",
+    "FechaCarga": "2025-06-02"
+  },
+  {
+    "IdFuente": "F015",
+    "TipoFuente": "Web",
+    "FechaCarga": "2025-01-28"
+  },
+  {
+    "IdFuente": "F016",
+    "TipoFuente": "Web",
+    "FechaCarga": "2025-02-12"
+  },
+  {
+    "IdFuente": "F017",
+    "TipoFuente": "Web",
+    "FechaCarga": "2025-03-29"
+  },
+  {
+    "IdFuente": "F018",
+    "TipoFuente": "Red Social",
+    "FechaCarga": "2025-07-21"
+  },
+  {
+    "IdFuente": "F019",
+    "TipoFuente": "Web",
+    "FechaCarga": "2025-07-17"
+  },
+  {
+    "IdFuente": "F020",
+    "TipoFuente": "Red Social",
+    "FechaCarga": "2025-01-01"
+  },
+  {
+    "IdFuente": "F021",
+    "TipoFuente": "Red Social",
+    "FechaCarga": "2025-01-14"
+  },
+  {
+    "IdFuente": "F022",
+    "TipoFuente": "CSV",
+    "FechaCarga": "2025-01-21"
+  },
+  {
+    "IdFuente": "F023",
+    "TipoFuente": "Red Social",
+    "FechaCarga": "2025-01-26"
+  },
+  {
+    "IdFuente": "F024",
+    "TipoFuente": "Web",
+    "FechaCarga": "2025-02-15"
+  },
+  {
+    "IdFuente": "F025",
+    "TipoFuente": "CSV",
+    "FechaCarga": "2025-07-10"
+  },
+  {
+    "IdFuente": "F026",
+    "TipoFuente": "Red Social",
+    "FechaCarga": "2025-01-26"
+  },
+  {
+    "IdFuente": "F027",
+    "TipoFuente": "Web",
+    "FechaCarga": "2025-01-25"
+  },
+  {
+    "IdFuente": "F028",
+    "TipoFuente": "Web",
+    "FechaCarga": "2025-07-20"
+  },
+  {
+    "IdFuente": "F029",
+    "TipoFuente": "Web",
+    "FechaCarga": "2025-08-19"
+  },
+  {
+    "IdFuente": "F030",
+    "TipoFuente": "Red Social",
+    "FechaCarga": "2025-08-29"
+  },
+  {
+    "IdFuente": "F031",
+    "TipoFuente": "Web",
+    "FechaCarga": "2025-07-12"
+  },
+  {
+    "IdFuente": "F032",
+    "TipoFuente": "Web",
+    "FechaCarga": "2025-04-05"
+  },
+  {
+    "IdFuente": "F033",
+    "TipoFuente": "Web",
+    "FechaCarga": "2025-08-16"
+  },
+  {
+    "IdFuente": "F034",
+    "TipoFuente": "CSV",
+    "FechaCarga": "2025-02-16"
+  },
+  {
+    "IdFuente": "F035",
+    "TipoFuente": "CSV",
+    "FechaCarga": "2025-07-26"
+  },
+  {
+    "IdFuente": "F036",
+    "TipoFuente": "Web",
+    "FechaCarga": "2025-08-23"
+  },
+  {
+    "IdFuente": "F037",
+    "TipoFuente": "Web",
+    "FechaCarga": "2025-07-10"
+  },
+  {
+    "IdFuente": "F038",
+    "TipoFuente": "CSV",
+    "FechaCarga": "2025-02-05"
+  },
+  {
+    "IdFuente": "F039",
+    "TipoFuente": "CSV",
+    "FechaCarga": "2025-09-04"
+  },
+  {
+    "IdFuente": "F040",
+    "TipoFuente": "Web",
+    "FechaCarga": "2025-07-09"
+  },
+  {
+    "IdFuente": "F041",
+    "TipoFuente": "Web",
+    "FechaCarga": "2025-01-19"
+  },
+  {
+    "IdFuente": "F042",
+    "TipoFuente": "Red Social",
+    "FechaCarga": "2025-05-02"
+  },
+  {
+    "IdFuente": "F043",
+    "TipoFuente": "Web",
+    "FechaCarga": "2025-01-30"
+  },
+  {
+    "IdFuente": "F044",
+    "TipoFuente": "Web",
+    "FechaCarga": "2025-09-12"
+  },
+  {
+    "IdFuente": "F045",
+    "TipoFuente": "Red Social",
+    "FechaCarga": "2025-07-22"
+  },
+  {
+    "IdFuente": "F046",
+    "TipoFuente": "CSV",
+    "FechaCarga": "2025-03-25"
+  },
+  {
+    "IdFuente": "F047",
+    "TipoFuente": "Web",
+    "FechaCarga": "2025-05-01"
+  },
+  {
+    "IdFuente": "F048",
+    "TipoFuente": "Web",
+    "FechaCarga": "2025-06-05"
+  },
+  {
+    "IdFuente": "F049",
+    "TipoFuente": "Red Social",
+    "FechaCarga": "2025-07-17"
+  },
+  {
+    "IdFuente": "F050",
+    "TipoFuente": "CSV",
+    "FechaCarga": "2025-02-25"
+  },
+  {
+    "IdFuente": "F051",
+    "TipoFuente": "CSV",
+    "FechaCarga": "2025-07-16"
+  },
+  {
+    "IdFuente": "F052",
+    "TipoFuente": "Web",
+    "FechaCarga": "2025-07-10"
+  },
+  {
+    "IdFuente": "F053",
+    "TipoFuente": "Red Social",
+    "FechaCarga": "2025-03-18"
+  },
+  {
+    "IdFuente": "F054",
+    "TipoFuente": "Web",
+    "FechaCarga": "2025-07-03"
+  },
+  {
+    "IdFuente": "F055",
+    "TipoFuente": "Web",
+    "FechaCarga": "2025-07-26"
+  },
+  {
+    "IdFuente": "F056",
+    "TipoFuente": "Web",
+    "FechaCarga": "2025-09-10"
+  },
+  {
+    "IdFuente": "F057",
+    "TipoFuente": "Web",
+    "FechaCarga": "2025-06-10"
+  },
+  {
+    "IdFuente": "F058",
+    "TipoFuente": "CSV",
+    "FechaCarga": "2025-05-12"
+  },
+  {
+    "IdFuente": "F059",
+    "TipoFuente": "Web",
+    "FechaCarga": "2025-07-31"
+  },
+  {
+    "IdFuente": "F060",
+    "TipoFuente": "Web",
+    "FechaCarga": "2025-05-08"
+  },
+  {
+    "IdFuente": "F061",
+    "TipoFuente": "Red Social",
+    "FechaCarga": "2025-01-26"
+  },
+  {
+    "IdFuente": "F062",
+    "TipoFuente": "CSV",
+    "FechaCarga": "2025-08-19"
+  },
+  {
+    "IdFuente": "F063",
+    "TipoFuente": "Web",
+    "FechaCarga": "2025-06-06"
+  },
+  {
+    "IdFuente": "F064",
+    "TipoFuente": "CSV",
+    "FechaCarga": "2025-06-18"
+  },
+  {
+    "IdFuente": "F065",
+    "TipoFuente": "CSV",
+    "FechaCarga": "2025-08-12"
+  },
+  {
+    "IdFuente": "F066",
+    "TipoFuente": "Red Social",
+    "FechaCarga": "2025-03-28"
+  },
+  {
+    "IdFuente": "F067",
+    "TipoFuente": "CSV",
+    "FechaCarga": "2025-04-23"
+  },
+  {
+    "IdFuente": "F068",
+    "TipoFuente": "Web",
+    "FechaCarga": "2025-07-10"
+  },
+  {
+    "IdFuente": "F069",
+    "TipoFuente": "Web",
+    "FechaCarga": "2025-01-10"
+  },
+  {
+    "IdFuente": "F070",
+    "TipoFuente": "Web",
+    "FechaCarga": "2025-07-25"
+  },
+  {
+    "IdFuente": "F071",
+    "TipoFuente": "Red Social",
+    "FechaCarga": "2025-05-05"
+  },
+  {
+    "IdFuente": "F072",
+    "TipoFuente": "CSV",
+    "FechaCarga": "2025-08-15"
+  },
+  {
+    "IdFuente": "F073",
+    "TipoFuente": "CSV",
+    "FechaCarga": "2025-03-10"
+  },
+  {
+    "IdFuente": "F074",
+    "TipoFuente": "Red Social",
+    "FechaCarga": "2025-07-07"
+  },
+  {
+    "IdFuente": "F075",
+    "TipoFuente": "CSV",
+    "FechaCarga": "2025-02-20"
+  },
+  {
+    "IdFuente": "F076",
+    "TipoFuente": "CSV",
+    "FechaCarga": "2025-05-21"
+  },
+  {
+    "IdFuente": "F077",
+    "TipoFuente": "Red Social",
+    "FechaCarga": "2025-08-07"
+  },
+  {
+    "IdFuente": "F078",
+    "TipoFuente": "CSV",
+    "FechaCarga": "2025-08-04"
+  },
+  {
+    "IdFuente": "F079",
+    "TipoFuente": "CSV",
+    "FechaCarga": "2025-07-21"
+  },
+  {
+    "IdFuente": "F080",
+    "TipoFuente": "CSV",
+    "FechaCarga": "2025-06-13"
+  },
+  {
+    "IdFuente": "F081",
+    "TipoFuente": "Red Social",
+    "FechaCarga": "2025-02-23"
+  },
+  {
+    "IdFuente": "F082",
+    "TipoFuente": "Red Social",
+    "FechaCarga": "2025-06-23"
+  },
+  {
+    "IdFuente": "F083",
+    "TipoFuente": "Web",
+    "FechaCarga": "2025-02-18"
+  },
+  {
+    "IdFuente": "F084",
+    "TipoFuente": "Red Social",
+    "FechaCarga": "2025-03-28"
+  },
+  {
+    "IdFuente": "F085",
+    "TipoFuente": "Web",
+    "FechaCarga": "2025-04-18"
+  },
+  {
+    "IdFuente": "F086",
+    "TipoFuente": "CSV",
+    "FechaCarga": "2025-04-15"
+  },
+  {
+    "IdFuente": "F087",
+    "TipoFuente": "Web",
+    "FechaCarga": "2025-02-03"
+  },
+  {
+    "IdFuente": "F088",
+    "TipoFuente": "Red Social",
+    "FechaCarga": "2025-04-02"
+  },
+  {
+    "IdFuente": "F089",
+    "TipoFuente": "Web",
+    "FechaCarga": "2025-04-13"
+  },
+  {
+    "IdFuente": "F090",
+    "TipoFuente": "Web",
+    "FechaCarga": "2025-05-29"
+  },
+  {
+    "IdFuente": "F091",
+    "TipoFuente": "Web",
+    "FechaCarga": "2025-08-24"
+  },
+  {
+    "IdFuente": "F092",
+    "TipoFuente": "Red Social",
+    "FechaCarga": "2025-05-29"
+  },
+  {
+    "IdFuente": "F093",
+    "TipoFuente": "Web",
+    "FechaCarga": "2025-07-13"
+  },
+  {
+    "IdFuente": "F094",
+    "TipoFuente": "Red Social",
+    "FechaCarga": "2025-08-15"
+  },
+  {
+    "IdFuente": "F095",
+    "TipoFuente": "Red Social",
+    "FechaCarga": "2025-01-01"
+  },
+  {
+    "IdFuente": "F096",
+    "TipoFuente": "Red Social",
+    "FechaCarga": "2025-02-04"
+  },
+  {
+    "IdFuente": "F097",
+    "TipoFuente": "CSV",
+    "FechaCarga": "2025-03-22"
+  },
+  {
+    "IdFuente": "F098",
+    "TipoFuente": "Red Social",
+    "FechaCarga": "2025-03-19"
+  },
+  {
+    "IdFuente": "F099",
+    "TipoFuente": "Web",
+    "FechaCarga": "2025-06-14"
+  },
+  {
+    "IdFuente": "F100",
+    "TipoFuente": "Web",
+    "FechaCarga": "2025-04-02"
+  }
+]

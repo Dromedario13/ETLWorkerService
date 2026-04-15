@@ -1,0 +1,1002 @@
+[
+  {
+    "IdProducto": 1,
+    "Nombre": "Producto_1",
+    "Categoria": "Juguetes"
+  },
+  {
+    "IdProducto": 2,
+    "Nombre": "Producto_2",
+    "Categoria": "Electr\u00F3nica"
+  },
+  {
+    "IdProducto": 3,
+    "Nombre": "Producto_3",
+    "Categoria": "Juguetes"
+  },
+  {
+    "IdProducto": 4,
+    "Nombre": "Producto_4",
+    "Categoria": "Ropa"
+  },
+  {
+    "IdProducto": 5,
+    "Nombre": "Producto_5",
+    "Categoria": "Juguetes"
+  },
+  {
+    "IdProducto": 6,
+    "Nombre": "Producto_6",
+    "Categoria": "Hogar"
+  },
+  {
+    "IdProducto": 7,
+    "Nombre": "Producto_7",
+    "Categoria": "Ropa"
+  },
+  {
+    "IdProducto": 8,
+    "Nombre": "Producto_8",
+    "Categoria": "Deportes"
+  },
+  {
+    "IdProducto": 9,
+    "Nombre": "Producto_9",
+    "Categoria": "Hogar"
+  },
+  {
+    "IdProducto": 10,
+    "Nombre": "Producto_10",
+    "Categoria": "Electr\u00F3nica"
+  },
+  {
+    "IdProducto": 11,
+    "Nombre": "Producto_11",
+    "Categoria": "Hogar"
+  },
+  {
+    "IdProducto": 12,
+    "Nombre": "Producto_12",
+    "Categoria": "Hogar"
+  },
+  {
+    "IdProducto": 13,
+    "Nombre": "Producto_13",
+    "Categoria": "Electr\u00F3nica"
+  },
+  {
+    "IdProducto": 14,
+    "Nombre": "Producto_14",
+    "Categoria": "Hogar"
+  },
+  {
+    "IdProducto": 15,
+    "Nombre": "Producto_15",
+    "Categoria": "Juguetes"
+  },
+  {
+    "IdProducto": 16,
+    "Nombre": "Producto_16",
+    "Categoria": "Deportes"
+  },
+  {
+    "IdProducto": 17,
+    "Nombre": "Producto_17",
+    "Categoria": "Electr\u00F3nica"
+  },
+  {
+    "IdProducto": 18,
+    "Nombre": "Producto_18",
+    "Categoria": "Ropa"
+  },
+  {
+    "IdProducto": 19,
+    "Nombre": "Producto_19",
+    "Categoria": "Deportes"
+  },
+  {
+    "IdProducto": 20,
+    "Nombre": "Producto_20",
+    "Categoria": "Ropa"
+  },
+  {
+    "IdProducto": 21,
+    "Nombre": "Producto_21",
+    "Categoria": "Deportes"
+  },
+  {
+    "IdProducto": 22,
+    "Nombre": "Producto_22",
+    "Categoria": "Juguetes"
+  },
+  {
+    "IdProducto": 23,
+    "Nombre": "Producto_23",
+    "Categoria": "Deportes"
+  },
+  {
+    "IdProducto": 24,
+    "Nombre": "Producto_24",
+    "Categoria": "Juguetes"
+  },
+  {
+    "IdProducto": 25,
+    "Nombre": "Producto_25",
+    "Categoria": "Deportes"
+  },
+  {
+    "IdProducto": 26,
+    "Nombre": "Producto_26",
+    "Categoria": "Hogar"
+  },
+  {
+    "IdProducto": 27,
+    "Nombre": "Producto_27",
+    "Categoria": "Ropa"
+  },
+  {
+    "IdProducto": 28,
+    "Nombre": "Producto_28",
+    "Categoria": "Hogar"
+  },
+  {
+    "IdProducto": 29,
+    "Nombre": "Producto_29",
+    "Categoria": "Electr\u00F3nica"
+  },
+  {
+    "IdProducto": 30,
+    "Nombre": "Producto_30",
+    "Categoria": "Juguetes"
+  },
+  {
+    "IdProducto": 31,
+    "Nombre": "Producto_31",
+    "Categoria": "Juguetes"
+  },
+  {
+    "IdProducto": 32,
+    "Nombre": "Producto_32",
+    "Categoria": "Hogar"
+  },
+  {
+    "IdProducto": 33,
+    "Nombre": "Producto_33",
+    "Categoria": "Juguetes"
+  },
+  {
+    "IdProducto": 34,
+    "Nombre": "Producto_34",
+    "Categoria": "Juguetes"
+  },
+  {
+    "IdProducto": 35,
+    "Nombre": "Producto_35",
+    "Categoria": "Hogar"
+  },
+  {
+    "IdProducto": 36,
+    "Nombre": "Producto_36",
+    "Categoria": "Hogar"
+  },
+  {
+    "IdProducto": 37,
+    "Nombre": "Producto_37",
+    "Categoria": "Hogar"
+  },
+  {
+    "IdProducto": 38,
+    "Nombre": "Producto_38",
+    "Categoria": "Ropa"
+  },
+  {
+    "IdProducto": 39,
+    "Nombre": "Producto_39",
+    "Categoria": "Electr\u00F3nica"
+  },
+  {
+    "IdProducto": 40,
+    "Nombre": "Producto_40",
+    "Categoria": "Electr\u00F3nica"
+  },
+  {
+    "IdProducto": 41,
+    "Nombre": "Producto_41",
+    "Categoria": "Electr\u00F3nica"
+  },
+  {
+    "IdProducto": 42,
+    "Nombre": "Producto_42",
+    "Categoria": "Hogar"
+  },
+  {
+    "IdProducto": 43,
+    "Nombre": "Producto_43",
+    "Categoria": "Hogar"
+  },
+  {
+    "IdProducto": 44,
+    "Nombre": "Producto_44",
+    "Categoria": "Juguetes"
+  },
+  {
+    "IdProducto": 45,
+    "Nombre": "Producto_45",
+    "Categoria": "Electr\u00F3nica"
+  },
+  {
+    "IdProducto": 46,
+    "Nombre": "Producto_46",
+    "Categoria": "Deportes"
+  },
+  {
+    "IdProducto": 47,
+    "Nombre": "Producto_47",
+    "Categoria": "Juguetes"
+  },
+  {
+    "IdProducto": 48,
+    "Nombre": "Producto_48",
+    "Categoria": "Hogar"
+  },
+  {
+    "IdProducto": 49,
+    "Nombre": "Producto_49",
+    "Categoria": "Juguetes"
+  },
+  {
+    "IdProducto": 50,
+    "Nombre": "Producto_50",
+    "Categoria": "Ropa"
+  },
+  {
+    "IdProducto": 51,
+    "Nombre": "Producto_51",
+    "Categoria": "Electr\u00F3nica"
+  },
+  {
+    "IdProducto": 52,
+    "Nombre": "Producto_52",
+    "Categoria": "Electr\u00F3nica"
+  },
+  {
+    "IdProducto": 53,
+    "Nombre": "Producto_53",
+    "Categoria": "Hogar"
+  },
+  {
+    "IdProducto": 54,
+    "Nombre": "Producto_54",
+    "Categoria": "Juguetes"
+  },
+  {
+    "IdProducto": 55,
+    "Nombre": "Producto_55",
+    "Categoria": "Deportes"
+  },
+  {
+    "IdProducto": 56,
+    "Nombre": "Producto_56",
+    "Categoria": "Electr\u00F3nica"
+  },
+  {
+    "IdProducto": 57,
+    "Nombre": "Producto_57",
+    "Categoria": "Deportes"
+  },
+  {
+    "IdProducto": 58,
+    "Nombre": "Producto_58",
+    "Categoria": "Electr\u00F3nica"
+  },
+  {
+    "IdProducto": 59,
+    "Nombre": "Producto_59",
+    "Categoria": "Ropa"
+  },
+  {
+    "IdProducto": 60,
+    "Nombre": "Producto_60",
+    "Categoria": "Electr\u00F3nica"
+  },
+  {
+    "IdProducto": 61,
+    "Nombre": "Producto_61",
+    "Categoria": "Hogar"
+  },
+  {
+    "IdProducto": 62,
+    "Nombre": "Producto_62",
+    "Categoria": "Ropa"
+  },
+  {
+    "IdProducto": 63,
+    "Nombre": "Producto_63",
+    "Categoria": "Juguetes"
+  },
+  {
+    "IdProducto": 64,
+    "Nombre": "Producto_64",
+    "Categoria": "Hogar"
+  },
+  {
+    "IdProducto": 65,
+    "Nombre": "Producto_65",
+    "Categoria": "Juguetes"
+  },
+  {
+    "IdProducto": 66,
+    "Nombre": "Producto_66",
+    "Categoria": "Electr\u00F3nica"
+  },
+  {
+    "IdProducto": 67,
+    "Nombre": "Producto_67",
+    "Categoria": "Juguetes"
+  },
+  {
+    "IdProducto": 68,
+    "Nombre": "Producto_68",
+    "Categoria": "Juguetes"
+  },
+  {
+    "IdProducto": 69,
+    "Nombre": "Producto_69",
+    "Categoria": "Ropa"
+  },
+  {
+    "IdProducto": 70,
+    "Nombre": "Producto_70",
+    "Categoria": "Electr\u00F3nica"
+  },
+  {
+    "IdProducto": 71,
+    "Nombre": "Producto_71",
+    "Categoria": "Deportes"
+  },
+  {
+    "IdProducto": 72,
+    "Nombre": "Producto_72",
+    "Categoria": "Electr\u00F3nica"
+  },
+  {
+    "IdProducto": 73,
+    "Nombre": "Producto_73",
+    "Categoria": "Deportes"
+  },
+  {
+    "IdProducto": 74,
+    "Nombre": "Producto_74",
+    "Categoria": "Electr\u00F3nica"
+  },
+  {
+    "IdProducto": 75,
+    "Nombre": "Producto_75",
+    "Categoria": "Juguetes"
+  },
+  {
+    "IdProducto": 76,
+    "Nombre": "Producto_76",
+    "Categoria": "Juguetes"
+  },
+  {
+    "IdProducto": 77,
+    "Nombre": "Producto_77",
+    "Categoria": "Juguetes"
+  },
+  {
+    "IdProducto": 78,
+    "Nombre": "Producto_78",
+    "Categoria": "Electr\u00F3nica"
+  },
+  {
+    "IdProducto": 79,
+    "Nombre": "Producto_79",
+    "Categoria": "Juguetes"
+  },
+  {
+    "IdProducto": 80,
+    "Nombre": "Producto_80",
+    "Categoria": "Hogar"
+  },
+  {
+    "IdProducto": 81,
+    "Nombre": "Producto_81",
+    "Categoria": "Electr\u00F3nica"
+  },
+  {
+    "IdProducto": 82,
+    "Nombre": "Producto_82",
+    "Categoria": "Juguetes"
+  },
+  {
+    "IdProducto": 83,
+    "Nombre": "Producto_83",
+    "Categoria": "Deportes"
+  },
+  {
+    "IdProducto": 84,
+    "Nombre": "Producto_84",
+    "Categoria": "Ropa"
+  },
+  {
+    "IdProducto": 85,
+    "Nombre": "Producto_85",
+    "Categoria": "Hogar"
+  },
+  {
+    "IdProducto": 86,
+    "Nombre": "Producto_86",
+    "Categoria": "Hogar"
+  },
+  {
+    "IdProducto": 87,
+    "Nombre": "Producto_87",
+    "Categoria": "Ropa"
+  },
+  {
+    "IdProducto": 88,
+    "Nombre": "Producto_88",
+    "Categoria": "Juguetes"
+  },
+  {
+    "IdProducto": 89,
+    "Nombre": "Producto_89",
+    "Categoria": "Juguetes"
+  },
+  {
+    "IdProducto": 90,
+    "Nombre": "Producto_90",
+    "Categoria": "Juguetes"
+  },
+  {
+    "IdProducto": 91,
+    "Nombre": "Producto_91",
+    "Categoria": "Juguetes"
+  },
+  {
+    "IdProducto": 92,
+    "Nombre": "Producto_92",
+    "Categoria": "Juguetes"
+  },
+  {
+    "IdProducto": 93,
+    "Nombre": "Producto_93",
+    "Categoria": "Deportes"
+  },
+  {
+    "IdProducto": 94,
+    "Nombre": "Producto_94",
+    "Categoria": "Juguetes"
+  },
+  {
+    "IdProducto": 95,
+    "Nombre": "Producto_95",
+    "Categoria": "Ropa"
+  },
+  {
+    "IdProducto": 96,
+    "Nombre": "Producto_96",
+    "Categoria": "Juguetes"
+  },
+  {
+    "IdProducto": 97,
+    "Nombre": "Producto_97",
+    "Categoria": "Juguetes"
+  },
+  {
+    "IdProducto": 98,
+    "Nombre": "Producto_98",
+    "Categoria": "Deportes"
+  },
+  {
+    "IdProducto": 99,
+    "Nombre": "Producto_99",
+    "Categoria": "Juguetes"
+  },
+  {
+    "IdProducto": 100,
+    "Nombre": "Producto_100",
+    "Categoria": "Ropa"
+  },
+  {
+    "IdProducto": 101,
+    "Nombre": "Producto_101",
+    "Categoria": "Hogar"
+  },
+  {
+    "IdProducto": 102,
+    "Nombre": "Producto_102",
+    "Categoria": "Electr\u00F3nica"
+  },
+  {
+    "IdProducto": 103,
+    "Nombre": "Producto_103",
+    "Categoria": "Juguetes"
+  },
+  {
+    "IdProducto": 104,
+    "Nombre": "Producto_104",
+    "Categoria": "Hogar"
+  },
+  {
+    "IdProducto": 105,
+    "Nombre": "Producto_105",
+    "Categoria": "Electr\u00F3nica"
+  },
+  {
+    "IdProducto": 106,
+    "Nombre": "Producto_106",
+    "Categoria": "Deportes"
+  },
+  {
+    "IdProducto": 107,
+    "Nombre": "Producto_107",
+    "Categoria": "Juguetes"
+  },
+  {
+    "IdProducto": 108,
+    "Nombre": "Producto_108",
+    "Categoria": "Electr\u00F3nica"
+  },
+  {
+    "IdProducto": 109,
+    "Nombre": "Producto_109",
+    "Categoria": "Electr\u00F3nica"
+  },
+  {
+    "IdProducto": 110,
+    "Nombre": "Producto_110",
+    "Categoria": "Hogar"
+  },
+  {
+    "IdProducto": 111,
+    "Nombre": "Producto_111",
+    "Categoria": "Ropa"
+  },
+  {
+    "IdProducto": 112,
+    "Nombre": "Producto_112",
+    "Categoria": "Deportes"
+  },
+  {
+    "IdProducto": 113,
+    "Nombre": "Producto_113",
+    "Categoria": "Hogar"
+  },
+  {
+    "IdProducto": 114,
+    "Nombre": "Producto_114",
+    "Categoria": "Juguetes"
+  },
+  {
+    "IdProducto": 115,
+    "Nombre": "Producto_115",
+    "Categoria": "Deportes"
+  },
+  {
+    "IdProducto": 116,
+    "Nombre": "Producto_116",
+    "Categoria": "Ropa"
+  },
+  {
+    "IdProducto": 117,
+    "Nombre": "Producto_117",
+    "Categoria": "Ropa"
+  },
+  {
+    "IdProducto": 118,
+    "Nombre": "Producto_118",
+    "Categoria": "Electr\u00F3nica"
+  },
+  {
+    "IdProducto": 119,
+    "Nombre": "Producto_119",
+    "Categoria": "Hogar"
+  },
+  {
+    "IdProducto": 120,
+    "Nombre": "Producto_120",
+    "Categoria": "Juguetes"
+  },
+  {
+    "IdProducto": 121,
+    "Nombre": "Producto_121",
+    "Categoria": "Deportes"
+  },
+  {
+    "IdProducto": 122,
+    "Nombre": "Producto_122",
+    "Categoria": "Juguetes"
+  },
+  {
+    "IdProducto": 123,
+    "Nombre": "Producto_123",
+    "Categoria": "Juguetes"
+  },
+  {
+    "IdProducto": 124,
+    "Nombre": "Producto_124",
+    "Categoria": "Juguetes"
+  },
+  {
+    "IdProducto": 125,
+    "Nombre": "Producto_125",
+    "Categoria": "Deportes"
+  },
+  {
+    "IdProducto": 126,
+    "Nombre": "Producto_126",
+    "Categoria": "Electr\u00F3nica"
+  },
+  {
+    "IdProducto": 127,
+    "Nombre": "Producto_127",
+    "Categoria": "Deportes"
+  },
+  {
+    "IdProducto": 128,
+    "Nombre": "Producto_128",
+    "Categoria": "Deportes"
+  },
+  {
+    "IdProducto": 129,
+    "Nombre": "Producto_129",
+    "Categoria": "Deportes"
+  },
+  {
+    "IdProducto": 130,
+    "Nombre": "Producto_130",
+    "Categoria": "Electr\u00F3nica"
+  },
+  {
+    "IdProducto": 131,
+    "Nombre": "Producto_131",
+    "Categoria": "Ropa"
+  },
+  {
+    "IdProducto": 132,
+    "Nombre": "Producto_132",
+    "Categoria": "Juguetes"
+  },
+  {
+    "IdProducto": 133,
+    "Nombre": "Producto_133",
+    "Categoria": "Hogar"
+  },
+  {
+    "IdProducto": 134,
+    "Nombre": "Producto_134",
+    "Categoria": "Hogar"
+  },
+  {
+    "IdProducto": 135,
+    "Nombre": "Producto_135",
+    "Categoria": "Hogar"
+  },
+  {
+    "IdProducto": 136,
+    "Nombre": "Producto_136",
+    "Categoria": "Ropa"
+  },
+  {
+    "IdProducto": 137,
+    "Nombre": "Producto_137",
+    "Categoria": "Electr\u00F3nica"
+  },
+  {
+    "IdProducto": 138,
+    "Nombre": "Producto_138",
+    "Categoria": "Juguetes"
+  },
+  {
+    "IdProducto": 139,
+    "Nombre": "Producto_139",
+    "Categoria": "Ropa"
+  },
+  {
+    "IdProducto": 140,
+    "Nombre": "Producto_140",
+    "Categoria": "Electr\u00F3nica"
+  },
+  {
+    "IdProducto": 141,
+    "Nombre": "Producto_141",
+    "Categoria": "Deportes"
+  },
+  {
+    "IdProducto": 142,
+    "Nombre": "Producto_142",
+    "Categoria": "Hogar"
+  },
+  {
+    "IdProducto": 143,
+    "Nombre": "Producto_143",
+    "Categoria": "Ropa"
+  },
+  {
+    "IdProducto": 144,
+    "Nombre": "Producto_144",
+    "Categoria": "Hogar"
+  },
+  {
+    "IdProducto": 145,
+    "Nombre": "Producto_145",
+    "Categoria": "Juguetes"
+  },
+  {
+    "IdProducto": 146,
+    "Nombre": "Producto_146",
+    "Categoria": "Electr\u00F3nica"
+  },
+  {
+    "IdProducto": 147,
+    "Nombre": "Producto_147",
+    "Categoria": "Ropa"
+  },
+  {
+    "IdProducto": 148,
+    "Nombre": "Producto_148",
+    "Categoria": "Hogar"
+  },
+  {
+    "IdProducto": 149,
+    "Nombre": "Producto_149",
+    "Categoria": "Hogar"
+  },
+  {
+    "IdProducto": 150,
+    "Nombre": "Producto_150",
+    "Categoria": "Ropa"
+  },
+  {
+    "IdProducto": 151,
+    "Nombre": "Producto_151",
+    "Categoria": "Ropa"
+  },
+  {
+    "IdProducto": 152,
+    "Nombre": "Producto_152",
+    "Categoria": "Electr\u00F3nica"
+  },
+  {
+    "IdProducto": 153,
+    "Nombre": "Producto_153",
+    "Categoria": "Hogar"
+  },
+  {
+    "IdProducto": 154,
+    "Nombre": "Producto_154",
+    "Categoria": "Electr\u00F3nica"
+  },
+  {
+    "IdProducto": 155,
+    "Nombre": "Producto_155",
+    "Categoria": "Deportes"
+  },
+  {
+    "IdProducto": 156,
+    "Nombre": "Producto_156",
+    "Categoria": "Ropa"
+  },
+  {
+    "IdProducto": 157,
+    "Nombre": "Producto_157",
+    "Categoria": "Juguetes"
+  },
+  {
+    "IdProducto": 158,
+    "Nombre": "Producto_158",
+    "Categoria": "Juguetes"
+  },
+  {
+    "IdProducto": 159,
+    "Nombre": "Producto_159",
+    "Categoria": "Deportes"
+  },
+  {
+    "IdProducto": 160,
+    "Nombre": "Producto_160",
+    "Categoria": "Electr\u00F3nica"
+  },
+  {
+    "IdProducto": 161,
+    "Nombre": "Producto_161",
+    "Categoria": "Ropa"
+  },
+  {
+    "IdProducto": 162,
+    "Nombre": "Producto_162",
+    "Categoria": "Hogar"
+  },
+  {
+    "IdProducto": 163,
+    "Nombre": "Producto_163",
+    "Categoria": "Ropa"
+  },
+  {
+    "IdProducto": 164,
+    "Nombre": "Producto_164",
+    "Categoria": "Juguetes"
+  },
+  {
+    "IdProducto": 165,
+    "Nombre": "Producto_165",
+    "Categoria": "Electr\u00F3nica"
+  },
+  {
+    "IdProducto": 166,
+    "Nombre": "Producto_166",
+    "Categoria": "Deportes"
+  },
+  {
+    "IdProducto": 167,
+    "Nombre": "Producto_167",
+    "Categoria": "Hogar"
+  },
+  {
+    "IdProducto": 168,
+    "Nombre": "Producto_168",
+    "Categoria": "Juguetes"
+  },
+  {
+    "IdProducto": 169,
+    "Nombre": "Producto_169",
+    "Categoria": "Ropa"
+  },
+  {
+    "IdProducto": 170,
+    "Nombre": "Producto_170",
+    "Categoria": "Electr\u00F3nica"
+  },
+  {
+    "IdProducto": 171,
+    "Nombre": "Producto_171",
+    "Categoria": "Juguetes"
+  },
+  {
+    "IdProducto": 172,
+    "Nombre": "Producto_172",
+    "Categoria": "Hogar"
+  },
+  {
+    "IdProducto": 173,
+    "Nombre": "Producto_173",
+    "Categoria": "Juguetes"
+  },
+  {
+    "IdProducto": 174,
+    "Nombre": "Producto_174",
+    "Categoria": "Deportes"
+  },
+  {
+    "IdProducto": 175,
+    "Nombre": "Producto_175",
+    "Categoria": "Deportes"
+  },
+  {
+    "IdProducto": 176,
+    "Nombre": "Producto_176",
+    "Categoria": "Ropa"
+  },
+  {
+    "IdProducto": 177,
+    "Nombre": "Producto_177",
+    "Categoria": "Deportes"
+  },
+  {
+    "IdProducto": 178,
+    "Nombre": "Producto_178",
+    "Categoria": "Juguetes"
+  },
+  {
+    "IdProducto": 179,
+    "Nombre": "Producto_179",
+    "Categoria": "Juguetes"
+  },
+  {
+    "IdProducto": 180,
+    "Nombre": "Producto_180",
+    "Categoria": "Juguetes"
+  },
+  {
+    "IdProducto": 181,
+    "Nombre": "Producto_181",
+    "Categoria": "Juguetes"
+  },
+  {
+    "IdProducto": 182,
+    "Nombre": "Producto_182",
+    "Categoria": "Deportes"
+  },
+  {
+    "IdProducto": 183,
+    "Nombre": "Producto_183",
+    "Categoria": "Hogar"
+  },
+  {
+    "IdProducto": 184,
+    "Nombre": "Producto_184",
+    "Categoria": "Deportes"
+  },
+  {
+    "IdProducto": 185,
+    "Nombre": "Producto_185",
+    "Categoria": "Hogar"
+  },
+  {
+    "IdProducto": 186,
+    "Nombre": "Producto_186",
+    "Categoria": "Hogar"
+  },
+  {
+    "IdProducto": 187,
+    "Nombre": "Producto_187",
+    "Categoria": "Juguetes"
+  },
+  {
+    "IdProducto": 188,
+    "Nombre": "Producto_188",
+    "Categoria": "Deportes"
+  },
+  {
+    "IdProducto": 189,
+    "Nombre": "Producto_189",
+    "Categoria": "Ropa"
+  },
+  {
+    "IdProducto": 190,
+    "Nombre": "Producto_190",
+    "Categoria": "Hogar"
+  },
+  {
+    "IdProducto": 191,
+    "Nombre": "Producto_191",
+    "Categoria": "Electr\u00F3nica"
+  },
+  {
+    "IdProducto": 192,
+    "Nombre": "Producto_192",
+    "Categoria": "Hogar"
+  },
+  {
+    "IdProducto": 193,
+    "Nombre": "Producto_193",
+    "Categoria": "Ropa"
+  },
+  {
+    "IdProducto": 194,
+    "Nombre": "Producto_194",
+    "Categoria": "Deportes"
+  },
+  {
+    "IdProducto": 195,
+    "Nombre": "Producto_195",
+    "Categoria": "Deportes"
+  },
+  {
+    "IdProducto": 196,
+    "Nombre": "Producto_196",
+    "Categoria": "Hogar"
+  },
+  {
+    "IdProducto": 197,
+    "Nombre": "Producto_197",
+    "Categoria": "Electr\u00F3nica"
+  },
+  {
+    "IdProducto": 198,
+    "Nombre": "Producto_198",
+    "Categoria": "Ropa"
+  },
+  {
+    "IdProducto": 199,
+    "Nombre": "Producto_199",
+    "Categoria": "Ropa"
+  },
+  {
+    "IdProducto": 200,
+    "Nombre": "Producto_200",
+    "Categoria": "Hogar"
+  }
+]

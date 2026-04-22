@@ -63,6 +63,10 @@ builder.Services.AddTransient<IDimensionLoader, EncuestaLoader>();
 builder.Services.AddTransient<IDimensionLoader, ComentariosSocialesLoader>();
 builder.Services.AddTransient<IDimensionLoader, ReviewWebLoader>();
 builder.Services.AddTransient<LoadingService>();
+//
+builder.Services.AddTransient<IDimensionLoader, FactEncuestaLoader>();
+builder.Services.AddTransient<IDimensionLoader, FactComentariosSocialesLoader>();
+builder.Services.AddTransient<IDimensionLoader, FactReviewWebLoader>();
 
 // Worker
 builder.Services.AddHostedService<EtlWorker>();

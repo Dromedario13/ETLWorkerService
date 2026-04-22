@@ -1,4 +1,4 @@
-﻿using ETLWorker.Abstractions;
+using ETLWorker.Abstractions;
 using ETLWorker.Models;
 using Microsoft.Extensions.Options;
 using MySql.Data.MySqlClient;
@@ -10,7 +10,7 @@ using System.Threading.Tasks;
 
 namespace ETLWorker.Loaders
 {
-    // ── Base para Fact Loaders (con truncado previo) ───────────────────────────
+    // -- Base para Fact Loaders (con truncado previo) ---------------------------
 
     public abstract class BaseFactLoader : BaseLoader
     {
@@ -19,7 +19,7 @@ namespace ETLWorker.Loaders
 
         /// <summary>
         /// Limpia (trunca) la tabla fact antes de cargarla.
-        /// TRUNCATE TABLE es más rápido que DELETE y reinicia los auto-incrementos.
+        /// TRUNCATE TABLE es m�s r�pido que DELETE y reinicia los auto-incrementos.
         /// </summary>
         protected async Task TruncarTablaAsync(MySqlConnection conn, string tabla,
                                                 CancellationToken ct = default)
@@ -40,12 +40,12 @@ namespace ETLWorker.Loaders
         }
     }
 
-    // ── Fact: encuesta ─────────────────────────────────────────────────────────
+    // -- Fact: encuesta ---------------------------------------------------------
 
     /// <summary>
     /// Carga la fact table <c>encuesta</c>.
     /// Proceso:
-    ///   1. Lee los datos del área de staging (encuestas.json).
+    ///   1. Lee los datos del �rea de staging (encuestas.json).
     ///   2. Trunca la tabla encuesta (limpieza previa a la carga).
     ///   3. Inserta cada registro con los campos:
     ///      id_opinion, id_cliente, id_producto, fecha, comentario,
@@ -53,7 +53,7 @@ namespace ETLWorker.Loaders
     /// </summary>
     public sealed class FactEncuestaLoader : BaseFactLoader, IDimensionLoader
     {
-        public string TableName => "encuesta";
+        public string TableName => "fact_encuesta";
 
         public FactEncuestaLoader(IOptions<DimensionLoaderOptions> opts,
                                    ILogger<FactEncuestaLoader> log)
@@ -64,17 +64,17 @@ namespace ETLWorker.Loaders
             var lista = LeerStaging<Encuesta>("encuestas");
             if (lista.Count == 0)
             {
-                _log.LogWarning("[FactLoader] encuesta: staging vacío, se omite la carga.");
+                _log.LogWarning("[FactLoader] encuesta: staging vac�o, se omite la carga.");
                 return 0;
             }
 
             using var conn = AbrirConexion();
             await conn.OpenAsync(ct);
 
-            // ── Paso 1: Limpiar la tabla ──
+            // -- Paso 1: Limpiar la tabla --
             await TruncarTablaAsync(conn, "encuesta", ct);
 
-            // ── Paso 2: Insertar registros ──
+            // -- Paso 2: Insertar registros --
             int insertados = 0;
             const string sql = @"
             INSERT INTO encuesta
@@ -107,12 +107,12 @@ namespace ETLWorker.Loaders
         }
     }
 
-    // ── Fact: comentarios_sociales ─────────────────────────────────────────────
+    // -- Fact: comentarios_sociales ---------------------------------------------
 
     /// <summary>
     /// Carga la fact table <c>comentarios_sociales</c>.
     /// Proceso:
-    ///   1. Lee los datos del área de staging (comentarios_sociales.json).
+    ///   1. Lee los datos del �rea de staging (comentarios_sociales.json).
     ///   2. Trunca la tabla comentarios_sociales (limpieza previa a la carga).
     ///   3. Inserta cada registro con los campos:
     ///      id_comment, id_cliente, id_producto, fuente, fecha, comentario.
@@ -121,7 +121,7 @@ namespace ETLWorker.Loaders
     /// </summary>
     public sealed class FactComentariosSocialesLoader : BaseFactLoader, IDimensionLoader
     {
-        public string TableName => "comentarios_sociales";
+        public string TableName => "fact_comentarios_sociales";
 
         public FactComentariosSocialesLoader(IOptions<DimensionLoaderOptions> opts,
                                               ILogger<FactComentariosSocialesLoader> log)
@@ -132,17 +132,17 @@ namespace ETLWorker.Loaders
             var lista = LeerStaging<ComentarioSocial>("comentarios_sociales");
             if (lista.Count == 0)
             {
-                _log.LogWarning("[FactLoader] comentarios_sociales: staging vacío, se omite la carga.");
+                _log.LogWarning("[FactLoader] comentarios_sociales: staging vac�o, se omite la carga.");
                 return 0;
             }
 
             using var conn = AbrirConexion();
             await conn.OpenAsync(ct);
 
-            // ── Paso 1: Limpiar la tabla ──
+            // -- Paso 1: Limpiar la tabla --
             await TruncarTablaAsync(conn, "comentarios_sociales", ct);
 
-            // ── Paso 2: Insertar registros ──
+            // -- Paso 2: Insertar registros --
             int insertados = 0;
             const string sql = @"
             INSERT INTO comentarios_sociales
@@ -174,12 +174,12 @@ namespace ETLWorker.Loaders
         }
     }
 
-    // ── Fact: review_web ───────────────────────────────────────────────────────
+    // -- Fact: review_web -------------------------------------------------------
 
     /// <summary>
     /// Carga la fact table <c>review_web</c>.
     /// Proceso:
-    ///   1. Lee los datos del área de staging (reviews_web.json).
+    ///   1. Lee los datos del �rea de staging (reviews_web.json).
     ///   2. Trunca la tabla review_web (limpieza previa a la carga).
     ///   3. Inserta cada registro con los campos:
     ///      id_review, id_cliente, id_producto, fecha, comentario, rating.
@@ -187,7 +187,7 @@ namespace ETLWorker.Loaders
     /// </summary>
     public sealed class FactReviewWebLoader : BaseFactLoader, IDimensionLoader
     {
-        public string TableName => "review_web";
+        public string TableName => "fact_review_web";
 
         public FactReviewWebLoader(IOptions<DimensionLoaderOptions> opts,
                                     ILogger<FactReviewWebLoader> log)
@@ -198,17 +198,17 @@ namespace ETLWorker.Loaders
             var lista = LeerStaging<ReviewWeb>("reviews_web");
             if (lista.Count == 0)
             {
-                _log.LogWarning("[FactLoader] review_web: staging vacío, se omite la carga.");
+                _log.LogWarning("[FactLoader] review_web: staging vac�o, se omite la carga.");
                 return 0;
             }
 
             using var conn = AbrirConexion();
             await conn.OpenAsync(ct);
 
-            // ── Paso 1: Limpiar la tabla ──
+            // -- Paso 1: Limpiar la tabla --
             await TruncarTablaAsync(conn, "review_web", ct);
 
-            // ── Paso 2: Insertar registros ──
+            // -- Paso 2: Insertar registros --
             int insertados = 0;
             const string sql = @"
             INSERT INTO review_web

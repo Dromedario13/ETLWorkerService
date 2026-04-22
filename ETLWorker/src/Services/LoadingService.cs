@@ -26,8 +26,7 @@ public sealed class LoadingService
 
         var orden = new[]
         {
-            "clientes", "productos", "fuente",
-            "encuesta", "comentarios_sociales", "review_web"
+            "clientes", "productos", "fuente", "encuesta", "comentarios_sociales", "review_web", "fact_encuesta", "fact_comentarios_sociales", "fact_review_web"
         };
 
         foreach (var tabla in orden)
@@ -59,3 +58,4 @@ public sealed class LoadingService
         return total;
     }
 }
+

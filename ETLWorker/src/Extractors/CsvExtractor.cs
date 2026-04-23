@@ -1,4 +1,4 @@
-using System.Diagnostics;
+﻿using System.Diagnostics;
 using System.Globalization;
 using CsvHelper;
 using CsvHelper.Configuration;
@@ -8,8 +8,6 @@ using Microsoft.Extensions.Logging;
 using Microsoft.Extensions.Options;
 
 namespace ETLWorker.Extractors;
-
-// ── Opciones de configuración ─────────────────────────────────────────────
 
 public sealed class CsvExtractorOptions
 {
@@ -21,29 +19,23 @@ public sealed class CsvExtractorOptions
     public string ReviewsPath     { get; set; } = "data/web_reviews.csv";
 }
 
-// ── CsvExtractor — implementa IExtractor para múltiples modelos CSV ───────
-
-/// <summary>
-/// Lee y valida los 6 archivos CSV del proyecto analisisopiniones.
-/// Usa CsvHelper con ClassMap para manejar columnas con tildes.
-/// Registra tiempos con Stopwatch para validar rendimiento.
-/// </summary>
 public sealed class CsvExtractor :
     IExtractor<Cliente>,
     IExtractor<Fuente>,
     IExtractor<Producto>,
     IExtractor<Encuesta>,
-    IExtractor<ComentarioSocial>
+    IExtractor<ComentarioSocial>,
+    IExtractor<ReviewWeb>
 {
     private readonly CsvExtractorOptions _opts;
     private readonly ILogger<CsvExtractor> _log;
 
-    // IExtractor<T> requiere SourceName — uno por tipo
-    string IExtractor<Cliente>.SourceName        => "CSV:clients";
-    string IExtractor<Fuente>.SourceName         => "CSV:fuente_datos";
-    string IExtractor<Producto>.SourceName       => "CSV:products";
-    string IExtractor<Encuesta>.SourceName       => "CSV:surveys_part1";
+    string IExtractor<Cliente>.SourceName          => "CSV:clients";
+    string IExtractor<Fuente>.SourceName           => "CSV:fuente_datos";
+    string IExtractor<Producto>.SourceName         => "CSV:products";
+    string IExtractor<Encuesta>.SourceName         => "CSV:surveys_part1";
     string IExtractor<ComentarioSocial>.SourceName => "CSV:social_comments";
+    string IExtractor<ReviewWeb>.SourceName        => "CSV:web_reviews";
 
     public CsvExtractor(IOptions<CsvExtractorOptions> opts,
                         ILogger<CsvExtractor> log)
@@ -51,8 +43,6 @@ public sealed class CsvExtractor :
         _opts = opts.Value;
         _log  = log;
     }
-
-    // ── IExtractor<T> por cada modelo ────────────────────────────────────
 
     Task<IReadOnlyList<Cliente>> IExtractor<Cliente>.ExtractAsync(CancellationToken ct) =>
         Task.Run(() => (IReadOnlyList<Cliente>)Leer<Cliente, MapCliente>(_opts.ClientesPath), ct);
@@ -69,7 +59,8 @@ public sealed class CsvExtractor :
     Task<IReadOnlyList<ComentarioSocial>> IExtractor<ComentarioSocial>.ExtractAsync(CancellationToken ct) =>
         Task.Run(() => (IReadOnlyList<ComentarioSocial>)Leer<ComentarioSocial, MapComentario>(_opts.ComentariosPath), ct);
 
-    // ── Helper genérico con Stopwatch ─────────────────────────────────────
+    Task<IReadOnlyList<ReviewWeb>> IExtractor<ReviewWeb>.ExtractAsync(CancellationToken ct) =>
+        Task.Run(() => (IReadOnlyList<ReviewWeb>)Leer<ReviewWeb, MapReviewWeb>(_opts.ReviewsPath), ct);
 
     private List<T> Leer<T, TMap>(string ruta) where TMap : ClassMap<T>
     {
@@ -96,12 +87,10 @@ public sealed class CsvExtractor :
         var lista = csv.GetRecords<T>().ToList();
 
         sw.Stop();
-        _log.LogInformation("[CsvExtractor] {Archivo,-30} → {Count,5} filas  ({Ms} ms)",
+        _log.LogInformation("[CsvExtractor] {Archivo,-30} -> {Count,5} filas  ({Ms} ms)",
             Path.GetFileName(ruta), lista.Count, sw.ElapsedMilliseconds);
         return lista;
     }
-
-    // ── Mapas CSV → Clases ────────────────────────────────────────────────
 
     private sealed class MapCliente : ClassMap<Cliente>
     {
@@ -129,7 +118,7 @@ public sealed class CsvExtractor :
         {
             Map(m => m.IdProducto).Name("IdProducto");
             Map(m => m.Nombre).Name("Nombre");
-            Map(m => m.Categoria).Name("Categoría").Optional();
+            Map(m => m.Categoria).Name("Categoria").Optional();
         }
     }
 
@@ -146,6 +135,19 @@ public sealed class CsvExtractor :
         }
     }
 
+    private sealed class MapReviewWeb : ClassMap<ReviewWeb>
+    {
+        public MapReviewWeb()
+        {
+            Map(m => m.IdReview).Name("IdReview");
+            Map(m => m.IdCliente).Name("IdCliente").Optional();
+            Map(m => m.IdProducto).Name("IdProducto").Optional();
+            Map(m => m.Fecha).Name("Fecha").Optional();
+            Map(m => m.Comentario).Name("Comentario").Optional();
+            Map(m => m.Rating).Name("Rating").Optional();
+        }
+    }
+
     private sealed class MapEncuesta : ClassMap<Encuesta>
     {
         public MapEncuesta()
@@ -155,8 +157,8 @@ public sealed class CsvExtractor :
             Map(m => m.IdProducto).Name("IdProducto");
             Map(m => m.Fecha).Name("Fecha").Optional();
             Map(m => m.Comentario).Name("Comentario").Optional();
-            Map(m => m.Clasificacion).Name("Clasificación").Optional();
-            Map(m => m.PuntajeSatisfaccion).Name("PuntajeSatisfacción").Optional();
+            Map(m => m.Clasificacion).Name("Clasificacion").Optional();
+            Map(m => m.PuntajeSatisfaccion).Name("PuntajeSatisfaccion").Optional();
             Map(m => m.FuenteEncuesta).Name("Fuente").Optional();
         }
     }

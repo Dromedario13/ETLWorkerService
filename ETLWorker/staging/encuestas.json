@@ -5,8 +5,8 @@
     "IdProducto": 366,
     "Fecha": "2025-07-15",
     "Comentario": "El producto est\u00E1 bien, pero esperaba un poco m\u00E1s de calidad.",
-    "Clasificacion": "Neutra",
-    "PuntajeSatisfaccion": 3,
+    "Clasificacion": null,
+    "PuntajeSatisfaccion": null,
     "FuenteEncuesta": "EncuestaInterna"
   },
   {
@@ -15,8 +15,8 @@
     "IdProducto": 667,
     "Fecha": "2024-12-07",
     "Comentario": "Ni malo ni excelente, simplemente regular.",
-    "Clasificacion": "Neutra",
-    "PuntajeSatisfaccion": 3,
+    "Clasificacion": null,
+    "PuntajeSatisfaccion": null,
     "FuenteEncuesta": "EncuestaInterna"
   },
   {
@@ -25,8 +25,8 @@
     "IdProducto": 953,
     "Fecha": "2025-06-20",
     "Comentario": "Mala calidad, no lo recomiendo para nada.",
-    "Clasificacion": "Negativa",
-    "PuntajeSatisfaccion": 1,
+    "Clasificacion": null,
+    "PuntajeSatisfaccion": null,
     "FuenteEncuesta": "EncuestaInterna"
   },
   {
@@ -35,8 +35,8 @@
     "IdProducto": 961,
     "Fecha": "2025-08-17",
     "Comentario": "El producto est\u00E1 bien, pero esperaba un poco m\u00E1s de calidad.",
-    "Clasificacion": "Neutra",
-    "PuntajeSatisfaccion": 3,
+    "Clasificacion": null,
+    "PuntajeSatisfaccion": null,
     "FuenteEncuesta": "EncuestaInterna"
   },
   {
@@ -45,8 +45,8 @@
     "IdProducto": 607,
     "Fecha": "2024-10-22",
     "Comentario": "El producto lleg\u00F3 en perfecto estado y antes de tiempo.",
-    "Clasificacion": "Positiva",
-    "PuntajeSatisfaccion": 5,
+    "Clasificacion": null,
+    "PuntajeSatisfaccion": null,
     "FuenteEncuesta": "EncuestaInterna"
   },
   {
@@ -55,8 +55,8 @@
     "IdProducto": 89,
     "Fecha": "2025-03-06",
     "Comentario": "El servicio fue r\u00E1pido y eficiente, estoy muy satisfecho.",
-    "Clasificacion": "Positiva",
-    "PuntajeSatisfaccion": 4,
+    "Clasificacion": null,
+    "PuntajeSatisfaccion": null,
     "FuenteEncuesta": "EncuestaInterna"
   },
   {
@@ -65,8 +65,8 @@
     "IdProducto": 478,
     "Fecha": "2025-07-19",
     "Comentario": "El env\u00EDo fue normal, dentro del tiempo esperado.",
-    "Clasificacion": "Neutra",
-    "PuntajeSatisfaccion": 3,
+    "Clasificacion": null,
+    "PuntajeSatisfaccion": null,
     "FuenteEncuesta": "EncuestaInterna"
   },
   {
@@ -75,8 +75,8 @@
     "IdProducto": 388,
     "Fecha": "2025-02-06",
     "Comentario": "Me encanta, es justo lo que necesitaba.",
-    "Clasificacion": "Positiva",
-    "PuntajeSatisfaccion": 5,
+    "Clasificacion": null,
+    "PuntajeSatisfaccion": null,
     "FuenteEncuesta": "EncuestaInterna"
   },
   {
@@ -85,8 +85,8 @@
     "IdProducto": 970,
     "Fecha": "2024-09-19",
     "Comentario": "El servicio fue r\u00E1pido y eficiente, estoy muy satisfecho.",
-    "Clasificacion": "Positiva",
-    "PuntajeSatisfaccion": 5,
+    "Clasificacion": null,
+    "PuntajeSatisfaccion": null,
     "FuenteEncuesta": "EncuestaInterna"
   },
   {
@@ -95,8 +95,8 @@
     "IdProducto": 48,
     "Fecha": "2025-05-29",
     "Comentario": "Me encanta, es justo lo que necesitaba.",
-    "Clasificacion": "Positiva",
-    "PuntajeSatisfaccion": 5,
+    "Clasificacion": null,
+    "PuntajeSatisfaccion": null,
     "FuenteEncuesta": "EncuestaInterna"
   },
   {
@@ -105,8 +105,8 @@
     "IdProducto": 74,
     "Fecha": "2025-02-07",
     "Comentario": "El producto est\u00E1 bien, pero esperaba un poco m\u00E1s de calidad.",
-    "Clasificacion": "Neutra",
-    "PuntajeSatisfaccion": 3,
+    "Clasificacion": null,
+    "PuntajeSatisfaccion": null,
     "FuenteEncuesta": "EncuestaInterna"
   },
   {
@@ -115,8 +115,8 @@
     "IdProducto": 34,
     "Fecha": "2025-05-30",
     "Comentario": "El producto est\u00E1 bien, pero esperaba un poco m\u00E1s de calidad.",
-    "Clasificacion": "Neutra",
-    "PuntajeSatisfaccion": 3,
+    "Clasificacion": null,
+    "PuntajeSatisfaccion": null,
     "FuenteEncuesta": "EncuestaInterna"
   },
   {
@@ -125,8 +125,8 @@
     "IdProducto": 930,
     "Fecha": "2025-04-27",
     "Comentario": "El servicio fue lento y el soporte no resolvi\u00F3 mi problema.",
-    "Clasificacion": "Negativa",
-    "PuntajeSatisfaccion": 2,
+    "Clasificacion": null,
+    "PuntajeSatisfaccion": null,
     "FuenteEncuesta": "EncuestaInterna"
   },
   {
@@ -135,8 +135,8 @@
     "IdProducto": 369,
     "Fecha": "2025-06-23",
     "Comentario": "Ni malo ni excelente, simplemente regular.",
-    "Clasificacion": "Neutra",
-    "PuntajeSatisfaccion": 3,
+    "Clasificacion": null,
+    "PuntajeSatisfaccion": null,
     "FuenteEncuesta": "EncuestaInterna"
   },
   {
@@ -145,8 +145,8 @@
     "IdProducto": 385,
     "Fecha": "2025-04-05",
     "Comentario": "El producto lleg\u00F3 da\u00F1ado y no cumpli\u00F3 con lo prometido.",
-    "Clasificacion": "Negativa",
-    "PuntajeSatisfaccion": 1,
+    "Clasificacion": null,
+    "PuntajeSatisfaccion": null,
     "FuenteEncuesta": "EncuestaInterna"
   },
   {
@@ -155,8 +155,8 @@
     "IdProducto": 750,
     "Fecha": "2025-04-25",
     "Comentario": "El servicio fue r\u00E1pido y eficiente, estoy muy satisfecho.",
-    "Clasificacion": "Positiva",
-    "PuntajeSatisfaccion": 4,
+    "Clasificacion": null,
+    "PuntajeSatisfaccion": null,
     "FuenteEncuesta": "EncuestaInterna"
   },
   {
@@ -165,8 +165,8 @@
     "IdProducto": 339,
     "Fecha": "2024-12-03",
     "Comentario": "El env\u00EDo fue normal, dentro del tiempo esperado.",
-    "Clasificacion": "Neutra",
-    "PuntajeSatisfaccion": 3,
+    "Clasificacion": null,
+    "PuntajeSatisfaccion": null,
     "FuenteEncuesta": "EncuestaInterna"
   },
   {
@@ -175,8 +175,8 @@
     "IdProducto": 390,
     "Fecha": "2025-01-21",
     "Comentario": "El producto lleg\u00F3 da\u00F1ado y no cumpli\u00F3 con lo prometido.",
-    "Clasificacion": "Negativa",
-    "PuntajeSatisfaccion": 1,
+    "Clasificacion": null,
+    "PuntajeSatisfaccion": null,
     "FuenteEncuesta": "EncuestaInterna"
   },
   {
@@ -185,8 +185,8 @@
     "IdProducto": 393,
     "Fecha": "2024-12-07",
     "Comentario": "Excelente calidad, definitivamente volver\u00EDa a comprar.",
-    "Clasificacion": "Positiva",
-    "PuntajeSatisfaccion": 4,
+    "Clasificacion": null,
+    "PuntajeSatisfaccion": null,
     "FuenteEncuesta": "EncuestaInterna"
   },
   {
@@ -195,8 +195,8 @@
     "IdProducto": 271,
     "Fecha": "2025-01-15",
     "Comentario": "Excelente calidad, definitivamente volver\u00EDa a comprar.",
-    "Clasificacion": "Positiva",
-    "PuntajeSatisfaccion": 5,
+    "Clasificacion": null,
+    "PuntajeSatisfaccion": null,
     "FuenteEncuesta": "EncuestaInterna"
   },
   {
@@ -205,8 +205,8 @@
     "IdProducto": 835,
     "Fecha": "2025-03-04",
     "Comentario": "Mala calidad, no lo recomiendo para nada.",
-    "Clasificacion": "Negativa",
-    "PuntajeSatisfaccion": 2,
+    "Clasificacion": null,
+    "PuntajeSatisfaccion": null,
     "FuenteEncuesta": "EncuestaInterna"
   },
   {
@@ -215,8 +215,8 @@
     "IdProducto": 977,
     "Fecha": "2025-04-13",
     "Comentario": "Mala calidad, no lo recomiendo para nada.",
-    "Clasificacion": "Negativa",
-    "PuntajeSatisfaccion": 2,
+    "Clasificacion": null,
+    "PuntajeSatisfaccion": null,
     "FuenteEncuesta": "EncuestaInterna"
   },
   {
@@ -225,8 +225,8 @@
     "IdProducto": 712,
     "Fecha": "2025-01-30",
     "Comentario": "El servicio fue lento y el soporte no resolvi\u00F3 mi problema.",
-    "Clasificacion": "Negativa",
-    "PuntajeSatisfaccion": 2,
+    "Clasificacion": null,
+    "PuntajeSatisfaccion": null,
     "FuenteEncuesta": "EncuestaInterna"
   },
   {
@@ -235,8 +235,8 @@
     "IdProducto": 386,
     "Fecha": "2025-07-13",
     "Comentario": "El producto super\u00F3 mis expectativas, muy recomendable.",
-    "Clasificacion": "Positiva",
-    "PuntajeSatisfaccion": 4,
+    "Clasificacion": null,
+    "PuntajeSatisfaccion": null,
     "FuenteEncuesta": "EncuestaInterna"
   },
   {
@@ -245,8 +245,8 @@
     "IdProducto": 27,
     "Fecha": "2025-07-24",
     "Comentario": "El servicio fue lento y el soporte no resolvi\u00F3 mi problema.",
-    "Clasificacion": "Negativa",
-    "PuntajeSatisfaccion": 2,
+    "Clasificacion": null,
+    "PuntajeSatisfaccion": null,
     "FuenteEncuesta": "EncuestaInterna"
   },
   {
@@ -255,8 +255,8 @@
     "IdProducto": 654,
     "Fecha": "2025-08-20",
     "Comentario": "El producto super\u00F3 mis expectativas, muy recomendable.",
-    "Clasificacion": "Positiva",
-    "PuntajeSatisfaccion": 5,
+    "Clasificacion": null,
+    "PuntajeSatisfaccion": null,
     "FuenteEncuesta": "EncuestaInterna"
   },
   {
@@ -265,8 +265,8 @@
     "IdProducto": 383,
     "Fecha": "2025-04-12",
     "Comentario": "El producto lleg\u00F3 da\u00F1ado y no cumpli\u00F3 con lo prometido.",
-    "Clasificacion": "Negativa",
-    "PuntajeSatisfaccion": 2,
+    "Clasificacion": null,
+    "PuntajeSatisfaccion": null,
     "FuenteEncuesta": "EncuestaInterna"
   },
   {
@@ -275,8 +275,8 @@
     "IdProducto": 592,
     "Fecha": "2025-04-08",
     "Comentario": "El servicio fue lento y el soporte no resolvi\u00F3 mi problema.",
-    "Clasificacion": "Negativa",
-    "PuntajeSatisfaccion": 1,
+    "Clasificacion": null,
+    "PuntajeSatisfaccion": null,
     "FuenteEncuesta": "EncuestaInterna"
   },
   {
@@ -285,8 +285,8 @@
     "IdProducto": 957,
     "Fecha": "2025-08-06",
     "Comentario": "El producto lleg\u00F3 en perfecto estado y antes de tiempo.",
-    "Clasificacion": "Positiva",
-    "PuntajeSatisfaccion": 4,
+    "Clasificacion": null,
+    "PuntajeSatisfaccion": null,
     "FuenteEncuesta": "EncuestaInterna"
   },
   {
@@ -295,8 +295,8 @@
     "IdProducto": 144,
     "Fecha": "2025-02-12",
     "Comentario": "La experiencia fue aceptable, aunque podr\u00EDa mejorar.",
-    "Clasificacion": "Neutra",
-    "PuntajeSatisfaccion": 3,
+    "Clasificacion": null,
+    "PuntajeSatisfaccion": null,
     "FuenteEncuesta": "EncuestaInterna"
   },
   {
@@ -305,8 +305,8 @@
     "IdProducto": 765,
     "Fecha": "2024-12-26",
     "Comentario": "No era lo que esperaba, muy decepcionado.",
-    "Clasificacion": "Negativa",
-    "PuntajeSatisfaccion": 1,
+    "Clasificacion": null,
+    "PuntajeSatisfaccion": null,
     "FuenteEncuesta": "EncuestaInterna"
   },
   {
@@ -315,8 +315,8 @@
     "IdProducto": 953,
     "Fecha": "2024-09-14",
     "Comentario": "Excelente calidad, definitivamente volver\u00EDa a comprar.",
-    "Clasificacion": "Positiva",
-    "PuntajeSatisfaccion": 5,
+    "Clasificacion": null,
+    "PuntajeSatisfaccion": null,
     "FuenteEncuesta": "EncuestaInterna"
   },
   {
@@ -325,8 +325,8 @@
     "IdProducto": 19,
     "Fecha": "2024-09-18",
     "Comentario": "El producto lleg\u00F3 da\u00F1ado y no cumpli\u00F3 con lo prometido.",
-    "Clasificacion": "Negativa",
-    "PuntajeSatisfaccion": 2,
+    "Clasificacion": null,
+    "PuntajeSatisfaccion": null,
     "FuenteEncuesta": "EncuestaInterna"
   },
   {
@@ -335,8 +335,8 @@
     "IdProducto": 340,
     "Fecha": "2025-09-10",
     "Comentario": "El servicio fue r\u00E1pido y eficiente, estoy muy satisfecho.",
-    "Clasificacion": "Positiva",
-    "PuntajeSatisfaccion": 5,
+    "Clasificacion": null,
+    "PuntajeSatisfaccion": null,
     "FuenteEncuesta": "EncuestaInterna"
   },
   {
@@ -345,8 +345,8 @@
     "IdProducto": 771,
     "Fecha": "2024-12-04",
     "Comentario": "Mala calidad, no lo recomiendo para nada.",
-    "Clasificacion": "Negativa",
-    "PuntajeSatisfaccion": 1,
+    "Clasificacion": null,
+    "PuntajeSatisfaccion": null,
     "FuenteEncuesta": "EncuestaInterna"
   },
   {
@@ -355,8 +355,8 @@
     "IdProducto": 733,
     "Fecha": "2024-12-11",
     "Comentario": "El servicio fue lento y el soporte no resolvi\u00F3 mi problema.",
-    "Clasificacion": "Negativa",
-    "PuntajeSatisfaccion": 2,
+    "Clasificacion": null,
+    "PuntajeSatisfaccion": null,
     "FuenteEncuesta": "EncuestaInterna"
   },
   {
@@ -365,8 +365,8 @@
     "IdProducto": 705,
     "Fecha": "2025-07-20",
     "Comentario": "La experiencia fue aceptable, aunque podr\u00EDa mejorar.",
-    "Clasificacion": "Neutra",
-    "PuntajeSatisfaccion": 3,
+    "Clasificacion": null,
+    "PuntajeSatisfaccion": null,
     "FuenteEncuesta": "EncuestaInterna"
   },
   {
@@ -375,8 +375,8 @@
     "IdProducto": 477,
     "Fecha": "2025-08-29",
     "Comentario": "El producto cumple su funci\u00F3n, nada especial.",
-    "Clasificacion": "Neutra",
-    "PuntajeSatisfaccion": 3,
+    "Clasificacion": null,
+    "PuntajeSatisfaccion": null,
     "FuenteEncuesta": "EncuestaInterna"
   },
   {
@@ -385,8 +385,8 @@
     "IdProducto": 513,
     "Fecha": "2025-04-02",
     "Comentario": "El producto lleg\u00F3 da\u00F1ado y no cumpli\u00F3 con lo prometido.",
-    "Clasificacion": "Negativa",
-    "PuntajeSatisfaccion": 1,
+    "Clasificacion": null,
+    "PuntajeSatisfaccion": null,
     "FuenteEncuesta": "EncuestaInterna"
   },
   {
@@ -395,8 +395,8 @@
     "IdProducto": 701,
     "Fecha": "2025-07-16",
     "Comentario": "Me encanta, es justo lo que necesitaba.",
-    "Clasificacion": "Positiva",
-    "PuntajeSatisfaccion": 5,
+    "Clasificacion": null,
+    "PuntajeSatisfaccion": null,
     "FuenteEncuesta": "EncuestaInterna"
   },
   {
@@ -405,8 +405,8 @@
     "IdProducto": 446,
     "Fecha": "2025-01-19",
     "Comentario": "El env\u00EDo fue normal, dentro del tiempo esperado.",
-    "Clasificacion": "Neutra",
-    "PuntajeSatisfaccion": 3,
+    "Clasificacion": null,
+    "PuntajeSatisfaccion": null,
     "FuenteEncuesta": "EncuestaInterna"
   },
   {
@@ -415,8 +415,8 @@
     "IdProducto": 851,
     "Fecha": "2025-06-13",
     "Comentario": "El producto super\u00F3 mis expectativas, muy recomendable.",
-    "Clasificacion": "Positiva",
-    "PuntajeSatisfaccion": 4,
+    "Clasificacion": null,
+    "PuntajeSatisfaccion": null,
     "FuenteEncuesta": "EncuestaInterna"
   },
   {
@@ -425,8 +425,8 @@
     "IdProducto": 376,
     "Fecha": "2025-01-17",
     "Comentario": "Mala calidad, no lo recomiendo para nada.",
-    "Clasificacion": "Negativa",
-    "PuntajeSatisfaccion": 1,
+    "Clasificacion": null,
+    "PuntajeSatisfaccion": null,
     "FuenteEncuesta": "EncuestaInterna"
   },
   {
@@ -435,8 +435,8 @@
     "IdProducto": 46,
     "Fecha": "2025-01-21",
     "Comentario": "El servicio fue lento y el soporte no resolvi\u00F3 mi problema.",
-    "Clasificacion": "Negativa",
-    "PuntajeSatisfaccion": 2,
+    "Clasificacion": null,
+    "PuntajeSatisfaccion": null,
     "FuenteEncuesta": "EncuestaInterna"
   },
   {
@@ -445,8 +445,8 @@
     "IdProducto": 323,
     "Fecha": "2025-01-12",
     "Comentario": "Ni malo ni excelente, simplemente regular.",
-    "Clasificacion": "Neutra",
-    "PuntajeSatisfaccion": 3,
+    "Clasificacion": null,
+    "PuntajeSatisfaccion": null,
     "FuenteEncuesta": "EncuestaInterna"
   },
   {
@@ -455,8 +455,8 @@
     "IdProducto": 618,
     "Fecha": "2025-05-17",
     "Comentario": "El servicio fue r\u00E1pido y eficiente, estoy muy satisfecho.",
-    "Clasificacion": "Positiva",
-    "PuntajeSatisfaccion": 5,
+    "Clasificacion": null,
+    "PuntajeSatisfaccion": null,
     "FuenteEncuesta": "EncuestaInterna"
   },
   {
@@ -465,8 +465,8 @@
     "IdProducto": 122,
     "Fecha": "2025-03-26",
     "Comentario": "El servicio fue lento y el soporte no resolvi\u00F3 mi problema.",
-    "Clasificacion": "Negativa",
-    "PuntajeSatisfaccion": 2,
+    "Clasificacion": null,
+    "PuntajeSatisfaccion": null,
     "FuenteEncuesta": "EncuestaInterna"
   },
   {
@@ -475,8 +475,8 @@
     "IdProducto": 184,
     "Fecha": "2025-08-06",
     "Comentario": "Excelente calidad, definitivamente volver\u00EDa a comprar.",
-    "Clasificacion": "Positiva",
-    "PuntajeSatisfaccion": 5,
+    "Clasificacion": null,
+    "PuntajeSatisfaccion": null,
     "FuenteEncuesta": "EncuestaInterna"
   },
   {
@@ -485,8 +485,8 @@
     "IdProducto": 290,
     "Fecha": "2025-08-25",
     "Comentario": "La experiencia fue aceptable, aunque podr\u00EDa mejorar.",
-    "Clasificacion": "Neutra",
-    "PuntajeSatisfaccion": 3,
+    "Clasificacion": null,
+    "PuntajeSatisfaccion": null,
     "FuenteEncuesta": "EncuestaInterna"
   },
   {
@@ -495,8 +495,8 @@
     "IdProducto": 991,
     "Fecha": "2025-09-07",
     "Comentario": "El producto dej\u00F3 de funcionar al poco tiempo de usarlo.",
-    "Clasificacion": "Negativa",
-    "PuntajeSatisfaccion": 2,
+    "Clasificacion": null,
+    "PuntajeSatisfaccion": null,
     "FuenteEncuesta": "EncuestaInterna"
   },
   {
@@ -505,8 +505,8 @@
     "IdProducto": 889,
     "Fecha": "2025-04-15",
     "Comentario": "Me encanta, es justo lo que necesitaba.",
-    "Clasificacion": "Positiva",
-    "PuntajeSatisfaccion": 5,
+    "Clasificacion": null,
+    "PuntajeSatisfaccion": null,
     "FuenteEncuesta": "EncuestaInterna"
   },
   {
@@ -515,8 +515,8 @@
     "IdProducto": 917,
     "Fecha": "2024-10-25",
     "Comentario": "El producto cumple su funci\u00F3n, nada especial.",
-    "Clasificacion": "Neutra",
-    "PuntajeSatisfaccion": 3,
+    "Clasificacion": null,
+    "PuntajeSatisfaccion": null,
     "FuenteEncuesta": "EncuestaInterna"
   },
   {
@@ -525,8 +525,8 @@
     "IdProducto": 779,
     "Fecha": "2024-09-25",
     "Comentario": "El producto est\u00E1 bien, pero esperaba un poco m\u00E1s de calidad.",
-    "Clasificacion": "Neutra",
-    "PuntajeSatisfaccion": 3,
+    "Clasificacion": null,
+    "PuntajeSatisfaccion": null,
     "FuenteEncuesta": "EncuestaInterna"
   },
   {
@@ -535,8 +535,8 @@
     "IdProducto": 768,
     "Fecha": "2024-11-10",
     "Comentario": "El producto lleg\u00F3 en perfecto estado y antes de tiempo.",
-    "Clasificacion": "Positiva",
-    "PuntajeSatisfaccion": 5,
+    "Clasificacion": null,
+    "PuntajeSatisfaccion": null,
     "FuenteEncuesta": "EncuestaInterna"
   },
   {
@@ -545,8 +545,8 @@
     "IdProducto": 856,
     "Fecha": "2025-01-06",
     "Comentario": "El producto dej\u00F3 de funcionar al poco tiempo de usarlo.",
-    "Clasificacion": "Negativa",
-    "PuntajeSatisfaccion": 2,
+    "Clasificacion": null,
+    "PuntajeSatisfaccion": null,
     "FuenteEncuesta": "EncuestaInterna"
   },
   {
@@ -555,8 +555,8 @@
     "IdProducto": 378,
     "Fecha": "2025-08-09",
     "Comentario": "El env\u00EDo fue normal, dentro del tiempo esperado.",
-    "Clasificacion": "Neutra",
-    "PuntajeSatisfaccion": 3,
+    "Clasificacion": null,
+    "PuntajeSatisfaccion": null,
     "FuenteEncuesta": "EncuestaInterna"
   },
   {
@@ -565,8 +565,8 @@
     "IdProducto": 207,
     "Fecha": "2025-09-03",
     "Comentario": "El producto lleg\u00F3 da\u00F1ado y no cumpli\u00F3 con lo prometido.",
-    "Clasificacion": "Negativa",
-    "PuntajeSatisfaccion": 1,
+    "Clasificacion": null,
+    "PuntajeSatisfaccion": null,
     "FuenteEncuesta": "EncuestaInterna"
   },
   {
@@ -575,8 +575,8 @@
     "IdProducto": 917,
     "Fecha": "2025-08-05",
     "Comentario": "El producto lleg\u00F3 da\u00F1ado y no cumpli\u00F3 con lo prometido.",
-    "Clasificacion": "Negativa",
-    "PuntajeSatisfaccion": 2,
+    "Clasificacion": null,
+    "PuntajeSatisfaccion": null,
     "FuenteEncuesta": "EncuestaInterna"
   },
   {
@@ -585,8 +585,8 @@
     "IdProducto": 149,
     "Fecha": "2025-06-20",
     "Comentario": "El env\u00EDo fue normal, dentro del tiempo esperado.",
-    "Clasificacion": "Neutra",
-    "PuntajeSatisfaccion": 3,
+    "Clasificacion": null,
+    "PuntajeSatisfaccion": null,
     "FuenteEncuesta": "EncuestaInterna"
   },
   {
@@ -595,8 +595,8 @@
     "IdProducto": 962,
     "Fecha": "2025-05-19",
     "Comentario": "El producto lleg\u00F3 da\u00F1ado y no cumpli\u00F3 con lo prometido.",
-    "Clasificacion": "Negativa",
-    "PuntajeSatisfaccion": 2,
+    "Clasificacion": null,
+    "PuntajeSatisfaccion": null,
     "FuenteEncuesta": "EncuestaInterna"
   },
   {
@@ -605,8 +605,8 @@
     "IdProducto": 632,
     "Fecha": "2024-10-08",
     "Comentario": "El producto super\u00F3 mis expectativas, muy recomendable.",
-    "Clasificacion": "Positiva",
-    "PuntajeSatisfaccion": 5,
+    "Clasificacion": null,
+    "PuntajeSatisfaccion": null,
     "FuenteEncuesta": "EncuestaInterna"
   },
   {
@@ -615,8 +615,8 @@
     "IdProducto": 909,
     "Fecha": "2025-02-23",
     "Comentario": "El env\u00EDo fue normal, dentro del tiempo esperado.",
-    "Clasificacion": "Neutra",
-    "PuntajeSatisfaccion": 3,
+    "Clasificacion": null,
+    "PuntajeSatisfaccion": null,
     "FuenteEncuesta": "EncuestaInterna"
   },
   {
@@ -625,8 +625,8 @@
     "IdProducto": 79,
     "Fecha": "2024-11-30",
     "Comentario": "El servicio fue r\u00E1pido y eficiente, estoy muy satisfecho.",
-    "Clasificacion": "Positiva",
-    "PuntajeSatisfaccion": 5,
+    "Clasificacion": null,
+    "PuntajeSatisfaccion": null,
     "FuenteEncuesta": "EncuestaInterna"
   },
   {
@@ -635,8 +635,8 @@
     "IdProducto": 82,
     "Fecha": "2025-06-06",
     "Comentario": "El producto lleg\u00F3 en perfecto estado y antes de tiempo.",
-    "Clasificacion": "Positiva",
-    "PuntajeSatisfaccion": 5,
+    "Clasificacion": null,
+    "PuntajeSatisfaccion": null,
     "FuenteEncuesta": "EncuestaInterna"
   },
   {
@@ -645,8 +645,8 @@
     "IdProducto": 635,
     "Fecha": "2025-01-02",
     "Comentario": "La experiencia fue aceptable, aunque podr\u00EDa mejorar.",
-    "Clasificacion": "Neutra",
-    "PuntajeSatisfaccion": 3,
+    "Clasificacion": null,
+    "PuntajeSatisfaccion": null,
     "FuenteEncuesta": "EncuestaInterna"
   },
   {
@@ -655,8 +655,8 @@
     "IdProducto": 889,
     "Fecha": "2024-12-10",
     "Comentario": "El producto est\u00E1 bien, pero esperaba un poco m\u00E1s de calidad.",
-    "Clasificacion": "Neutra",
-    "PuntajeSatisfaccion": 3,
+    "Clasificacion": null,
+    "PuntajeSatisfaccion": null,
     "FuenteEncuesta": "EncuestaInterna"
   },
   {
@@ -665,8 +665,8 @@
     "IdProducto": 317,
     "Fecha": "2025-04-23",
     "Comentario": "El servicio fue lento y el soporte no resolvi\u00F3 mi problema.",
-    "Clasificacion": "Negativa",
-    "PuntajeSatisfaccion": 1,
+    "Clasificacion": null,
+    "PuntajeSatisfaccion": null,
     "FuenteEncuesta": "EncuestaInterna"
   },
   {
@@ -675,8 +675,8 @@
     "IdProducto": 115,
     "Fecha": "2025-07-02",
     "Comentario": "El producto lleg\u00F3 da\u00F1ado y no cumpli\u00F3 con lo prometido.",
-    "Clasificacion": "Negativa",
-    "PuntajeSatisfaccion": 1,
+    "Clasificacion": null,
+    "PuntajeSatisfaccion": null,
     "FuenteEncuesta": "EncuestaInterna"
   },
   {
@@ -685,8 +685,8 @@
     "IdProducto": 933,
     "Fecha": "2025-08-08",
     "Comentario": "No era lo que esperaba, muy decepcionado.",
-    "Clasificacion": "Negativa",
-    "PuntajeSatisfaccion": 1,
+    "Clasificacion": null,
+    "PuntajeSatisfaccion": null,
     "FuenteEncuesta": "EncuestaInterna"
   },
   {
@@ -695,8 +695,8 @@
     "IdProducto": 462,
     "Fecha": "2024-12-06",
     "Comentario": "El producto dej\u00F3 de funcionar al poco tiempo de usarlo.",
-    "Clasificacion": "Negativa",
-    "PuntajeSatisfaccion": 1,
+    "Clasificacion": null,
+    "PuntajeSatisfaccion": null,
     "FuenteEncuesta": "EncuestaInterna"
   },
   {
@@ -705,8 +705,8 @@
     "IdProducto": 717,
     "Fecha": "2025-08-15",
     "Comentario": "El servicio fue r\u00E1pido y eficiente, estoy muy satisfecho.",
-    "Clasificacion": "Positiva",
-    "PuntajeSatisfaccion": 5,
+    "Clasificacion": null,
+    "PuntajeSatisfaccion": null,
     "FuenteEncuesta": "EncuestaInterna"
   },
   {
@@ -715,8 +715,8 @@
     "IdProducto": 609,
     "Fecha": "2025-07-07",
     "Comentario": "La experiencia fue aceptable, aunque podr\u00EDa mejorar.",
-    "Clasificacion": "Neutra",
-    "PuntajeSatisfaccion": 3,
+    "Clasificacion": null,
+    "PuntajeSatisfaccion": null,
     "FuenteEncuesta": "EncuestaInterna"
   },
   {
@@ -725,8 +725,8 @@
     "IdProducto": 455,
     "Fecha": "2024-11-29",
     "Comentario": "El servicio fue r\u00E1pido y eficiente, estoy muy satisfecho.",
-    "Clasificacion": "Positiva",
-    "PuntajeSatisfaccion": 5,
+    "Clasificacion": null,
+    "PuntajeSatisfaccion": null,
     "FuenteEncuesta": "EncuestaInterna"
   },
   {
@@ -735,8 +735,8 @@
     "IdProducto": 637,
     "Fecha": "2024-10-08",
     "Comentario": "Me encanta, es justo lo que necesitaba.",
-    "Clasificacion": "Positiva",
-    "PuntajeSatisfaccion": 5,
+    "Clasificacion": null,
+    "PuntajeSatisfaccion": null,
     "FuenteEncuesta": "EncuestaInterna"
   },
   {
@@ -745,8 +745,8 @@
     "IdProducto": 503,
     "Fecha": "2025-03-21",
     "Comentario": "El producto est\u00E1 bien, pero esperaba un poco m\u00E1s de calidad.",
-    "Clasificacion": "Neutra",
-    "PuntajeSatisfaccion": 3,
+    "Clasificacion": null,
+    "PuntajeSatisfaccion": null,
     "FuenteEncuesta": "EncuestaInterna"
   },
   {
@@ -755,8 +755,8 @@
     "IdProducto": 753,
     "Fecha": "2024-11-09",
     "Comentario": "El servicio fue r\u00E1pido y eficiente, estoy muy satisfecho.",
-    "Clasificacion": "Positiva",
-    "PuntajeSatisfaccion": 5,
+    "Clasificacion": null,
+    "PuntajeSatisfaccion": null,
     "FuenteEncuesta": "EncuestaInterna"
   },
   {
@@ -765,8 +765,8 @@
     "IdProducto": 236,
     "Fecha": "2024-10-24",
     "Comentario": "El producto lleg\u00F3 da\u00F1ado y no cumpli\u00F3 con lo prometido.",
-    "Clasificacion": "Negativa",
-    "PuntajeSatisfaccion": 2,
+    "Clasificacion": null,
+    "PuntajeSatisfaccion": null,
     "FuenteEncuesta": "EncuestaInterna"
   },
   {
@@ -775,8 +775,8 @@
     "IdProducto": 791,
     "Fecha": "2024-11-02",
     "Comentario": "El servicio fue r\u00E1pido y eficiente, estoy muy satisfecho.",
-    "Clasificacion": "Positiva",
-    "PuntajeSatisfaccion": 5,
+    "Clasificacion": null,
+    "PuntajeSatisfaccion": null,
     "FuenteEncuesta": "EncuestaInterna"
   },
   {
@@ -785,8 +785,8 @@
     "IdProducto": 421,
     "Fecha": "2025-03-05",
     "Comentario": "El producto lleg\u00F3 da\u00F1ado y no cumpli\u00F3 con lo prometido.",
-    "Clasificacion": "Negativa",
-    "PuntajeSatisfaccion": 2,
+    "Clasificacion": null,
+    "PuntajeSatisfaccion": null,
     "FuenteEncuesta": "EncuestaInterna"
   },
   {
@@ -795,8 +795,8 @@
     "IdProducto": 112,
     "Fecha": "2025-05-28",
     "Comentario": "El servicio fue lento y el soporte no resolvi\u00F3 mi problema.",
-    "Clasificacion": "Negativa",
-    "PuntajeSatisfaccion": 2,
+    "Clasificacion": null,
+    "PuntajeSatisfaccion": null,
     "FuenteEncuesta": "EncuestaInterna"
   },
   {
@@ -805,8 +805,8 @@
     "IdProducto": 446,
     "Fecha": "2025-08-13",
     "Comentario": "Excelente calidad, definitivamente volver\u00EDa a comprar.",
-    "Clasificacion": "Positiva",
-    "PuntajeSatisfaccion": 4,
+    "Clasificacion": null,
+    "PuntajeSatisfaccion": null,
     "FuenteEncuesta": "EncuestaInterna"
   },
   {
@@ -815,8 +815,8 @@
     "IdProducto": 627,
     "Fecha": "2025-08-20",
     "Comentario": "El producto dej\u00F3 de funcionar al poco tiempo de usarlo.",
-    "Clasificacion": "Negativa",
-    "PuntajeSatisfaccion": 1,
+    "Clasificacion": null,
+    "PuntajeSatisfaccion": null,
     "FuenteEncuesta": "EncuestaInterna"
   },
   {
@@ -825,8 +825,8 @@
     "IdProducto": 48,
     "Fecha": "2024-09-15",
     "Comentario": "Mala calidad, no lo recomiendo para nada.",
-    "Clasificacion": "Negativa",
-    "PuntajeSatisfaccion": 2,
+    "Clasificacion": null,
+    "PuntajeSatisfaccion": null,
     "FuenteEncuesta": "EncuestaInterna"
   },
   {
@@ -835,8 +835,8 @@
     "IdProducto": 337,
     "Fecha": "2025-01-03",
     "Comentario": "El servicio fue lento y el soporte no resolvi\u00F3 mi problema.",
-    "Clasificacion": "Negativa",
-    "PuntajeSatisfaccion": 2,
+    "Clasificacion": null,
+    "PuntajeSatisfaccion": null,
     "FuenteEncuesta": "EncuestaInterna"
   },
   {
@@ -845,8 +845,8 @@
     "IdProducto": 749,
     "Fecha": "2024-10-14",
     "Comentario": "El producto cumple su funci\u00F3n, nada especial.",
-    "Clasificacion": "Neutra",
-    "PuntajeSatisfaccion": 3,
+    "Clasificacion": null,
+    "PuntajeSatisfaccion": null,
     "FuenteEncuesta": "EncuestaInterna"
   },
   {
@@ -855,8 +855,8 @@
     "IdProducto": 672,
     "Fecha": "2025-01-08",
     "Comentario": "El env\u00EDo fue normal, dentro del tiempo esperado.",
-    "Clasificacion": "Neutra",
-    "PuntajeSatisfaccion": 3,
+    "Clasificacion": null,
+    "PuntajeSatisfaccion": null,
     "FuenteEncuesta": "EncuestaInterna"
   },
   {
@@ -865,8 +865,8 @@
     "IdProducto": 774,
     "Fecha": "2024-11-04",
     "Comentario": "No era lo que esperaba, muy decepcionado.",
-    "Clasificacion": "Negativa",
-    "PuntajeSatisfaccion": 2,
+    "Clasificacion": null,
+    "PuntajeSatisfaccion": null,
     "FuenteEncuesta": "EncuestaInterna"
   },
   {
@@ -875,8 +875,8 @@
     "IdProducto": 864,
     "Fecha": "2024-12-26",
     "Comentario": "El producto lleg\u00F3 en perfecto estado y antes de tiempo.",
-    "Clasificacion": "Positiva",
-    "PuntajeSatisfaccion": 5,
+    "Clasificacion": null,
+    "PuntajeSatisfaccion": null,
     "FuenteEncuesta": "EncuestaInterna"
   },
   {
@@ -885,8 +885,8 @@
     "IdProducto": 971,
     "Fecha": "2025-04-27",
     "Comentario": "El servicio fue lento y el soporte no resolvi\u00F3 mi problema.",
-    "Clasificacion": "Negativa",
-    "PuntajeSatisfaccion": 1,
+    "Clasificacion": null,
+    "PuntajeSatisfaccion": null,
     "FuenteEncuesta": "EncuestaInterna"
   },
   {
@@ -895,8 +895,8 @@
     "IdProducto": 570,
     "Fecha": "2025-08-04",
     "Comentario": "Excelente calidad, definitivamente volver\u00EDa a comprar.",
-    "Clasificacion": "Positiva",
-    "PuntajeSatisfaccion": 5,
+    "Clasificacion": null,
+    "PuntajeSatisfaccion": null,
     "FuenteEncuesta": "EncuestaInterna"
   },
   {
@@ -905,8 +905,8 @@
     "IdProducto": 136,
     "Fecha": "2024-11-30",
     "Comentario": "La experiencia fue aceptable, aunque podr\u00EDa mejorar.",
-    "Clasificacion": "Neutra",
-    "PuntajeSatisfaccion": 3,
+    "Clasificacion": null,
+    "PuntajeSatisfaccion": null,
     "FuenteEncuesta": "EncuestaInterna"
   },
   {
@@ -915,8 +915,8 @@
     "IdProducto": 85,
     "Fecha": "2025-07-28",
     "Comentario": "El servicio fue lento y el soporte no resolvi\u00F3 mi problema.",
-    "Clasificacion": "Negativa",
-    "PuntajeSatisfaccion": 2,
+    "Clasificacion": null,
+    "PuntajeSatisfaccion": null,
     "FuenteEncuesta": "EncuestaInterna"
   },
   {
@@ -925,8 +925,8 @@
     "IdProducto": 152,
     "Fecha": "2024-11-15",
     "Comentario": "El producto super\u00F3 mis expectativas, muy recomendable.",
-    "Clasificacion": "Positiva",
-    "PuntajeSatisfaccion": 4,
+    "Clasificacion": null,
+    "PuntajeSatisfaccion": null,
     "FuenteEncuesta": "EncuestaInterna"
   },
   {
@@ -935,8 +935,8 @@
     "IdProducto": 801,
     "Fecha": "2025-06-11",
     "Comentario": "El producto lleg\u00F3 en perfecto estado y antes de tiempo.",
-    "Clasificacion": "Positiva",
-    "PuntajeSatisfaccion": 4,
+    "Clasificacion": null,
+    "PuntajeSatisfaccion": null,
     "FuenteEncuesta": "EncuestaInterna"
   },
   {
@@ -945,8 +945,8 @@
     "IdProducto": 725,
     "Fecha": "2025-04-23",
     "Comentario": "El producto super\u00F3 mis expectativas, muy recomendable.",
-    "Clasificacion": "Positiva",
-    "PuntajeSatisfaccion": 5,
+    "Clasificacion": null,
+    "PuntajeSatisfaccion": null,
     "FuenteEncuesta": "EncuestaInterna"
   },
   {
@@ -955,8 +955,8 @@
     "IdProducto": 332,
     "Fecha": "2025-03-09",
     "Comentario": "Excelente calidad, definitivamente volver\u00EDa a comprar.",
-    "Clasificacion": "Positiva",
-    "PuntajeSatisfaccion": 5,
+    "Clasificacion": null,
+    "PuntajeSatisfaccion": null,
     "FuenteEncuesta": "EncuestaInterna"
   },
   {
@@ -965,8 +965,8 @@
     "IdProducto": 697,
     "Fecha": "2025-02-03",
     "Comentario": "El servicio fue lento y el soporte no resolvi\u00F3 mi problema.",
-    "Clasificacion": "Negativa",
-    "PuntajeSatisfaccion": 1,
+    "Clasificacion": null,
+    "PuntajeSatisfaccion": null,
     "FuenteEncuesta": "EncuestaInterna"
   },
   {
@@ -975,8 +975,8 @@
     "IdProducto": 153,
     "Fecha": "2025-03-01",
     "Comentario": "El producto cumple su funci\u00F3n, nada especial.",
-    "Clasificacion": "Neutra",
-    "PuntajeSatisfaccion": 3,
+    "Clasificacion": null,
+    "PuntajeSatisfaccion": null,
     "FuenteEncuesta": "EncuestaInterna"
   },
   {
@@ -985,8 +985,8 @@
     "IdProducto": 285,
     "Fecha": "2025-03-05",
     "Comentario": "El producto cumple su funci\u00F3n, nada especial.",
-    "Clasificacion": "Neutra",
-    "PuntajeSatisfaccion": 3,
+    "Clasificacion": null,
+    "PuntajeSatisfaccion": null,
     "FuenteEncuesta": "EncuestaInterna"
   },
   {
@@ -995,8 +995,8 @@
     "IdProducto": 970,
     "Fecha": "2025-08-28",
     "Comentario": "El producto lleg\u00F3 en perfecto estado y antes de tiempo.",
-    "Clasificacion": "Positiva",
-    "PuntajeSatisfaccion": 4,
+    "Clasificacion": null,
+    "PuntajeSatisfaccion": null,
     "FuenteEncuesta": "EncuestaInterna"
   },
   {
@@ -1005,8 +1005,8 @@
     "IdProducto": 710,
     "Fecha": "2024-10-22",
     "Comentario": "No era lo que esperaba, muy decepcionado.",
-    "Clasificacion": "Negativa",
-    "PuntajeSatisfaccion": 1,
+    "Clasificacion": null,
+    "PuntajeSatisfaccion": null,
     "FuenteEncuesta": "EncuestaInterna"
   },
   {
@@ -1015,8 +1015,8 @@
     "IdProducto": 443,
     "Fecha": "2025-07-21",
     "Comentario": "El producto super\u00F3 mis expectativas, muy recomendable.",
-    "Clasificacion": "Positiva",
-    "PuntajeSatisfaccion": 4,
+    "Clasificacion": null,
+    "PuntajeSatisfaccion": null,
     "FuenteEncuesta": "EncuestaInterna"
   },
   {
@@ -1025,8 +1025,8 @@
     "IdProducto": 672,
     "Fecha": "2024-11-23",
     "Comentario": "El env\u00EDo fue normal, dentro del tiempo esperado.",
-    "Clasificacion": "Neutra",
-    "PuntajeSatisfaccion": 3,
+    "Clasificacion": null,
+    "PuntajeSatisfaccion": null,
     "FuenteEncuesta": "EncuestaInterna"
   },
   {
@@ -1035,8 +1035,8 @@
     "IdProducto": 929,
     "Fecha": "2024-12-15",
     "Comentario": "El producto super\u00F3 mis expectativas, muy recomendable.",
-    "Clasificacion": "Positiva",
-    "PuntajeSatisfaccion": 5,
+    "Clasificacion": null,
+    "PuntajeSatisfaccion": null,
     "FuenteEncuesta": "EncuestaInterna"
   },
   {
@@ -1045,8 +1045,8 @@
     "IdProducto": 87,
     "Fecha": "2025-02-13",
     "Comentario": "El servicio fue lento y el soporte no resolvi\u00F3 mi problema.",
-    "Clasificacion": "Negativa",
-    "PuntajeSatisfaccion": 2,
+    "Clasificacion": null,
+    "PuntajeSatisfaccion": null,
     "FuenteEncuesta": "EncuestaInterna"
   },
   {
@@ -1055,8 +1055,8 @@
     "IdProducto": 565,
     "Fecha": "2025-07-17",
     "Comentario": "El servicio fue r\u00E1pido y eficiente, estoy muy satisfecho.",
-    "Clasificacion": "Positiva",
-    "PuntajeSatisfaccion": 4,
+    "Clasificacion": null,
+    "PuntajeSatisfaccion": null,
     "FuenteEncuesta": "EncuestaInterna"
   },
   {
@@ -1065,8 +1065,8 @@
     "IdProducto": 377,
     "Fecha": "2025-02-02",
     "Comentario": "El producto super\u00F3 mis expectativas, muy recomendable.",
-    "Clasificacion": "Positiva",
-    "PuntajeSatisfaccion": 5,
+    "Clasificacion": null,
+    "PuntajeSatisfaccion": null,
     "FuenteEncuesta": "EncuestaInterna"
   },
   {
@@ -1075,8 +1075,8 @@
     "IdProducto": 530,
     "Fecha": "2024-12-02",
     "Comentario": "El servicio fue r\u00E1pido y eficiente, estoy muy satisfecho.",
-    "Clasificacion": "Positiva",
-    "PuntajeSatisfaccion": 4,
+    "Clasificacion": null,
+    "PuntajeSatisfaccion": null,
     "FuenteEncuesta": "EncuestaInterna"
   },
   {
@@ -1085,8 +1085,8 @@
     "IdProducto": 266,
     "Fecha": "2025-01-30",
     "Comentario": "Ni malo ni excelente, simplemente regular.",
-    "Clasificacion": "Neutra",
-    "PuntajeSatisfaccion": 3,
+    "Clasificacion": null,
+    "PuntajeSatisfaccion": null,
     "FuenteEncuesta": "EncuestaInterna"
   },
   {
@@ -1095,8 +1095,8 @@
     "IdProducto": 539,
     "Fecha": "2024-10-25",
     "Comentario": "Excelente calidad, definitivamente volver\u00EDa a comprar.",
-    "Clasificacion": "Positiva",
-    "PuntajeSatisfaccion": 4,
+    "Clasificacion": null,
+    "PuntajeSatisfaccion": null,
     "FuenteEncuesta": "EncuestaInterna"
   },
   {
@@ -1105,8 +1105,8 @@
     "IdProducto": 443,
     "Fecha": "2025-09-03",
     "Comentario": "El producto dej\u00F3 de funcionar al poco tiempo de usarlo.",
-    "Clasificacion": "Negativa",
-    "PuntajeSatisfaccion": 1,
+    "Clasificacion": null,
+    "PuntajeSatisfaccion": null,
     "FuenteEncuesta": "EncuestaInterna"
   },
   {
@@ -1115,8 +1115,8 @@
     "IdProducto": 693,
     "Fecha": "2025-04-12",
     "Comentario": "El env\u00EDo fue normal, dentro del tiempo esperado.",
-    "Clasificacion": "Neutra",
-    "PuntajeSatisfaccion": 3,
+    "Clasificacion": null,
+    "PuntajeSatisfaccion": null,
     "FuenteEncuesta": "EncuestaInterna"
   },
   {
@@ -1125,8 +1125,8 @@
     "IdProducto": 540,
     "Fecha": "2024-09-21",
     "Comentario": "El producto est\u00E1 bien, pero esperaba un poco m\u00E1s de calidad.",
-    "Clasificacion": "Neutra",
-    "PuntajeSatisfaccion": 3,
+    "Clasificacion": null,
+    "PuntajeSatisfaccion": null,
     "FuenteEncuesta": "EncuestaInterna"
   },
   {
@@ -1135,8 +1135,8 @@
     "IdProducto": 771,
     "Fecha": "2025-09-09",
     "Comentario": "La experiencia fue aceptable, aunque podr\u00EDa mejorar.",
-    "Clasificacion": "Neutra",
-    "PuntajeSatisfaccion": 3,
+    "Clasificacion": null,
+    "PuntajeSatisfaccion": null,
     "FuenteEncuesta": "EncuestaInterna"
   },
   {
@@ -1145,8 +1145,8 @@
     "IdProducto": 644,
     "Fecha": "2024-10-30",
     "Comentario": "El producto lleg\u00F3 en perfecto estado y antes de tiempo.",
-    "Clasificacion": "Positiva",
-    "PuntajeSatisfaccion": 5,
+    "Clasificacion": null,
+    "PuntajeSatisfaccion": null,
     "FuenteEncuesta": "EncuestaInterna"
   },
   {
@@ -1155,8 +1155,8 @@
     "IdProducto": 76,
     "Fecha": "2025-08-23",
     "Comentario": "El producto lleg\u00F3 da\u00F1ado y no cumpli\u00F3 con lo prometido.",
-    "Clasificacion": "Negativa",
-    "PuntajeSatisfaccion": 2,
+    "Clasificacion": null,
+    "PuntajeSatisfaccion": null,
     "FuenteEncuesta": "EncuestaInterna"
   },
   {
@@ -1165,8 +1165,8 @@
     "IdProducto": 703,
     "Fecha": "2025-04-05",
     "Comentario": "El servicio fue r\u00E1pido y eficiente, estoy muy satisfecho.",
-    "Clasificacion": "Positiva",
-    "PuntajeSatisfaccion": 4,
+    "Clasificacion": null,
+    "PuntajeSatisfaccion": null,
     "FuenteEncuesta": "EncuestaInterna"
   },
   {
@@ -1175,8 +1175,8 @@
     "IdProducto": 560,
     "Fecha": "2024-12-07",
     "Comentario": "El servicio fue r\u00E1pido y eficiente, estoy muy satisfecho.",
-    "Clasificacion": "Positiva",
-    "PuntajeSatisfaccion": 4,
+    "Clasificacion": null,
+    "PuntajeSatisfaccion": null,
     "FuenteEncuesta": "EncuestaInterna"
   },
   {
@@ -1185,8 +1185,8 @@
     "IdProducto": 893,
     "Fecha": "2024-11-25",
     "Comentario": "El servicio fue lento y el soporte no resolvi\u00F3 mi problema.",
-    "Clasificacion": "Negativa",
-    "PuntajeSatisfaccion": 1,
+    "Clasificacion": null,
+    "PuntajeSatisfaccion": null,
     "FuenteEncuesta": "EncuestaInterna"
   },
   {
@@ -1195,8 +1195,8 @@
     "IdProducto": 46,
     "Fecha": "2025-02-02",
     "Comentario": "El producto lleg\u00F3 en perfecto estado y antes de tiempo.",
-    "Clasificacion": "Positiva",
-    "PuntajeSatisfaccion": 5,
+    "Clasificacion": null,
+    "PuntajeSatisfaccion": null,
     "FuenteEncuesta": "EncuestaInterna"
   },
   {
@@ -1205,8 +1205,8 @@
     "IdProducto": 548,
     "Fecha": "2025-03-18",
     "Comentario": "El producto cumple su funci\u00F3n, nada especial.",
-    "Clasificacion": "Neutra",
-    "PuntajeSatisfaccion": 3,
+    "Clasificacion": null,
+    "PuntajeSatisfaccion": null,
     "FuenteEncuesta": "EncuestaInterna"
   },
   {
@@ -1215,8 +1215,8 @@
     "IdProducto": 747,
     "Fecha": "2025-07-25",
     "Comentario": "El producto lleg\u00F3 en perfecto estado y antes de tiempo.",
-    "Clasificacion": "Positiva",
-    "PuntajeSatisfaccion": 4,
+    "Clasificacion": null,
+    "PuntajeSatisfaccion": null,
     "FuenteEncuesta": "EncuestaInterna"
   },
   {
@@ -1225,8 +1225,8 @@
     "IdProducto": 852,
     "Fecha": "2025-03-22",
     "Comentario": "El producto lleg\u00F3 da\u00F1ado y no cumpli\u00F3 con lo prometido.",
-    "Clasificacion": "Negativa",
-    "PuntajeSatisfaccion": 2,
+    "Clasificacion": null,
+    "PuntajeSatisfaccion": null,
     "FuenteEncuesta": "EncuestaInterna"
   },
   {
@@ -1235,8 +1235,8 @@
     "IdProducto": 131,
     "Fecha": "2024-12-19",
     "Comentario": "El producto cumple su funci\u00F3n, nada especial.",
-    "Clasificacion": "Neutra",
-    "PuntajeSatisfaccion": 3,
+    "Clasificacion": null,
+    "PuntajeSatisfaccion": null,
     "FuenteEncuesta": "EncuestaInterna"
   },
   {
@@ -1245,8 +1245,8 @@
     "IdProducto": 875,
     "Fecha": "2024-11-06",
     "Comentario": "El env\u00EDo fue normal, dentro del tiempo esperado.",
-    "Clasificacion": "Neutra",
-    "PuntajeSatisfaccion": 3,
+    "Clasificacion": null,
+    "PuntajeSatisfaccion": null,
     "FuenteEncuesta": "EncuestaInterna"
   },
   {
@@ -1255,8 +1255,8 @@
     "IdProducto": 909,
     "Fecha": "2025-04-23",
     "Comentario": "El producto dej\u00F3 de funcionar al poco tiempo de usarlo.",
-    "Clasificacion": "Negativa",
-    "PuntajeSatisfaccion": 2,
+    "Clasificacion": null,
+    "PuntajeSatisfaccion": null,
     "FuenteEncuesta": "EncuestaInterna"
   },
   {
@@ -1265,8 +1265,8 @@
     "IdProducto": 425,
     "Fecha": "2025-03-06",
     "Comentario": "El producto cumple su funci\u00F3n, nada especial.",
-    "Clasificacion": "Neutra",
-    "PuntajeSatisfaccion": 3,
+    "Clasificacion": null,
+    "PuntajeSatisfaccion": null,
     "FuenteEncuesta": "EncuestaInterna"
   },
   {
@@ -1275,8 +1275,8 @@
     "IdProducto": 940,
     "Fecha": "2025-05-29",
     "Comentario": "El producto super\u00F3 mis expectativas, muy recomendable.",
-    "Clasificacion": "Positiva",
-    "PuntajeSatisfaccion": 5,
+    "Clasificacion": null,
+    "PuntajeSatisfaccion": null,
     "FuenteEncuesta": "EncuestaInterna"
   },
   {
@@ -1285,8 +1285,8 @@
     "IdProducto": 704,
     "Fecha": "2025-05-24",
     "Comentario": "El producto dej\u00F3 de funcionar al poco tiempo de usarlo.",
-    "Clasificacion": "Negativa",
-    "PuntajeSatisfaccion": 2,
+    "Clasificacion": null,
+    "PuntajeSatisfaccion": null,
     "FuenteEncuesta": "EncuestaInterna"
   },
   {
@@ -1295,8 +1295,8 @@
     "IdProducto": 980,
     "Fecha": "2025-07-01",
     "Comentario": "El servicio fue r\u00E1pido y eficiente, estoy muy satisfecho.",
-    "Clasificacion": "Positiva",
-    "PuntajeSatisfaccion": 4,
+    "Clasificacion": null,
+    "PuntajeSatisfaccion": null,
     "FuenteEncuesta": "EncuestaInterna"
   },
   {
@@ -1305,8 +1305,8 @@
     "IdProducto": 655,
     "Fecha": "2024-12-19",
     "Comentario": "El producto cumple su funci\u00F3n, nada especial.",
-    "Clasificacion": "Neutra",
-    "PuntajeSatisfaccion": 3,
+    "Clasificacion": null,
+    "PuntajeSatisfaccion": null,
     "FuenteEncuesta": "EncuestaInterna"
   },
   {
@@ -1315,8 +1315,8 @@
     "IdProducto": 364,
     "Fecha": "2025-04-29",
     "Comentario": "El servicio fue lento y el soporte no resolvi\u00F3 mi problema.",
-    "Clasificacion": "Negativa",
-    "PuntajeSatisfaccion": 1,
+    "Clasificacion": null,
+    "PuntajeSatisfaccion": null,
     "FuenteEncuesta": "EncuestaInterna"
   },
   {
@@ -1325,8 +1325,8 @@
     "IdProducto": 649,
     "Fecha": "2025-01-12",
     "Comentario": "La experiencia fue aceptable, aunque podr\u00EDa mejorar.",
-    "Clasificacion": "Neutra",
-    "PuntajeSatisfaccion": 3,
+    "Clasificacion": null,
+    "PuntajeSatisfaccion": null,
     "FuenteEncuesta": "EncuestaInterna"
   },
   {
@@ -1335,8 +1335,8 @@
     "IdProducto": 572,
     "Fecha": "2025-08-27",
     "Comentario": "El servicio fue r\u00E1pido y eficiente, estoy muy satisfecho.",
-    "Clasificacion": "Positiva",
-    "PuntajeSatisfaccion": 5,
+    "Clasificacion": null,
+    "PuntajeSatisfaccion": null,
     "FuenteEncuesta": "EncuestaInterna"
   },
   {
@@ -1345,8 +1345,8 @@
     "IdProducto": 197,
     "Fecha": "2025-07-23",
     "Comentario": "El producto cumple su funci\u00F3n, nada especial.",
-    "Clasificacion": "Neutra",
-    "PuntajeSatisfaccion": 3,
+    "Clasificacion": null,
+    "PuntajeSatisfaccion": null,
     "FuenteEncuesta": "EncuestaInterna"
   },
   {
@@ -1355,8 +1355,8 @@
     "IdProducto": 70,
     "Fecha": "2025-03-19",
     "Comentario": "Me encanta, es justo lo que necesitaba.",
-    "Clasificacion": "Positiva",
-    "PuntajeSatisfaccion": 5,
+    "Clasificacion": null,
+    "PuntajeSatisfaccion": null,
     "FuenteEncuesta": "EncuestaInterna"
   },
   {
@@ -1365,8 +1365,8 @@
     "IdProducto": 869,
     "Fecha": "2025-06-01",
     "Comentario": "El producto lleg\u00F3 da\u00F1ado y no cumpli\u00F3 con lo prometido.",
-    "Clasificacion": "Negativa",
-    "PuntajeSatisfaccion": 1,
+    "Clasificacion": null,
+    "PuntajeSatisfaccion": null,
     "FuenteEncuesta": "EncuestaInterna"
   },
   {
@@ -1375,8 +1375,8 @@
     "IdProducto": 157,
     "Fecha": "2025-03-18",
     "Comentario": "El producto super\u00F3 mis expectativas, muy recomendable.",
-    "Clasificacion": "Positiva",
-    "PuntajeSatisfaccion": 4,
+    "Clasificacion": null,
+    "PuntajeSatisfaccion": null,
     "FuenteEncuesta": "EncuestaInterna"
   },
   {
@@ -1385,8 +1385,8 @@
     "IdProducto": 889,
     "Fecha": "2025-08-29",
     "Comentario": "Ni malo ni excelente, simplemente regular.",
-    "Clasificacion": "Neutra",
-    "PuntajeSatisfaccion": 3,
+    "Clasificacion": null,
+    "PuntajeSatisfaccion": null,
     "FuenteEncuesta": "EncuestaInterna"
   },
   {
@@ -1395,8 +1395,8 @@
     "IdProducto": 637,
     "Fecha": "2025-06-05",
     "Comentario": "El env\u00EDo fue normal, dentro del tiempo esperado.",
-    "Clasificacion": "Neutra",
-    "PuntajeSatisfaccion": 3,
+    "Clasificacion": null,
+    "PuntajeSatisfaccion": null,
     "FuenteEncuesta": "EncuestaInterna"
   },
   {
@@ -1405,8 +1405,8 @@
     "IdProducto": 779,
     "Fecha": "2024-11-14",
     "Comentario": "Excelente calidad, definitivamente volver\u00EDa a comprar.",
-    "Clasificacion": "Positiva",
-    "PuntajeSatisfaccion": 5,
+    "Clasificacion": null,
+    "PuntajeSatisfaccion": null,
     "FuenteEncuesta": "EncuestaInterna"
   },
   {
@@ -1415,8 +1415,8 @@
     "IdProducto": 274,
     "Fecha": "2025-01-03",
     "Comentario": "El servicio fue r\u00E1pido y eficiente, estoy muy satisfecho.",
-    "Clasificacion": "Positiva",
-    "PuntajeSatisfaccion": 4,
+    "Clasificacion": null,
+    "PuntajeSatisfaccion": null,
     "FuenteEncuesta": "EncuestaInterna"
   },
   {
@@ -1425,8 +1425,8 @@
     "IdProducto": 454,
     "Fecha": "2025-04-04",
     "Comentario": "La experiencia fue aceptable, aunque podr\u00EDa mejorar.",
-    "Clasificacion": "Neutra",
-    "PuntajeSatisfaccion": 3,
+    "Clasificacion": null,
+    "PuntajeSatisfaccion": null,
     "FuenteEncuesta": "EncuestaInterna"
   },
   {
@@ -1435,8 +1435,8 @@
     "IdProducto": 522,
     "Fecha": "2025-07-18",
     "Comentario": "El producto super\u00F3 mis expectativas, muy recomendable.",
-    "Clasificacion": "Positiva",
-    "PuntajeSatisfaccion": 5,
+    "Clasificacion": null,
+    "PuntajeSatisfaccion": null,
     "FuenteEncuesta": "EncuestaInterna"
   },
   {
@@ -1445,8 +1445,8 @@
     "IdProducto": 604,
     "Fecha": "2024-12-31",
     "Comentario": "Mala calidad, no lo recomiendo para nada.",
-    "Clasificacion": "Negativa",
-    "PuntajeSatisfaccion": 1,
+    "Clasificacion": null,
+    "PuntajeSatisfaccion": null,
     "FuenteEncuesta": "EncuestaInterna"
   },
   {
@@ -1455,8 +1455,8 @@
     "IdProducto": 909,
     "Fecha": "2024-10-18",
     "Comentario": "Mala calidad, no lo recomiendo para nada.",
-    "Clasificacion": "Negativa",
-    "PuntajeSatisfaccion": 1,
+    "Clasificacion": null,
+    "PuntajeSatisfaccion": null,
     "FuenteEncuesta": "EncuestaInterna"
   },
   {
@@ -1465,8 +1465,8 @@
     "IdProducto": 201,
     "Fecha": "2025-05-08",
     "Comentario": "El servicio fue lento y el soporte no resolvi\u00F3 mi problema.",
-    "Clasificacion": "Negativa",
-    "PuntajeSatisfaccion": 2,
+    "Clasificacion": null,
+    "PuntajeSatisfaccion": null,
     "FuenteEncuesta": "EncuestaInterna"
   },
   {
@@ -1475,8 +1475,8 @@
     "IdProducto": 570,
     "Fecha": "2025-02-04",
     "Comentario": "El servicio fue lento y el soporte no resolvi\u00F3 mi problema.",
-    "Clasificacion": "Negativa",
-    "PuntajeSatisfaccion": 2,
+    "Clasificacion": null,
+    "PuntajeSatisfaccion": null,
     "FuenteEncuesta": "EncuestaInterna"
   },
   {
@@ -1485,8 +1485,8 @@
     "IdProducto": 821,
     "Fecha": "2025-01-24",
     "Comentario": "El servicio fue lento y el soporte no resolvi\u00F3 mi problema.",
-    "Clasificacion": "Negativa",
-    "PuntajeSatisfaccion": 2,
+    "Clasificacion": null,
+    "PuntajeSatisfaccion": null,
     "FuenteEncuesta": "EncuestaInterna"
   },
   {
@@ -1495,8 +1495,8 @@
     "IdProducto": 889,
     "Fecha": "2025-08-21",
     "Comentario": "El producto dej\u00F3 de funcionar al poco tiempo de usarlo.",
-    "Clasificacion": "Negativa",
-    "PuntajeSatisfaccion": 2,
+    "Clasificacion": null,
+    "PuntajeSatisfaccion": null,
     "FuenteEncuesta": "EncuestaInterna"
   },
   {
@@ -1505,8 +1505,8 @@
     "IdProducto": 483,
     "Fecha": "2025-08-09",
     "Comentario": "El servicio fue lento y el soporte no resolvi\u00F3 mi problema.",
-    "Clasificacion": "Negativa",
-    "PuntajeSatisfaccion": 1,
+    "Clasificacion": null,
+    "PuntajeSatisfaccion": null,
     "FuenteEncuesta": "EncuestaInterna"
   },
   {
@@ -1515,8 +1515,8 @@
     "IdProducto": 783,
     "Fecha": "2025-07-29",
     "Comentario": "El producto super\u00F3 mis expectativas, muy recomendable.",
-    "Clasificacion": "Positiva",
-    "PuntajeSatisfaccion": 4,
+    "Clasificacion": null,
+    "PuntajeSatisfaccion": null,
     "FuenteEncuesta": "EncuestaInterna"
   },
   {
@@ -1525,8 +1525,8 @@
     "IdProducto": 467,
     "Fecha": "2025-04-17",
     "Comentario": "Me encanta, es justo lo que necesitaba.",
-    "Clasificacion": "Positiva",
-    "PuntajeSatisfaccion": 4,
+    "Clasificacion": null,
+    "PuntajeSatisfaccion": null,
     "FuenteEncuesta": "EncuestaInterna"
   },
   {
@@ -1535,8 +1535,8 @@
     "IdProducto": 978,
     "Fecha": "2024-10-30",
     "Comentario": "El producto lleg\u00F3 da\u00F1ado y no cumpli\u00F3 con lo prometido.",
-    "Clasificacion": "Negativa",
-    "PuntajeSatisfaccion": 2,
+    "Clasificacion": null,
+    "PuntajeSatisfaccion": null,
     "FuenteEncuesta": "EncuestaInterna"
   },
   {
@@ -1545,8 +1545,8 @@
     "IdProducto": 857,
     "Fecha": "2025-09-10",
     "Comentario": "El producto lleg\u00F3 da\u00F1ado y no cumpli\u00F3 con lo prometido.",
-    "Clasificacion": "Negativa",
-    "PuntajeSatisfaccion": 2,
+    "Clasificacion": null,
+    "PuntajeSatisfaccion": null,
     "FuenteEncuesta": "EncuestaInterna"
   },
   {
@@ -1555,8 +1555,8 @@
     "IdProducto": 430,
     "Fecha": "2025-02-21",
     "Comentario": "El servicio fue lento y el soporte no resolvi\u00F3 mi problema.",
-    "Clasificacion": "Negativa",
-    "PuntajeSatisfaccion": 2,
+    "Clasificacion": null,
+    "PuntajeSatisfaccion": null,
     "FuenteEncuesta": "EncuestaInterna"
   },
   {
@@ -1565,8 +1565,8 @@
     "IdProducto": 735,
     "Fecha": "2024-12-28",
     "Comentario": "El producto super\u00F3 mis expectativas, muy recomendable.",
-    "Clasificacion": "Positiva",
-    "PuntajeSatisfaccion": 5,
+    "Clasificacion": null,
+    "PuntajeSatisfaccion": null,
     "FuenteEncuesta": "EncuestaInterna"
   },
   {
@@ -1575,8 +1575,8 @@
     "IdProducto": 87,
     "Fecha": "2025-06-03",
     "Comentario": "No era lo que esperaba, muy decepcionado.",
-    "Clasificacion": "Negativa",
-    "PuntajeSatisfaccion": 2,
+    "Clasificacion": null,
+    "PuntajeSatisfaccion": null,
     "FuenteEncuesta": "EncuestaInterna"
   },
   {
@@ -1585,8 +1585,8 @@
     "IdProducto": 146,
     "Fecha": "2025-08-10",
     "Comentario": "El producto super\u00F3 mis expectativas, muy recomendable.",
-    "Clasificacion": "Positiva",
-    "PuntajeSatisfaccion": 5,
+    "Clasificacion": null,
+    "PuntajeSatisfaccion": null,
     "FuenteEncuesta": "EncuestaInterna"
   },
   {
@@ -1595,8 +1595,8 @@
     "IdProducto": 644,
     "Fecha": "2025-02-24",
     "Comentario": "No era lo que esperaba, muy decepcionado.",
-    "Clasificacion": "Negativa",
-    "PuntajeSatisfaccion": 1,
+    "Clasificacion": null,
+    "PuntajeSatisfaccion": null,
     "FuenteEncuesta": "EncuestaInterna"
   },
   {
@@ -1605,8 +1605,8 @@
     "IdProducto": 919,
     "Fecha": "2025-01-16",
     "Comentario": "El servicio fue r\u00E1pido y eficiente, estoy muy satisfecho.",
-    "Clasificacion": "Positiva",
-    "PuntajeSatisfaccion": 5,
+    "Clasificacion": null,
+    "PuntajeSatisfaccion": null,
     "FuenteEncuesta": "EncuestaInterna"
   },
   {
@@ -1615,8 +1615,8 @@
     "IdProducto": 487,
     "Fecha": "2025-07-02",
     "Comentario": "El servicio fue lento y el soporte no resolvi\u00F3 mi problema.",
-    "Clasificacion": "Negativa",
-    "PuntajeSatisfaccion": 2,
+    "Clasificacion": null,
+    "PuntajeSatisfaccion": null,
     "FuenteEncuesta": "EncuestaInterna"
   },
   {
@@ -1625,8 +1625,8 @@
     "IdProducto": 61,
     "Fecha": "2024-10-27",
     "Comentario": "El env\u00EDo fue normal, dentro del tiempo esperado.",
-    "Clasificacion": "Neutra",
-    "PuntajeSatisfaccion": 3,
+    "Clasificacion": null,
+    "PuntajeSatisfaccion": null,
     "FuenteEncuesta": "EncuestaInterna"
   },
   {
@@ -1635,8 +1635,8 @@
     "IdProducto": 565,
     "Fecha": "2025-04-16",
     "Comentario": "El producto super\u00F3 mis expectativas, muy recomendable.",
-    "Clasificacion": "Positiva",
-    "PuntajeSatisfaccion": 5,
+    "Clasificacion": null,
+    "PuntajeSatisfaccion": null,
     "FuenteEncuesta": "EncuestaInterna"
   },
   {
@@ -1645,8 +1645,8 @@
     "IdProducto": 884,
     "Fecha": "2025-02-03",
     "Comentario": "El producto lleg\u00F3 en perfecto estado y antes de tiempo.",
-    "Clasificacion": "Positiva",
-    "PuntajeSatisfaccion": 5,
+    "Clasificacion": null,
+    "PuntajeSatisfaccion": null,
     "FuenteEncuesta": "EncuestaInterna"
   },
   {
@@ -1655,8 +1655,8 @@
     "IdProducto": 215,
     "Fecha": "2025-03-16",
     "Comentario": "Me encanta, es justo lo que necesitaba.",
-    "Clasificacion": "Positiva",
-    "PuntajeSatisfaccion": 4,
+    "Clasificacion": null,
+    "PuntajeSatisfaccion": null,
     "FuenteEncuesta": "EncuestaInterna"
   },
   {
@@ -1665,8 +1665,8 @@
     "IdProducto": 126,
     "Fecha": "2024-10-23",
     "Comentario": "El producto est\u00E1 bien, pero esperaba un poco m\u00E1s de calidad.",
-    "Clasificacion": "Neutra",
-    "PuntajeSatisfaccion": 3,
+    "Clasificacion": null,
+    "PuntajeSatisfaccion": null,
     "FuenteEncuesta": "EncuestaInterna"
   },
   {
@@ -1675,8 +1675,8 @@
     "IdProducto": 139,
     "Fecha": "2025-02-12",
     "Comentario": "Excelente calidad, definitivamente volver\u00EDa a comprar.",
-    "Clasificacion": "Positiva",
-    "PuntajeSatisfaccion": 4,
+    "Clasificacion": null,
+    "PuntajeSatisfaccion": null,
     "FuenteEncuesta": "EncuestaInterna"
   },
   {
@@ -1685,8 +1685,8 @@
     "IdProducto": 705,
     "Fecha": "2025-05-11",
     "Comentario": "El producto lleg\u00F3 en perfecto estado y antes de tiempo.",
-    "Clasificacion": "Positiva",
-    "PuntajeSatisfaccion": 5,
+    "Clasificacion": null,
+    "PuntajeSatisfaccion": null,
     "FuenteEncuesta": "EncuestaInterna"
   },
   {
@@ -1695,8 +1695,8 @@
     "IdProducto": 469,
     "Fecha": "2025-09-12",
     "Comentario": "Mala calidad, no lo recomiendo para nada.",
-    "Clasificacion": "Negativa",
-    "PuntajeSatisfaccion": 2,
+    "Clasificacion": null,
+    "PuntajeSatisfaccion": null,
     "FuenteEncuesta": "EncuestaInterna"
   },
   {
@@ -1705,8 +1705,8 @@
     "IdProducto": 993,
     "Fecha": "2025-09-10",
     "Comentario": "El producto cumple su funci\u00F3n, nada especial.",
-    "Clasificacion": "Neutra",
-    "PuntajeSatisfaccion": 3,
+    "Clasificacion": null,
+    "PuntajeSatisfaccion": null,
     "FuenteEncuesta": "EncuestaInterna"
   },
   {
@@ -1715,8 +1715,8 @@
     "IdProducto": 538,
     "Fecha": "2025-06-16",
     "Comentario": "La experiencia fue aceptable, aunque podr\u00EDa mejorar.",
-    "Clasificacion": "Neutra",
-    "PuntajeSatisfaccion": 3,
+    "Clasificacion": null,
+    "PuntajeSatisfaccion": null,
     "FuenteEncuesta": "EncuestaInterna"
   },
   {
@@ -1725,8 +1725,8 @@
     "IdProducto": 486,
     "Fecha": "2025-05-16",
     "Comentario": "El producto lleg\u00F3 da\u00F1ado y no cumpli\u00F3 con lo prometido.",
-    "Clasificacion": "Negativa",
-    "PuntajeSatisfaccion": 2,
+    "Clasificacion": null,
+    "PuntajeSatisfaccion": null,
     "FuenteEncuesta": "EncuestaInterna"
   },
   {
@@ -1735,8 +1735,8 @@
     "IdProducto": 10,
     "Fecha": "2025-06-27",
     "Comentario": "Me encanta, es justo lo que necesitaba.",
-    "Clasificacion": "Positiva",
-    "PuntajeSatisfaccion": 4,
+    "Clasificacion": null,
+    "PuntajeSatisfaccion": null,
     "FuenteEncuesta": "EncuestaInterna"
   },
   {
@@ -1745,8 +1745,8 @@
     "IdProducto": 703,
     "Fecha": "2025-06-23",
     "Comentario": "El servicio fue r\u00E1pido y eficiente, estoy muy satisfecho.",
-    "Clasificacion": "Positiva",
-    "PuntajeSatisfaccion": 5,
+    "Clasificacion": null,
+    "PuntajeSatisfaccion": null,
     "FuenteEncuesta": "EncuestaInterna"
   },
   {
@@ -1755,8 +1755,8 @@
     "IdProducto": 386,
     "Fecha": "2025-09-12",
     "Comentario": "No era lo que esperaba, muy decepcionado.",
-    "Clasificacion": "Negativa",
-    "PuntajeSatisfaccion": 2,
+    "Clasificacion": null,
+    "PuntajeSatisfaccion": null,
     "FuenteEncuesta": "EncuestaInterna"
   },
   {
@@ -1765,8 +1765,8 @@
     "IdProducto": 523,
     "Fecha": "2025-04-28",
     "Comentario": "Me encanta, es justo lo que necesitaba.",
-    "Clasificacion": "Positiva",
-    "PuntajeSatisfaccion": 5,
+    "Clasificacion": null,
+    "PuntajeSatisfaccion": null,
     "FuenteEncuesta": "EncuestaInterna"
   },
   {
@@ -1775,8 +1775,8 @@
     "IdProducto": 891,
     "Fecha": "2024-11-09",
     "Comentario": "El producto dej\u00F3 de funcionar al poco tiempo de usarlo.",
-    "Clasificacion": "Negativa",
-    "PuntajeSatisfaccion": 2,
+    "Clasificacion": null,
+    "PuntajeSatisfaccion": null,
     "FuenteEncuesta": "EncuestaInterna"
   },
   {
@@ -1785,8 +1785,8 @@
     "IdProducto": 716,
     "Fecha": "2025-08-26",
     "Comentario": "El producto cumple su funci\u00F3n, nada especial.",
-    "Clasificacion": "Neutra",
-    "PuntajeSatisfaccion": 3,
+    "Clasificacion": null,
+    "PuntajeSatisfaccion": null,
     "FuenteEncuesta": "EncuestaInterna"
   },
   {
@@ -1795,8 +1795,8 @@
     "IdProducto": 44,
     "Fecha": "2024-11-25",
     "Comentario": "El producto lleg\u00F3 da\u00F1ado y no cumpli\u00F3 con lo prometido.",
-    "Clasificacion": "Negativa",
-    "PuntajeSatisfaccion": 2,
+    "Clasificacion": null,
+    "PuntajeSatisfaccion": null,
     "FuenteEncuesta": "EncuestaInterna"
   },
   {
@@ -1805,8 +1805,8 @@
     "IdProducto": 666,
     "Fecha": "2025-03-19",
     "Comentario": "El producto lleg\u00F3 da\u00F1ado y no cumpli\u00F3 con lo prometido.",
-    "Clasificacion": "Negativa",
-    "PuntajeSatisfaccion": 2,
+    "Clasificacion": null,
+    "PuntajeSatisfaccion": null,
     "FuenteEncuesta": "EncuestaInterna"
   },
   {
@@ -1815,8 +1815,8 @@
     "IdProducto": 378,
     "Fecha": "2025-08-13",
     "Comentario": "El producto cumple su funci\u00F3n, nada especial.",
-    "Clasificacion": "Neutra",
-    "PuntajeSatisfaccion": 3,
+    "Clasificacion": null,
+    "PuntajeSatisfaccion": null,
     "FuenteEncuesta": "EncuestaInterna"
   },
   {
@@ -1825,8 +1825,8 @@
     "IdProducto": 55,
     "Fecha": "2025-03-28",
     "Comentario": "Mala calidad, no lo recomiendo para nada.",
-    "Clasificacion": "Negativa",
-    "PuntajeSatisfaccion": 2,
+    "Clasificacion": null,
+    "PuntajeSatisfaccion": null,
     "FuenteEncuesta": "EncuestaInterna"
   },
   {
@@ -1835,8 +1835,8 @@
     "IdProducto": 930,
     "Fecha": "2024-11-09",
     "Comentario": "El producto est\u00E1 bien, pero esperaba un poco m\u00E1s de calidad.",
-    "Clasificacion": "Neutra",
-    "PuntajeSatisfaccion": 3,
+    "Clasificacion": null,
+    "PuntajeSatisfaccion": null,
     "FuenteEncuesta": "EncuestaInterna"
   },
   {
@@ -1845,8 +1845,8 @@
     "IdProducto": 277,
     "Fecha": "2024-11-12",
     "Comentario": "Me encanta, es justo lo que necesitaba.",
-    "Clasificacion": "Positiva",
-    "PuntajeSatisfaccion": 4,
+    "Clasificacion": null,
+    "PuntajeSatisfaccion": null,
     "FuenteEncuesta": "EncuestaInterna"
   },
   {
@@ -1855,8 +1855,8 @@
     "IdProducto": 466,
     "Fecha": "2025-06-17",
     "Comentario": "El producto dej\u00F3 de funcionar al poco tiempo de usarlo.",
-    "Clasificacion": "Negativa",
-    "PuntajeSatisfaccion": 2,
+    "Clasificacion": null,
+    "PuntajeSatisfaccion": null,
     "FuenteEncuesta": "EncuestaInterna"
   },
   {
@@ -1865,8 +1865,8 @@
     "IdProducto": 777,
     "Fecha": "2025-02-09",
     "Comentario": "Me encanta, es justo lo que necesitaba.",
-    "Clasificacion": "Positiva",
-    "PuntajeSatisfaccion": 4,
+    "Clasificacion": null,
+    "PuntajeSatisfaccion": null,
     "FuenteEncuesta": "EncuestaInterna"
   },
   {
@@ -1875,8 +1875,8 @@
     "IdProducto": 215,
     "Fecha": "2025-01-24",
     "Comentario": "El producto est\u00E1 bien, pero esperaba un poco m\u00E1s de calidad.",
-    "Clasificacion": "Neutra",
-    "PuntajeSatisfaccion": 3,
+    "Clasificacion": null,
+    "PuntajeSatisfaccion": null,
     "FuenteEncuesta": "EncuestaInterna"
   },
   {
@@ -1885,8 +1885,8 @@
     "IdProducto": 280,
     "Fecha": "2024-09-30",
     "Comentario": "Mala calidad, no lo recomiendo para nada.",
-    "Clasificacion": "Negativa",
-    "PuntajeSatisfaccion": 1,
+    "Clasificacion": null,
+    "PuntajeSatisfaccion": null,
     "FuenteEncuesta": "EncuestaInterna"
   },
   {
@@ -1895,8 +1895,8 @@
     "IdProducto": 965,
     "Fecha": "2024-11-22",
     "Comentario": "Me encanta, es justo lo que necesitaba.",
-    "Clasificacion": "Positiva",
-    "PuntajeSatisfaccion": 5,
+    "Clasificacion": null,
+    "PuntajeSatisfaccion": null,
     "FuenteEncuesta": "EncuestaInterna"
   },
   {
@@ -1905,8 +1905,8 @@
     "IdProducto": 617,
     "Fecha": "2025-07-08",
     "Comentario": "El producto est\u00E1 bien, pero esperaba un poco m\u00E1s de calidad.",
-    "Clasificacion": "Neutra",
-    "PuntajeSatisfaccion": 3,
+    "Clasificacion": null,
+    "PuntajeSatisfaccion": null,
     "FuenteEncuesta": "EncuestaInterna"
   },
   {
@@ -1915,8 +1915,8 @@
     "IdProducto": 360,
     "Fecha": "2024-11-13",
     "Comentario": "El env\u00EDo fue normal, dentro del tiempo esperado.",
-    "Clasificacion": "Neutra",
-    "PuntajeSatisfaccion": 3,
+    "Clasificacion": null,
+    "PuntajeSatisfaccion": null,
     "FuenteEncuesta": "EncuestaInterna"
   },
   {
@@ -1925,8 +1925,8 @@
     "IdProducto": 429,
     "Fecha": "2024-10-12",
     "Comentario": "El env\u00EDo fue normal, dentro del tiempo esperado.",
-    "Clasificacion": "Neutra",
-    "PuntajeSatisfaccion": 3,
+    "Clasificacion": null,
+    "PuntajeSatisfaccion": null,
     "FuenteEncuesta": "EncuestaInterna"
   },
   {
@@ -1935,8 +1935,8 @@
     "IdProducto": 990,
     "Fecha": "2025-03-12",
     "Comentario": "Mala calidad, no lo recomiendo para nada.",
-    "Clasificacion": "Negativa",
-    "PuntajeSatisfaccion": 1,
+    "Clasificacion": null,
+    "PuntajeSatisfaccion": null,
     "FuenteEncuesta": "EncuestaInterna"
   },
   {
@@ -1945,8 +1945,8 @@
     "IdProducto": 563,
     "Fecha": "2025-09-09",
     "Comentario": "El producto super\u00F3 mis expectativas, muy recomendable.",
-    "Clasificacion": "Positiva",
-    "PuntajeSatisfaccion": 5,
+    "Clasificacion": null,
+    "PuntajeSatisfaccion": null,
     "FuenteEncuesta": "EncuestaInterna"
   },
   {
@@ -1955,8 +1955,8 @@
     "IdProducto": 602,
     "Fecha": "2025-03-09",
     "Comentario": "El producto est\u00E1 bien, pero esperaba un poco m\u00E1s de calidad.",
-    "Clasificacion": "Neutra",
-    "PuntajeSatisfaccion": 3,
+    "Clasificacion": null,
+    "PuntajeSatisfaccion": null,
     "FuenteEncuesta": "EncuestaInterna"
   },
   {
@@ -1965,8 +1965,8 @@
     "IdProducto": 130,
     "Fecha": "2025-03-11",
     "Comentario": "El servicio fue r\u00E1pido y eficiente, estoy muy satisfecho.",
-    "Clasificacion": "Positiva",
-    "PuntajeSatisfaccion": 4,
+    "Clasificacion": null,
+    "PuntajeSatisfaccion": null,
     "FuenteEncuesta": "EncuestaInterna"
   },
   {
@@ -1975,8 +1975,8 @@
     "IdProducto": 906,
     "Fecha": "2025-05-11",
     "Comentario": "El servicio fue lento y el soporte no resolvi\u00F3 mi problema.",
-    "Clasificacion": "Negativa",
-    "PuntajeSatisfaccion": 1,
+    "Clasificacion": null,
+    "PuntajeSatisfaccion": null,
     "FuenteEncuesta": "EncuestaInterna"
   },
   {
@@ -1985,8 +1985,8 @@
     "IdProducto": 736,
     "Fecha": "2025-04-01",
     "Comentario": "El env\u00EDo fue normal, dentro del tiempo esperado.",
-    "Clasificacion": "Neutra",
-    "PuntajeSatisfaccion": 3,
+    "Clasificacion": null,
+    "PuntajeSatisfaccion": null,
     "FuenteEncuesta": "EncuestaInterna"
   },
   {
@@ -1995,8 +1995,8 @@
     "IdProducto": 38,
     "Fecha": "2024-09-22",
     "Comentario": "El env\u00EDo fue normal, dentro del tiempo esperado.",
-    "Clasificacion": "Neutra",
-    "PuntajeSatisfaccion": 3,
+    "Clasificacion": null,
+    "PuntajeSatisfaccion": null,
     "FuenteEncuesta": "EncuestaInterna"
   },
   {
@@ -2005,8 +2005,8 @@
     "IdProducto": 104,
     "Fecha": "2024-12-03",
     "Comentario": "Me encanta, es justo lo que necesitaba.",
-    "Clasificacion": "Positiva",
-    "PuntajeSatisfaccion": 5,
+    "Clasificacion": null,
+    "PuntajeSatisfaccion": null,
     "FuenteEncuesta": "EncuestaInterna"
   },
   {
@@ -2015,8 +2015,8 @@
     "IdProducto": 459,
     "Fecha": "2025-07-13",
     "Comentario": "No era lo que esperaba, muy decepcionado.",
-    "Clasificacion": "Negativa",
-    "PuntajeSatisfaccion": 2,
+    "Clasificacion": null,
+    "PuntajeSatisfaccion": null,
     "FuenteEncuesta": "EncuestaInterna"
   },
   {
@@ -2025,8 +2025,8 @@
     "IdProducto": 967,
     "Fecha": "2025-06-14",
     "Comentario": "El producto est\u00E1 bien, pero esperaba un poco m\u00E1s de calidad.",
-    "Clasificacion": "Neutra",
-    "PuntajeSatisfaccion": 3,
+    "Clasificacion": null,
+    "PuntajeSatisfaccion": null,
     "FuenteEncuesta": "EncuestaInterna"
   },
   {
@@ -2035,8 +2035,8 @@
     "IdProducto": 828,
     "Fecha": "2025-05-18",
     "Comentario": "El producto lleg\u00F3 en perfecto estado y antes de tiempo.",
-    "Clasificacion": "Positiva",
-    "PuntajeSatisfaccion": 4,
+    "Clasificacion": null,
+    "PuntajeSatisfaccion": null,
     "FuenteEncuesta": "EncuestaInterna"
   },
   {
@@ -2045,8 +2045,8 @@
     "IdProducto": 698,
     "Fecha": "2025-05-30",
     "Comentario": "El producto est\u00E1 bien, pero esperaba un poco m\u00E1s de calidad.",
-    "Clasificacion": "Neutra",
-    "PuntajeSatisfaccion": 3,
+    "Clasificacion": null,
+    "PuntajeSatisfaccion": null,
     "FuenteEncuesta": "EncuestaInterna"
   },
   {
@@ -2055,8 +2055,8 @@
     "IdProducto": 148,
     "Fecha": "2025-03-08",
     "Comentario": "El servicio fue r\u00E1pido y eficiente, estoy muy satisfecho.",
-    "Clasificacion": "Positiva",
-    "PuntajeSatisfaccion": 4,
+    "Clasificacion": null,
+    "PuntajeSatisfaccion": null,
     "FuenteEncuesta": "EncuestaInterna"
   },
   {
@@ -2065,8 +2065,8 @@
     "IdProducto": 408,
     "Fecha": "2025-03-11",
     "Comentario": "El servicio fue r\u00E1pido y eficiente, estoy muy satisfecho.",
-    "Clasificacion": "Positiva",
-    "PuntajeSatisfaccion": 5,
+    "Clasificacion": null,
+    "PuntajeSatisfaccion": null,
     "FuenteEncuesta": "EncuestaInterna"
   },
   {
@@ -2075,8 +2075,8 @@
     "IdProducto": 420,
     "Fecha": "2025-02-10",
     "Comentario": "El servicio fue lento y el soporte no resolvi\u00F3 mi problema.",
-    "Clasificacion": "Negativa",
-    "PuntajeSatisfaccion": 1,
+    "Clasificacion": null,
+    "PuntajeSatisfaccion": null,
     "FuenteEncuesta": "EncuestaInterna"
   },
   {
@@ -2085,8 +2085,8 @@
     "IdProducto": 338,
     "Fecha": "2025-02-05",
     "Comentario": "El env\u00EDo fue normal, dentro del tiempo esperado.",
-    "Clasificacion": "Neutra",
-    "PuntajeSatisfaccion": 3,
+    "Clasificacion": null,
+    "PuntajeSatisfaccion": null,
     "FuenteEncuesta": "EncuestaInterna"
   },
   {
@@ -2095,8 +2095,8 @@
     "IdProducto": 936,
     "Fecha": "2024-12-27",
     "Comentario": "El producto est\u00E1 bien, pero esperaba un poco m\u00E1s de calidad.",
-    "Clasificacion": "Neutra",
-    "PuntajeSatisfaccion": 3,
+    "Clasificacion": null,
+    "PuntajeSatisfaccion": null,
     "FuenteEncuesta": "EncuestaInterna"
   },
   {
@@ -2105,8 +2105,8 @@
     "IdProducto": 672,
     "Fecha": "2025-03-09",
     "Comentario": "El producto dej\u00F3 de funcionar al poco tiempo de usarlo.",
-    "Clasificacion": "Negativa",
-    "PuntajeSatisfaccion": 2,
+    "Clasificacion": null,
+    "PuntajeSatisfaccion": null,
     "FuenteEncuesta": "EncuestaInterna"
   },
   {
@@ -2115,8 +2115,8 @@
     "IdProducto": 390,
     "Fecha": "2025-06-01",
     "Comentario": "Me encanta, es justo lo que necesitaba.",
-    "Clasificacion": "Positiva",
-    "PuntajeSatisfaccion": 5,
+    "Clasificacion": null,
+    "PuntajeSatisfaccion": null,
     "FuenteEncuesta": "EncuestaInterna"
   },
   {
@@ -2125,8 +2125,8 @@
     "IdProducto": 92,
     "Fecha": "2025-06-23",
     "Comentario": "El producto est\u00E1 bien, pero esperaba un poco m\u00E1s de calidad.",
-    "Clasificacion": "Neutra",
-    "PuntajeSatisfaccion": 3,
+    "Clasificacion": null,
+    "PuntajeSatisfaccion": null,
     "FuenteEncuesta": "EncuestaInterna"
   },
   {
@@ -2135,8 +2135,8 @@
     "IdProducto": 346,
     "Fecha": "2024-12-04",
     "Comentario": "El producto est\u00E1 bien, pero esperaba un poco m\u00E1s de calidad.",
-    "Clasificacion": "Neutra",
-    "PuntajeSatisfaccion": 3,
+    "Clasificacion": null,
+    "PuntajeSatisfaccion": null,
     "FuenteEncuesta": "EncuestaInterna"
   },
   {
@@ -2145,8 +2145,8 @@
     "IdProducto": 289,
     "Fecha": "2025-02-11",
     "Comentario": "El producto cumple su funci\u00F3n, nada especial.",
-    "Clasificacion": "Neutra",
-    "PuntajeSatisfaccion": 3,
+    "Clasificacion": null,
+    "PuntajeSatisfaccion": null,
     "FuenteEncuesta": "EncuestaInterna"
   },
   {
@@ -2155,8 +2155,8 @@
     "IdProducto": 596,
     "Fecha": "2024-09-22",
     "Comentario": "Me encanta, es justo lo que necesitaba.",
-    "Clasificacion": "Positiva",
-    "PuntajeSatisfaccion": 5,
+    "Clasificacion": null,
+    "PuntajeSatisfaccion": null,
     "FuenteEncuesta": "EncuestaInterna"
   },
   {
@@ -2165,8 +2165,8 @@
     "IdProducto": 179,
     "Fecha": "2024-10-14",
     "Comentario": "El producto super\u00F3 mis expectativas, muy recomendable.",
-    "Clasificacion": "Positiva",
-    "PuntajeSatisfaccion": 5,
+    "Clasificacion": null,
+    "PuntajeSatisfaccion": null,
     "FuenteEncuesta": "EncuestaInterna"
   },
   {
@@ -2175,8 +2175,8 @@
     "IdProducto": 608,
     "Fecha": "2025-02-22",
     "Comentario": "No era lo que esperaba, muy decepcionado.",
-    "Clasificacion": "Negativa",
-    "PuntajeSatisfaccion": 2,
+    "Clasificacion": null,
+    "PuntajeSatisfaccion": null,
     "FuenteEncuesta": "EncuestaInterna"
   },
   {
@@ -2185,8 +2185,8 @@
     "IdProducto": 610,
     "Fecha": "2025-04-24",
     "Comentario": "El producto lleg\u00F3 en perfecto estado y antes de tiempo.",
-    "Clasificacion": "Positiva",
-    "PuntajeSatisfaccion": 4,
+    "Clasificacion": null,
+    "PuntajeSatisfaccion": null,
     "FuenteEncuesta": "EncuestaInterna"
   },
   {
@@ -2195,8 +2195,8 @@
     "IdProducto": 37,
     "Fecha": "2025-07-27",
     "Comentario": "El producto lleg\u00F3 en perfecto estado y antes de tiempo.",
-    "Clasificacion": "Positiva",
-    "PuntajeSatisfaccion": 4,
+    "Clasificacion": null,
+    "PuntajeSatisfaccion": null,
     "FuenteEncuesta": "EncuestaInterna"
   },
   {
@@ -2205,8 +2205,8 @@
     "IdProducto": 124,
     "Fecha": "2025-01-01",
     "Comentario": "El servicio fue lento y el soporte no resolvi\u00F3 mi problema.",
-    "Clasificacion": "Negativa",
-    "PuntajeSatisfaccion": 1,
+    "Clasificacion": null,
+    "PuntajeSatisfaccion": null,
     "FuenteEncuesta": "EncuestaInterna"
   },
   {
@@ -2215,8 +2215,8 @@
     "IdProducto": 959,
     "Fecha": "2025-04-26",
     "Comentario": "Excelente calidad, definitivamente volver\u00EDa a comprar.",
-    "Clasificacion": "Positiva",
-    "PuntajeSatisfaccion": 5,
+    "Clasificacion": null,
+    "PuntajeSatisfaccion": null,
     "FuenteEncuesta": "EncuestaInterna"
   },
   {
@@ -2225,8 +2225,8 @@
     "IdProducto": 957,
     "Fecha": "2025-07-11",
     "Comentario": "El producto super\u00F3 mis expectativas, muy recomendable.",
-    "Clasificacion": "Positiva",
-    "PuntajeSatisfaccion": 4,
+    "Clasificacion": null,
+    "PuntajeSatisfaccion": null,
     "FuenteEncuesta": "EncuestaInterna"
   },
   {
@@ -2235,8 +2235,8 @@
     "IdProducto": 178,
     "Fecha": "2024-11-30",
     "Comentario": "Ni malo ni excelente, simplemente regular.",
-    "Clasificacion": "Neutra",
-    "PuntajeSatisfaccion": 3,
+    "Clasificacion": null,
+    "PuntajeSatisfaccion": null,
     "FuenteEncuesta": "EncuestaInterna"
   },
   {
@@ -2245,8 +2245,8 @@
     "IdProducto": 997,
     "Fecha": "2024-10-30",
     "Comentario": "La experiencia fue aceptable, aunque podr\u00EDa mejorar.",
-    "Clasificacion": "Neutra",
-    "PuntajeSatisfaccion": 3,
+    "Clasificacion": null,
+    "PuntajeSatisfaccion": null,
     "FuenteEncuesta": "EncuestaInterna"
   },
   {
@@ -2255,8 +2255,8 @@
     "IdProducto": 639,
     "Fecha": "2024-11-20",
     "Comentario": "El servicio fue r\u00E1pido y eficiente, estoy muy satisfecho.",
-    "Clasificacion": "Positiva",
-    "PuntajeSatisfaccion": 4,
+    "Clasificacion": null,
+    "PuntajeSatisfaccion": null,
     "FuenteEncuesta": "EncuestaInterna"
   },
   {
@@ -2265,8 +2265,8 @@
     "IdProducto": 541,
     "Fecha": "2024-09-25",
     "Comentario": "Ni malo ni excelente, simplemente regular.",
-    "Clasificacion": "Neutra",
-    "PuntajeSatisfaccion": 3,
+    "Clasificacion": null,
+    "PuntajeSatisfaccion": null,
     "FuenteEncuesta": "EncuestaInterna"
   },
   {
@@ -2275,8 +2275,8 @@
     "IdProducto": 301,
     "Fecha": "2024-10-16",
     "Comentario": "El producto lleg\u00F3 da\u00F1ado y no cumpli\u00F3 con lo prometido.",
-    "Clasificacion": "Negativa",
-    "PuntajeSatisfaccion": 1,
+    "Clasificacion": null,
+    "PuntajeSatisfaccion": null,
     "FuenteEncuesta": "EncuestaInterna"
   },
   {
@@ -2285,8 +2285,8 @@
     "IdProducto": 224,
     "Fecha": "2025-04-18",
     "Comentario": "El env\u00EDo fue normal, dentro del tiempo esperado.",
-    "Clasificacion": "Neutra",
-    "PuntajeSatisfaccion": 3,
+    "Clasificacion": null,
+    "PuntajeSatisfaccion": null,
     "FuenteEncuesta": "EncuestaInterna"
   },
   {
@@ -2295,8 +2295,8 @@
     "IdProducto": 285,
     "Fecha": "2025-02-09",
     "Comentario": "El producto dej\u00F3 de funcionar al poco tiempo de usarlo.",
-    "Clasificacion": "Negativa",
-    "PuntajeSatisfaccion": 2,
+    "Clasificacion": null,
+    "PuntajeSatisfaccion": null,
     "FuenteEncuesta": "EncuestaInterna"
   },
   {
@@ -2305,8 +2305,8 @@
     "IdProducto": 474,
     "Fecha": "2024-12-03",
     "Comentario": "El env\u00EDo fue normal, dentro del tiempo esperado.",
-    "Clasificacion": "Neutra",
-    "PuntajeSatisfaccion": 3,
+    "Clasificacion": null,
+    "PuntajeSatisfaccion": null,
     "FuenteEncuesta": "EncuestaInterna"
   },
   {
@@ -2315,8 +2315,8 @@
     "IdProducto": 750,
     "Fecha": "2024-11-07",
     "Comentario": "El producto est\u00E1 bien, pero esperaba un poco m\u00E1s de calidad.",
-    "Clasificacion": "Neutra",
-    "PuntajeSatisfaccion": 3,
+    "Clasificacion": null,
+    "PuntajeSatisfaccion": null,
     "FuenteEncuesta": "EncuestaInterna"
   },
   {
@@ -2325,8 +2325,8 @@
     "IdProducto": 547,
     "Fecha": "2025-05-26",
     "Comentario": "El producto est\u00E1 bien, pero esperaba un poco m\u00E1s de calidad.",
-    "Clasificacion": "Neutra",
-    "PuntajeSatisfaccion": 3,
+    "Clasificacion": null,
+    "PuntajeSatisfaccion": null,
     "FuenteEncuesta": "EncuestaInterna"
   },
   {
@@ -2335,8 +2335,8 @@
     "IdProducto": 724,
     "Fecha": "2024-10-16",
     "Comentario": "El env\u00EDo fue normal, dentro del tiempo esperado.",
-    "Clasificacion": "Neutra",
-    "PuntajeSatisfaccion": 3,
+    "Clasificacion": null,
+    "PuntajeSatisfaccion": null,
     "FuenteEncuesta": "EncuestaInterna"
   },
   {
@@ -2345,8 +2345,8 @@
     "IdProducto": 159,
     "Fecha": "2024-09-24",
     "Comentario": "El producto dej\u00F3 de funcionar al poco tiempo de usarlo.",
-    "Clasificacion": "Negativa",
-    "PuntajeSatisfaccion": 1,
+    "Clasificacion": null,
+    "PuntajeSatisfaccion": null,
     "FuenteEncuesta": "EncuestaInterna"
   },
   {
@@ -2355,8 +2355,8 @@
     "IdProducto": 824,
     "Fecha": "2025-07-18",
     "Comentario": "El producto cumple su funci\u00F3n, nada especial.",
-    "Clasificacion": "Neutra",
-    "PuntajeSatisfaccion": 3,
+    "Clasificacion": null,
+    "PuntajeSatisfaccion": null,
     "FuenteEncuesta": "EncuestaInterna"
   },
   {
@@ -2365,8 +2365,8 @@
     "IdProducto": 487,
     "Fecha": "2025-05-08",
     "Comentario": "Mala calidad, no lo recomiendo para nada.",
-    "Clasificacion": "Negativa",
-    "PuntajeSatisfaccion": 2,
+    "Clasificacion": null,
+    "PuntajeSatisfaccion": null,
     "FuenteEncuesta": "EncuestaInterna"
   },
   {
@@ -2375,8 +2375,8 @@
     "IdProducto": 426,
     "Fecha": "2025-01-02",
     "Comentario": "Me encanta, es justo lo que necesitaba.",
-    "Clasificacion": "Positiva",
-    "PuntajeSatisfaccion": 4,
+    "Clasificacion": null,
+    "PuntajeSatisfaccion": null,
     "FuenteEncuesta": "EncuestaInterna"
   },
   {
@@ -2385,8 +2385,8 @@
     "IdProducto": 407,
     "Fecha": "2024-12-17",
     "Comentario": "El servicio fue r\u00E1pido y eficiente, estoy muy satisfecho.",
-    "Clasificacion": "Positiva",
-    "PuntajeSatisfaccion": 5,
+    "Clasificacion": null,
+    "PuntajeSatisfaccion": null,
     "FuenteEncuesta": "EncuestaInterna"
   },
   {
@@ -2395,8 +2395,8 @@
     "IdProducto": 297,
     "Fecha": "2024-11-18",
     "Comentario": "El env\u00EDo fue normal, dentro del tiempo esperado.",
-    "Clasificacion": "Neutra",
-    "PuntajeSatisfaccion": 3,
+    "Clasificacion": null,
+    "PuntajeSatisfaccion": null,
     "FuenteEncuesta": "EncuestaInterna"
   },
   {
@@ -2405,8 +2405,8 @@
     "IdProducto": 946,
     "Fecha": "2025-01-26",
     "Comentario": "El env\u00EDo fue normal, dentro del tiempo esperado.",
-    "Clasificacion": "Neutra",
-    "PuntajeSatisfaccion": 3,
+    "Clasificacion": null,
+    "PuntajeSatisfaccion": null,
     "FuenteEncuesta": "EncuestaInterna"
   },
   {
@@ -2415,8 +2415,8 @@
     "IdProducto": 629,
     "Fecha": "2025-08-03",
     "Comentario": "El servicio fue lento y el soporte no resolvi\u00F3 mi problema.",
-    "Clasificacion": "Negativa",
-    "PuntajeSatisfaccion": 2,
+    "Clasificacion": null,
+    "PuntajeSatisfaccion": null,
     "FuenteEncuesta": "EncuestaInterna"
   },
   {
@@ -2425,8 +2425,8 @@
     "IdProducto": 260,
     "Fecha": "2025-06-08",
     "Comentario": "No era lo que esperaba, muy decepcionado.",
-    "Clasificacion": "Negativa",
-    "PuntajeSatisfaccion": 2,
+    "Clasificacion": null,
+    "PuntajeSatisfaccion": null,
     "FuenteEncuesta": "EncuestaInterna"
   },
   {
@@ -2435,8 +2435,8 @@
     "IdProducto": 16,
     "Fecha": "2025-08-29",
     "Comentario": "Ni malo ni excelente, simplemente regular.",
-    "Clasificacion": "Neutra",
-    "PuntajeSatisfaccion": 3,
+    "Clasificacion": null,
+    "PuntajeSatisfaccion": null,
     "FuenteEncuesta": "EncuestaInterna"
   },
   {
@@ -2445,8 +2445,8 @@
     "IdProducto": 602,
     "Fecha": "2025-05-01",
     "Comentario": "Excelente calidad, definitivamente volver\u00EDa a comprar.",
-    "Clasificacion": "Positiva",
-    "PuntajeSatisfaccion": 5,
+    "Clasificacion": null,
+    "PuntajeSatisfaccion": null,
     "FuenteEncuesta": "EncuestaInterna"
   },
   {
@@ -2455,8 +2455,8 @@
     "IdProducto": 823,
     "Fecha": "2025-09-01",
     "Comentario": "El servicio fue lento y el soporte no resolvi\u00F3 mi problema.",
-    "Clasificacion": "Negativa",
-    "PuntajeSatisfaccion": 2,
+    "Clasificacion": null,
+    "PuntajeSatisfaccion": null,
     "FuenteEncuesta": "EncuestaInterna"
   },
   {
@@ -2465,8 +2465,8 @@
     "IdProducto": 367,
     "Fecha": "2024-12-03",
     "Comentario": "El producto est\u00E1 bien, pero esperaba un poco m\u00E1s de calidad.",
-    "Clasificacion": "Neutra",
-    "PuntajeSatisfaccion": 3,
+    "Clasificacion": null,
+    "PuntajeSatisfaccion": null,
     "FuenteEncuesta": "EncuestaInterna"
   },
   {
@@ -2475,8 +2475,8 @@
     "IdProducto": 553,
     "Fecha": "2025-02-27",
     "Comentario": "El producto lleg\u00F3 en perfecto estado y antes de tiempo.",
-    "Clasificacion": "Positiva",
-    "PuntajeSatisfaccion": 4,
+    "Clasificacion": null,
+    "PuntajeSatisfaccion": null,
     "FuenteEncuesta": "EncuestaInterna"
   },
   {
@@ -2485,8 +2485,8 @@
     "IdProducto": 312,
     "Fecha": "2024-12-19",
     "Comentario": "El producto dej\u00F3 de funcionar al poco tiempo de usarlo.",
-    "Clasificacion": "Negativa",
-    "PuntajeSatisfaccion": 2,
+    "Clasificacion": null,
+    "PuntajeSatisfaccion": null,
     "FuenteEncuesta": "EncuestaInterna"
   },
   {
@@ -2495,8 +2495,8 @@
     "IdProducto": 211,
     "Fecha": "2025-08-23",
     "Comentario": "El producto dej\u00F3 de funcionar al poco tiempo de usarlo.",
-    "Clasificacion": "Negativa",
-    "PuntajeSatisfaccion": 1,
+    "Clasificacion": null,
+    "PuntajeSatisfaccion": null,
     "FuenteEncuesta": "EncuestaInterna"
   },
   {
@@ -2505,8 +2505,8 @@
     "IdProducto": 339,
     "Fecha": "2025-01-23",
     "Comentario": "El producto lleg\u00F3 da\u00F1ado y no cumpli\u00F3 con lo prometido.",
-    "Clasificacion": "Negativa",
-    "PuntajeSatisfaccion": 2,
+    "Clasificacion": null,
+    "PuntajeSatisfaccion": null,
     "FuenteEncuesta": "EncuestaInterna"
   },
   {
@@ -2515,8 +2515,8 @@
     "IdProducto": 727,
     "Fecha": "2025-07-02",
     "Comentario": "El producto dej\u00F3 de funcionar al poco tiempo de usarlo.",
-    "Clasificacion": "Negativa",
-    "PuntajeSatisfaccion": 1,
+    "Clasificacion": null,
+    "PuntajeSatisfaccion": null,
     "FuenteEncuesta": "EncuestaInterna"
   },
   {
@@ -2525,8 +2525,8 @@
     "IdProducto": 19,
     "Fecha": "2025-04-04",
     "Comentario": "El servicio fue lento y el soporte no resolvi\u00F3 mi problema.",
-    "Clasificacion": "Negativa",
-    "PuntajeSatisfaccion": 1,
+    "Clasificacion": null,
+    "PuntajeSatisfaccion": null,
     "FuenteEncuesta": "EncuestaInterna"
   },
   {
@@ -2535,8 +2535,8 @@
     "IdProducto": 480,
     "Fecha": "2025-02-04",
     "Comentario": "Mala calidad, no lo recomiendo para nada.",
-    "Clasificacion": "Negativa",
-    "PuntajeSatisfaccion": 1,
+    "Clasificacion": null,
+    "PuntajeSatisfaccion": null,
     "FuenteEncuesta": "EncuestaInterna"
   },
   {
@@ -2545,8 +2545,8 @@
     "IdProducto": 538,
     "Fecha": "2025-08-25",
     "Comentario": "La experiencia fue aceptable, aunque podr\u00EDa mejorar.",
-    "Clasificacion": "Neutra",
-    "PuntajeSatisfaccion": 3,
+    "Clasificacion": null,
+    "PuntajeSatisfaccion": null,
     "FuenteEncuesta": "EncuestaInterna"
   },
   {
@@ -2555,8 +2555,8 @@
     "IdProducto": 526,
     "Fecha": "2024-11-03",
     "Comentario": "El servicio fue r\u00E1pido y eficiente, estoy muy satisfecho.",
-    "Clasificacion": "Positiva",
-    "PuntajeSatisfaccion": 5,
+    "Clasificacion": null,
+    "PuntajeSatisfaccion": null,
     "FuenteEncuesta": "EncuestaInterna"
   },
   {
@@ -2565,8 +2565,8 @@
     "IdProducto": 88,
     "Fecha": "2025-02-10",
     "Comentario": "Mala calidad, no lo recomiendo para nada.",
-    "Clasificacion": "Negativa",
-    "PuntajeSatisfaccion": 1,
+    "Clasificacion": null,
+    "PuntajeSatisfaccion": null,
     "FuenteEncuesta": "EncuestaInterna"
   },
   {
@@ -2575,8 +2575,8 @@
     "IdProducto": 332,
     "Fecha": "2025-07-08",
     "Comentario": "El servicio fue r\u00E1pido y eficiente, estoy muy satisfecho.",
-    "Clasificacion": "Positiva",
-    "PuntajeSatisfaccion": 5,
+    "Clasificacion": null,
+    "PuntajeSatisfaccion": null,
     "FuenteEncuesta": "EncuestaInterna"
   },
   {
@@ -2585,8 +2585,8 @@
     "IdProducto": 20,
     "Fecha": "2025-01-24",
     "Comentario": "El producto lleg\u00F3 da\u00F1ado y no cumpli\u00F3 con lo prometido.",
-    "Clasificacion": "Negativa",
-    "PuntajeSatisfaccion": 1,
+    "Clasificacion": null,
+    "PuntajeSatisfaccion": null,
     "FuenteEncuesta": "EncuestaInterna"
   },
   {
@@ -2595,8 +2595,8 @@
     "IdProducto": 484,
     "Fecha": "2024-12-15",
     "Comentario": "El producto lleg\u00F3 da\u00F1ado y no cumpli\u00F3 con lo prometido.",
-    "Clasificacion": "Negativa",
-    "PuntajeSatisfaccion": 2,
+    "Clasificacion": null,
+    "PuntajeSatisfaccion": null,
     "FuenteEncuesta": "EncuestaInterna"
   },
   {
@@ -2605,8 +2605,8 @@
     "IdProducto": 330,
     "Fecha": "2025-04-05",
     "Comentario": "El producto super\u00F3 mis expectativas, muy recomendable.",
-    "Clasificacion": "Positiva",
-    "PuntajeSatisfaccion": 5,
+    "Clasificacion": null,
+    "PuntajeSatisfaccion": null,
     "FuenteEncuesta": "EncuestaInterna"
   },
   {
@@ -2615,8 +2615,8 @@
     "IdProducto": 40,
     "Fecha": "2025-01-09",
     "Comentario": "El servicio fue r\u00E1pido y eficiente, estoy muy satisfecho.",
-    "Clasificacion": "Positiva",
-    "PuntajeSatisfaccion": 5,
+    "Clasificacion": null,
+    "PuntajeSatisfaccion": null,
     "FuenteEncuesta": "EncuestaInterna"
   },
   {
@@ -2625,8 +2625,8 @@
     "IdProducto": 413,
     "Fecha": "2024-11-29",
     "Comentario": "El producto super\u00F3 mis expectativas, muy recomendable.",
-    "Clasificacion": "Positiva",
-    "PuntajeSatisfaccion": 4,
+    "Clasificacion": null,
+    "PuntajeSatisfaccion": null,
     "FuenteEncuesta": "EncuestaInterna"
   },
   {
@@ -2635,8 +2635,8 @@
     "IdProducto": 539,
     "Fecha": "2024-12-08",
     "Comentario": "El producto lleg\u00F3 da\u00F1ado y no cumpli\u00F3 con lo prometido.",
-    "Clasificacion": "Negativa",
-    "PuntajeSatisfaccion": 1,
+    "Clasificacion": null,
+    "PuntajeSatisfaccion": null,
     "FuenteEncuesta": "EncuestaInterna"
   },
   {
@@ -2645,8 +2645,8 @@
     "IdProducto": 634,
     "Fecha": "2025-06-11",
     "Comentario": "El servicio fue lento y el soporte no resolvi\u00F3 mi problema.",
-    "Clasificacion": "Negativa",
-    "PuntajeSatisfaccion": 1,
+    "Clasificacion": null,
+    "PuntajeSatisfaccion": null,
     "FuenteEncuesta": "EncuestaInterna"
   },
   {
@@ -2655,8 +2655,8 @@
     "IdProducto": 784,
     "Fecha": "2024-10-28",
     "Comentario": "El producto lleg\u00F3 en perfecto estado y antes de tiempo.",
-    "Clasificacion": "Positiva",
-    "PuntajeSatisfaccion": 5,
+    "Clasificacion": null,
+    "PuntajeSatisfaccion": null,
     "FuenteEncuesta": "EncuestaInterna"
   },
   {
@@ -2665,8 +2665,8 @@
     "IdProducto": 571,
     "Fecha": "2025-03-05",
     "Comentario": "El producto super\u00F3 mis expectativas, muy recomendable.",
-    "Clasificacion": "Positiva",
-    "PuntajeSatisfaccion": 5,
+    "Clasificacion": null,
+    "PuntajeSatisfaccion": null,
     "FuenteEncuesta": "EncuestaInterna"
   },
   {
@@ -2675,8 +2675,8 @@
     "IdProducto": 181,
     "Fecha": "2024-09-18",
     "Comentario": "El producto lleg\u00F3 da\u00F1ado y no cumpli\u00F3 con lo prometido.",
-    "Clasificacion": "Negativa",
-    "PuntajeSatisfaccion": 2,
+    "Clasificacion": null,
+    "PuntajeSatisfaccion": null,
     "FuenteEncuesta": "EncuestaInterna"
   },
   {
@@ -2685,8 +2685,8 @@
     "IdProducto": 267,
     "Fecha": "2025-01-10",
     "Comentario": "Ni malo ni excelente, simplemente regular.",
-    "Clasificacion": "Neutra",
-    "PuntajeSatisfaccion": 3,
+    "Clasificacion": null,
+    "PuntajeSatisfaccion": null,
     "FuenteEncuesta": "EncuestaInterna"
   },
   {
@@ -2695,8 +2695,8 @@
     "IdProducto": 247,
     "Fecha": "2025-07-05",
     "Comentario": "El servicio fue r\u00E1pido y eficiente, estoy muy satisfecho.",
-    "Clasificacion": "Positiva",
-    "PuntajeSatisfaccion": 5,
+    "Clasificacion": null,
+    "PuntajeSatisfaccion": null,
     "FuenteEncuesta": "EncuestaInterna"
   },
   {
@@ -2705,8 +2705,8 @@
     "IdProducto": 397,
     "Fecha": "2025-07-11",
     "Comentario": "Mala calidad, no lo recomiendo para nada.",
-    "Clasificacion": "Negativa",
-    "PuntajeSatisfaccion": 1,
+    "Clasificacion": null,
+    "PuntajeSatisfaccion": null,
     "FuenteEncuesta": "EncuestaInterna"
   },
   {
@@ -2715,8 +2715,8 @@
     "IdProducto": 287,
     "Fecha": "2025-04-03",
     "Comentario": "El producto lleg\u00F3 en perfecto estado y antes de tiempo.",
-    "Clasificacion": "Positiva",
-    "PuntajeSatisfaccion": 5,
+    "Clasificacion": null,
+    "PuntajeSatisfaccion": null,
     "FuenteEncuesta": "EncuestaInterna"
   },
   {
@@ -2725,8 +2725,8 @@
     "IdProducto": 592,
     "Fecha": "2025-05-27",
     "Comentario": "El servicio fue r\u00E1pido y eficiente, estoy muy satisfecho.",
-    "Clasificacion": "Positiva",
-    "PuntajeSatisfaccion": 5,
+    "Clasificacion": null,
+    "PuntajeSatisfaccion": null,
     "FuenteEncuesta": "EncuestaInterna"
   },
   {
@@ -2735,8 +2735,8 @@
     "IdProducto": 548,
     "Fecha": "2024-12-18",
     "Comentario": "Me encanta, es justo lo que necesitaba.",
-    "Clasificacion": "Positiva",
-    "PuntajeSatisfaccion": 4,
+    "Clasificacion": null,
+    "PuntajeSatisfaccion": null,
     "FuenteEncuesta": "EncuestaInterna"
   },
   {
@@ -2745,8 +2745,8 @@
     "IdProducto": 880,
     "Fecha": "2025-07-04",
     "Comentario": "El servicio fue r\u00E1pido y eficiente, estoy muy satisfecho.",
-    "Clasificacion": "Positiva",
-    "PuntajeSatisfaccion": 4,
+    "Clasificacion": null,
+    "PuntajeSatisfaccion": null,
     "FuenteEncuesta": "EncuestaInterna"
   },
   {
@@ -2755,8 +2755,8 @@
     "IdProducto": 36,
     "Fecha": "2025-07-18",
     "Comentario": "El env\u00EDo fue normal, dentro del tiempo esperado.",
-    "Clasificacion": "Neutra",
-    "PuntajeSatisfaccion": 3,
+    "Clasificacion": null,
+    "PuntajeSatisfaccion": null,
     "FuenteEncuesta": "EncuestaInterna"
   },
   {
@@ -2765,8 +2765,8 @@
     "IdProducto": 985,
     "Fecha": "2024-11-20",
     "Comentario": "Ni malo ni excelente, simplemente regular.",
-    "Clasificacion": "Neutra",
-    "PuntajeSatisfaccion": 3,
+    "Clasificacion": null,
+    "PuntajeSatisfaccion": null,
     "FuenteEncuesta": "EncuestaInterna"
   },
   {
@@ -2775,8 +2775,8 @@
     "IdProducto": 396,
     "Fecha": "2025-06-25",
     "Comentario": "El servicio fue r\u00E1pido y eficiente, estoy muy satisfecho.",
-    "Clasificacion": "Positiva",
-    "PuntajeSatisfaccion": 4,
+    "Clasificacion": null,
+    "PuntajeSatisfaccion": null,
     "FuenteEncuesta": "EncuestaInterna"
   },
   {
@@ -2785,8 +2785,8 @@
     "IdProducto": 294,
     "Fecha": "2025-04-10",
     "Comentario": "El producto lleg\u00F3 da\u00F1ado y no cumpli\u00F3 con lo prometido.",
-    "Clasificacion": "Negativa",
-    "PuntajeSatisfaccion": 2,
+    "Clasificacion": null,
+    "PuntajeSatisfaccion": null,
     "FuenteEncuesta": "EncuestaInterna"
   },
   {
@@ -2795,8 +2795,8 @@
     "IdProducto": 173,
     "Fecha": "2025-05-21",
     "Comentario": "Ni malo ni excelente, simplemente regular.",
-    "Clasificacion": "Neutra",
-    "PuntajeSatisfaccion": 3,
+    "Clasificacion": null,
+    "PuntajeSatisfaccion": null,
     "FuenteEncuesta": "EncuestaInterna"
   },
   {
@@ -2805,8 +2805,8 @@
     "IdProducto": 157,
     "Fecha": "2024-10-07",
     "Comentario": "El producto lleg\u00F3 en perfecto estado y antes de tiempo.",
-    "Clasificacion": "Positiva",
-    "PuntajeSatisfaccion": 4,
+    "Clasificacion": null,
+    "PuntajeSatisfaccion": null,
     "FuenteEncuesta": "EncuestaInterna"
   },
   {
@@ -2815,8 +2815,8 @@
     "IdProducto": 572,
     "Fecha": "2025-06-23",
     "Comentario": "Excelente calidad, definitivamente volver\u00EDa a comprar.",
-    "Clasificacion": "Positiva",
-    "PuntajeSatisfaccion": 5,
+    "Clasificacion": null,
+    "PuntajeSatisfaccion": null,
     "FuenteEncuesta": "EncuestaInterna"
   },
   {
@@ -2825,8 +2825,8 @@
     "IdProducto": 332,
     "Fecha": "2025-09-04",
     "Comentario": "El producto lleg\u00F3 da\u00F1ado y no cumpli\u00F3 con lo prometido.",
-    "Clasificacion": "Negativa",
-    "PuntajeSatisfaccion": 2,
+    "Clasificacion": null,
+    "PuntajeSatisfaccion": null,
     "FuenteEncuesta": "EncuestaInterna"
   },
   {
@@ -2835,8 +2835,8 @@
     "IdProducto": 57,
     "Fecha": "2024-11-24",
     "Comentario": "El env\u00EDo fue normal, dentro del tiempo esperado.",
-    "Clasificacion": "Neutra",
-    "PuntajeSatisfaccion": 3,
+    "Clasificacion": null,
+    "PuntajeSatisfaccion": null,
     "FuenteEncuesta": "EncuestaInterna"
   },
   {
@@ -2845,8 +2845,8 @@
     "IdProducto": 905,
     "Fecha": "2025-02-18",
     "Comentario": "El servicio fue lento y el soporte no resolvi\u00F3 mi problema.",
-    "Clasificacion": "Negativa",
-    "PuntajeSatisfaccion": 1,
+    "Clasificacion": null,
+    "PuntajeSatisfaccion": null,
     "FuenteEncuesta": "EncuestaInterna"
   },
   {
@@ -2855,8 +2855,8 @@
     "IdProducto": 903,
     "Fecha": "2025-06-04",
     "Comentario": "El env\u00EDo fue normal, dentro del tiempo esperado.",
-    "Clasificacion": "Neutra",
-    "PuntajeSatisfaccion": 3,
+    "Clasificacion": null,
+    "PuntajeSatisfaccion": null,
     "FuenteEncuesta": "EncuestaInterna"
   },
   {
@@ -2865,8 +2865,8 @@
     "IdProducto": 682,
     "Fecha": "2025-08-28",
     "Comentario": "La experiencia fue aceptable, aunque podr\u00EDa mejorar.",
-    "Clasificacion": "Neutra",
-    "PuntajeSatisfaccion": 3,
+    "Clasificacion": null,
+    "PuntajeSatisfaccion": null,
     "FuenteEncuesta": "EncuestaInterna"
   },
   {
@@ -2875,8 +2875,8 @@
     "IdProducto": 375,
     "Fecha": "2024-10-11",
     "Comentario": "Ni malo ni excelente, simplemente regular.",
-    "Clasificacion": "Neutra",
-    "PuntajeSatisfaccion": 3,
+    "Clasificacion": null,
+    "PuntajeSatisfaccion": null,
     "FuenteEncuesta": "EncuestaInterna"
   },
   {
@@ -2885,8 +2885,8 @@
     "IdProducto": 668,
     "Fecha": "2025-02-20",
     "Comentario": "Mala calidad, no lo recomiendo para nada.",
-    "Clasificacion": "Negativa",
-    "PuntajeSatisfaccion": 2,
+    "Clasificacion": null,
+    "PuntajeSatisfaccion": null,
     "FuenteEncuesta": "EncuestaInterna"
   },
   {
@@ -2895,8 +2895,8 @@
     "IdProducto": 102,
     "Fecha": "2024-10-04",
     "Comentario": "El servicio fue r\u00E1pido y eficiente, estoy muy satisfecho.",
-    "Clasificacion": "Positiva",
-    "PuntajeSatisfaccion": 5,
+    "Clasificacion": null,
+    "PuntajeSatisfaccion": null,
     "FuenteEncuesta": "EncuestaInterna"
   },
   {
@@ -2905,8 +2905,8 @@
     "IdProducto": 621,
     "Fecha": "2025-03-06",
     "Comentario": "Mala calidad, no lo recomiendo para nada.",
-    "Clasificacion": "Negativa",
-    "PuntajeSatisfaccion": 2,
+    "Clasificacion": null,
+    "PuntajeSatisfaccion": null,
     "FuenteEncuesta": "EncuestaInterna"
   },
   {
@@ -2915,8 +2915,8 @@
     "IdProducto": 419,
     "Fecha": "2025-03-18",
     "Comentario": "El producto lleg\u00F3 da\u00F1ado y no cumpli\u00F3 con lo prometido.",
-    "Clasificacion": "Negativa",
-    "PuntajeSatisfaccion": 1,
+    "Clasificacion": null,
+    "PuntajeSatisfaccion": null,
     "FuenteEncuesta": "EncuestaInterna"
   },
   {
@@ -2925,8 +2925,8 @@
     "IdProducto": 940,
     "Fecha": "2024-12-27",
     "Comentario": "El env\u00EDo fue normal, dentro del tiempo esperado.",
-    "Clasificacion": "Neutra",
-    "PuntajeSatisfaccion": 3,
+    "Clasificacion": null,
+    "PuntajeSatisfaccion": null,
     "FuenteEncuesta": "EncuestaInterna"
   },
   {
@@ -2935,8 +2935,8 @@
     "IdProducto": 576,
     "Fecha": "2025-08-26",
     "Comentario": "La experiencia fue aceptable, aunque podr\u00EDa mejorar.",
-    "Clasificacion": "Neutra",
-    "PuntajeSatisfaccion": 3,
+    "Clasificacion": null,
+    "PuntajeSatisfaccion": null,
     "FuenteEncuesta": "EncuestaInterna"
   },
   {
@@ -2945,8 +2945,8 @@
     "IdProducto": 779,
     "Fecha": "2025-01-25",
     "Comentario": "El producto lleg\u00F3 da\u00F1ado y no cumpli\u00F3 con lo prometido.",
-    "Clasificacion": "Negativa",
-    "PuntajeSatisfaccion": 1,
+    "Clasificacion": null,
+    "PuntajeSatisfaccion": null,
     "FuenteEncuesta": "EncuestaInterna"
   },
   {
@@ -2955,8 +2955,8 @@
     "IdProducto": 477,
     "Fecha": "2025-04-16",
     "Comentario": "Me encanta, es justo lo que necesitaba.",
-    "Clasificacion": "Positiva",
-    "PuntajeSatisfaccion": 5,
+    "Clasificacion": null,
+    "PuntajeSatisfaccion": null,
     "FuenteEncuesta": "EncuestaInterna"
   },
   {
@@ -2965,8 +2965,8 @@
     "IdProducto": 336,
     "Fecha": "2025-01-27",
     "Comentario": "La experiencia fue aceptable, aunque podr\u00EDa mejorar.",
-    "Clasificacion": "Neutra",
-    "PuntajeSatisfaccion": 3,
+    "Clasificacion": null,
+    "PuntajeSatisfaccion": null,
     "FuenteEncuesta": "EncuestaInterna"
   },
   {
@@ -2975,8 +2975,8 @@
     "IdProducto": 339,
     "Fecha": "2025-05-14",
     "Comentario": "Mala calidad, no lo recomiendo para nada.",
-    "Clasificacion": "Negativa",
-    "PuntajeSatisfaccion": 1,
+    "Clasificacion": null,
+    "PuntajeSatisfaccion": null,
     "FuenteEncuesta": "EncuestaInterna"
   },
   {
@@ -2985,8 +2985,8 @@
     "IdProducto": 751,
     "Fecha": "2024-11-25",
     "Comentario": "El servicio fue r\u00E1pido y eficiente, estoy muy satisfecho.",
-    "Clasificacion": "Positiva",
-    "PuntajeSatisfaccion": 5,
+    "Clasificacion": null,
+    "PuntajeSatisfaccion": null,
     "FuenteEncuesta": "EncuestaInterna"
   },
   {
@@ -2995,8 +2995,8 @@
     "IdProducto": 905,
     "Fecha": "2024-10-01",
     "Comentario": "No era lo que esperaba, muy decepcionado.",
-    "Clasificacion": "Negativa",
-    "PuntajeSatisfaccion": 1,
+    "Clasificacion": null,
+    "PuntajeSatisfaccion": null,
     "FuenteEncuesta": "EncuestaInterna"
   },
   {
@@ -3005,8 +3005,8 @@
     "IdProducto": 647,
     "Fecha": "2025-05-27",
     "Comentario": "Me encanta, es justo lo que necesitaba.",
-    "Clasificacion": "Positiva",
-    "PuntajeSatisfaccion": 5,
+    "Clasificacion": null,
+    "PuntajeSatisfaccion": null,
     "FuenteEncuesta": "EncuestaInterna"
   },
   {
@@ -3015,8 +3015,8 @@
     "IdProducto": 783,
     "Fecha": "2024-11-12",
     "Comentario": "La experiencia fue aceptable, aunque podr\u00EDa mejorar.",
-    "Clasificacion": "Neutra",
-    "PuntajeSatisfaccion": 3,
+    "Clasificacion": null,
+    "PuntajeSatisfaccion": null,
     "FuenteEncuesta": "EncuestaInterna"
   },
   {
@@ -3025,8 +3025,8 @@
     "IdProducto": 189,
     "Fecha": "2025-04-21",
     "Comentario": "El env\u00EDo fue normal, dentro del tiempo esperado.",
-    "Clasificacion": "Neutra",
-    "PuntajeSatisfaccion": 3,
+    "Clasificacion": null,
+    "PuntajeSatisfaccion": null,
     "FuenteEncuesta": "EncuestaInterna"
   },
   {
@@ -3035,8 +3035,8 @@
     "IdProducto": 467,
     "Fecha": "2025-06-04",
     "Comentario": "El producto dej\u00F3 de funcionar al poco tiempo de usarlo.",
-    "Clasificacion": "Negativa",
-    "PuntajeSatisfaccion": 1,
+    "Clasificacion": null,
+    "PuntajeSatisfaccion": null,
     "FuenteEncuesta": "EncuestaInterna"
   },
   {
@@ -3045,8 +3045,8 @@
     "IdProducto": 486,
     "Fecha": "2025-06-21",
     "Comentario": "El producto cumple su funci\u00F3n, nada especial.",
-    "Clasificacion": "Neutra",
-    "PuntajeSatisfaccion": 3,
+    "Clasificacion": null,
+    "PuntajeSatisfaccion": null,
     "FuenteEncuesta": "EncuestaInterna"
   },
   {
@@ -3055,8 +3055,8 @@
     "IdProducto": 784,
     "Fecha": "2024-09-16",
     "Comentario": "Ni malo ni excelente, simplemente regular.",
-    "Clasificacion": "Neutra",
-    "PuntajeSatisfaccion": 3,
+    "Clasificacion": null,
+    "PuntajeSatisfaccion": null,
     "FuenteEncuesta": "EncuestaInterna"
   },
   {
@@ -3065,8 +3065,8 @@
     "IdProducto": 488,
     "Fecha": "2025-05-09",
     "Comentario": "Mala calidad, no lo recomiendo para nada.",
-    "Clasificacion": "Negativa",
-    "PuntajeSatisfaccion": 2,
+    "Clasificacion": null,
+    "PuntajeSatisfaccion": null,
     "FuenteEncuesta": "EncuestaInterna"
   },
   {
@@ -3075,8 +3075,8 @@
     "IdProducto": 376,
     "Fecha": "2025-08-28",
     "Comentario": "Mala calidad, no lo recomiendo para nada.",
-    "Clasificacion": "Negativa",
-    "PuntajeSatisfaccion": 1,
+    "Clasificacion": null,
+    "PuntajeSatisfaccion": null,
     "FuenteEncuesta": "EncuestaInterna"
   },
   {
@@ -3085,8 +3085,8 @@
     "IdProducto": 576,
     "Fecha": "2024-12-16",
     "Comentario": "Excelente calidad, definitivamente volver\u00EDa a comprar.",
-    "Clasificacion": "Positiva",
-    "PuntajeSatisfaccion": 5,
+    "Clasificacion": null,
+    "PuntajeSatisfaccion": null,
     "FuenteEncuesta": "EncuestaInterna"
   },
   {
@@ -3095,8 +3095,8 @@
     "IdProducto": 315,
     "Fecha": "2025-05-18",
     "Comentario": "Excelente calidad, definitivamente volver\u00EDa a comprar.",
-    "Clasificacion": "Positiva",
-    "PuntajeSatisfaccion": 5,
+    "Clasificacion": null,
+    "PuntajeSatisfaccion": null,
     "FuenteEncuesta": "EncuestaInterna"
   },
   {
@@ -3105,8 +3105,8 @@
     "IdProducto": 730,
     "Fecha": "2024-11-17",
     "Comentario": "El servicio fue r\u00E1pido y eficiente, estoy muy satisfecho.",
-    "Clasificacion": "Positiva",
-    "PuntajeSatisfaccion": 4,
+    "Clasificacion": null,
+    "PuntajeSatisfaccion": null,
     "FuenteEncuesta": "EncuestaInterna"
   },
   {
@@ -3115,8 +3115,8 @@
     "IdProducto": 797,
     "Fecha": "2025-02-04",
     "Comentario": "El producto dej\u00F3 de funcionar al poco tiempo de usarlo.",
-    "Clasificacion": "Negativa",
-    "PuntajeSatisfaccion": 2,
+    "Clasificacion": null,
+    "PuntajeSatisfaccion": null,
     "FuenteEncuesta": "EncuestaInterna"
   },
   {
@@ -3125,8 +3125,8 @@
     "IdProducto": 897,
     "Fecha": "2025-07-19",
     "Comentario": "Me encanta, es justo lo que necesitaba.",
-    "Clasificacion": "Positiva",
-    "PuntajeSatisfaccion": 5,
+    "Clasificacion": null,
+    "PuntajeSatisfaccion": null,
     "FuenteEncuesta": "EncuestaInterna"
   },
   {
@@ -3135,8 +3135,8 @@
     "IdProducto": 56,
     "Fecha": "2024-12-15",
     "Comentario": "El producto cumple su funci\u00F3n, nada especial.",
-    "Clasificacion": "Neutra",
-    "PuntajeSatisfaccion": 3,
+    "Clasificacion": null,
+    "PuntajeSatisfaccion": null,
     "FuenteEncuesta": "EncuestaInterna"
   },
   {
@@ -3145,8 +3145,8 @@
     "IdProducto": 430,
     "Fecha": "2024-12-08",
     "Comentario": "El servicio fue lento y el soporte no resolvi\u00F3 mi problema.",
-    "Clasificacion": "Negativa",
-    "PuntajeSatisfaccion": 1,
+    "Clasificacion": null,
+    "PuntajeSatisfaccion": null,
     "FuenteEncuesta": "EncuestaInterna"
   },
   {
@@ -3155,8 +3155,8 @@
     "IdProducto": 826,
     "Fecha": "2025-01-16",
     "Comentario": "El producto super\u00F3 mis expectativas, muy recomendable.",
-    "Clasificacion": "Positiva",
-    "PuntajeSatisfaccion": 4,
+    "Clasificacion": null,
+    "PuntajeSatisfaccion": null,
     "FuenteEncuesta": "EncuestaInterna"
   },
   {
@@ -3165,8 +3165,8 @@
     "IdProducto": 142,
     "Fecha": "2024-10-14",
     "Comentario": "El env\u00EDo fue normal, dentro del tiempo esperado.",
-    "Clasificacion": "Neutra",
-    "PuntajeSatisfaccion": 3,
+    "Clasificacion": null,
+    "PuntajeSatisfaccion": null,
     "FuenteEncuesta": "EncuestaInterna"
   },
   {
@@ -3175,8 +3175,8 @@
     "IdProducto": 487,
     "Fecha": "2025-05-07",
     "Comentario": "Ni malo ni excelente, simplemente regular.",
-    "Clasificacion": "Neutra",
-    "PuntajeSatisfaccion": 3,
+    "Clasificacion": null,
+    "PuntajeSatisfaccion": null,
     "FuenteEncuesta": "EncuestaInterna"
   },
   {
@@ -3185,8 +3185,8 @@
     "IdProducto": 850,
     "Fecha": "2024-12-08",
     "Comentario": "Excelente calidad, definitivamente volver\u00EDa a comprar.",
-    "Clasificacion": "Positiva",
-    "PuntajeSatisfaccion": 5,
+    "Clasificacion": null,
+    "PuntajeSatisfaccion": null,
     "FuenteEncuesta": "EncuestaInterna"
   },
   {
@@ -3195,8 +3195,8 @@
     "IdProducto": 547,
     "Fecha": "2025-03-17",
     "Comentario": "La experiencia fue aceptable, aunque podr\u00EDa mejorar.",
-    "Clasificacion": "Neutra",
-    "PuntajeSatisfaccion": 3,
+    "Clasificacion": null,
+    "PuntajeSatisfaccion": null,
     "FuenteEncuesta": "EncuestaInterna"
   },
   {
@@ -3205,8 +3205,8 @@
     "IdProducto": 306,
     "Fecha": "2025-09-07",
     "Comentario": "El producto est\u00E1 bien, pero esperaba un poco m\u00E1s de calidad.",
-    "Clasificacion": "Neutra",
-    "PuntajeSatisfaccion": 3,
+    "Clasificacion": null,
+    "PuntajeSatisfaccion": null,
     "FuenteEncuesta": "EncuestaInterna"
   },
   {
@@ -3215,8 +3215,8 @@
     "IdProducto": 3,
     "Fecha": "2025-05-09",
     "Comentario": "El producto cumple su funci\u00F3n, nada especial.",
-    "Clasificacion": "Neutra",
-    "PuntajeSatisfaccion": 3,
+    "Clasificacion": null,
+    "PuntajeSatisfaccion": null,
     "FuenteEncuesta": "EncuestaInterna"
   },
   {
@@ -3225,8 +3225,8 @@
     "IdProducto": 871,
     "Fecha": "2024-10-13",
     "Comentario": "El servicio fue r\u00E1pido y eficiente, estoy muy satisfecho.",
-    "Clasificacion": "Positiva",
-    "PuntajeSatisfaccion": 4,
+    "Clasificacion": null,
+    "PuntajeSatisfaccion": null,
     "FuenteEncuesta": "EncuestaInterna"
   },
   {
@@ -3235,8 +3235,8 @@
     "IdProducto": 202,
     "Fecha": "2025-06-28",
     "Comentario": "El servicio fue r\u00E1pido y eficiente, estoy muy satisfecho.",
-    "Clasificacion": "Positiva",
-    "PuntajeSatisfaccion": 5,
+    "Clasificacion": null,
+    "PuntajeSatisfaccion": null,
     "FuenteEncuesta": "EncuestaInterna"
   },
   {
@@ -3245,8 +3245,8 @@
     "IdProducto": 675,
     "Fecha": "2025-03-28",
     "Comentario": "Me encanta, es justo lo que necesitaba.",
-    "Clasificacion": "Positiva",
-    "PuntajeSatisfaccion": 4,
+    "Clasificacion": null,
+    "PuntajeSatisfaccion": null,
     "FuenteEncuesta": "EncuestaInterna"
   },
   {
@@ -3255,8 +3255,8 @@
     "IdProducto": 899,
     "Fecha": "2025-03-25",
     "Comentario": "El producto cumple su funci\u00F3n, nada especial.",
-    "Clasificacion": "Neutra",
-    "PuntajeSatisfaccion": 3,
+    "Clasificacion": null,
+    "PuntajeSatisfaccion": null,
     "FuenteEncuesta": "EncuestaInterna"
   },
   {
@@ -3265,8 +3265,8 @@
     "IdProducto": 642,
     "Fecha": "2025-03-26",
     "Comentario": "El producto super\u00F3 mis expectativas, muy recomendable.",
-    "Clasificacion": "Positiva",
-    "PuntajeSatisfaccion": 4,
+    "Clasificacion": null,
+    "PuntajeSatisfaccion": null,
     "FuenteEncuesta": "EncuestaInterna"
   },
   {
@@ -3275,8 +3275,8 @@
     "IdProducto": 285,
     "Fecha": "2024-11-07",
     "Comentario": "Mala calidad, no lo recomiendo para nada.",
-    "Clasificacion": "Negativa",
-    "PuntajeSatisfaccion": 2,
+    "Clasificacion": null,
+    "PuntajeSatisfaccion": null,
     "FuenteEncuesta": "EncuestaInterna"
   },
   {
@@ -3285,8 +3285,8 @@
     "IdProducto": 149,
     "Fecha": "2024-11-14",
     "Comentario": "El producto super\u00F3 mis expectativas, muy recomendable.",
-    "Clasificacion": "Positiva",
-    "PuntajeSatisfaccion": 5,
+    "Clasificacion": null,
+    "PuntajeSatisfaccion": null,
     "FuenteEncuesta": "EncuestaInterna"
   },
   {
@@ -3295,8 +3295,8 @@
     "IdProducto": 472,
     "Fecha": "2025-02-05",
     "Comentario": "El env\u00EDo fue normal, dentro del tiempo esperado.",
-    "Clasificacion": "Neutra",
-    "PuntajeSatisfaccion": 3,
+    "Clasificacion": null,
+    "PuntajeSatisfaccion": null,
     "FuenteEncuesta": "EncuestaInterna"
   },
   {
@@ -3305,8 +3305,8 @@
     "IdProducto": 308,
     "Fecha": "2025-03-20",
     "Comentario": "No era lo que esperaba, muy decepcionado.",
-    "Clasificacion": "Negativa",
-    "PuntajeSatisfaccion": 1,
+    "Clasificacion": null,
+    "PuntajeSatisfaccion": null,
     "FuenteEncuesta": "EncuestaInterna"
   },
   {
@@ -3315,8 +3315,8 @@
     "IdProducto": 175,
     "Fecha": "2025-06-28",
     "Comentario": "Excelente calidad, definitivamente volver\u00EDa a comprar.",
-    "Clasificacion": "Positiva",
-    "PuntajeSatisfaccion": 4,
+    "Clasificacion": null,
+    "PuntajeSatisfaccion": null,
     "FuenteEncuesta": "EncuestaInterna"
   },
   {
@@ -3325,8 +3325,8 @@
     "IdProducto": 195,
     "Fecha": "2025-04-21",
     "Comentario": "El producto lleg\u00F3 en perfecto estado y antes de tiempo.",
-    "Clasificacion": "Positiva",
-    "PuntajeSatisfaccion": 4,
+    "Clasificacion": null,
+    "PuntajeSatisfaccion": null,
     "FuenteEncuesta": "EncuestaInterna"
   },
   {
@@ -3335,8 +3335,8 @@
     "IdProducto": 932,
     "Fecha": "2025-01-17",
     "Comentario": "No era lo que esperaba, muy decepcionado.",
-    "Clasificacion": "Negativa",
-    "PuntajeSatisfaccion": 1,
+    "Clasificacion": null,
+    "PuntajeSatisfaccion": null,
     "FuenteEncuesta": "EncuestaInterna"
   },
   {
@@ -3345,8 +3345,8 @@
     "IdProducto": 689,
     "Fecha": "2024-09-28",
     "Comentario": "Me encanta, es justo lo que necesitaba.",
-    "Clasificacion": "Positiva",
-    "PuntajeSatisfaccion": 4,
+    "Clasificacion": null,
+    "PuntajeSatisfaccion": null,
     "FuenteEncuesta": "EncuestaInterna"
   },
   {
@@ -3355,8 +3355,8 @@
     "IdProducto": 757,
     "Fecha": "2025-02-01",
     "Comentario": "La experiencia fue aceptable, aunque podr\u00EDa mejorar.",
-    "Clasificacion": "Neutra",
-    "PuntajeSatisfaccion": 3,
+    "Clasificacion": null,
+    "PuntajeSatisfaccion": null,
     "FuenteEncuesta": "EncuestaInterna"
   },
   {
@@ -3365,8 +3365,8 @@
     "IdProducto": 995,
     "Fecha": "2025-06-02",
     "Comentario": "El producto dej\u00F3 de funcionar al poco tiempo de usarlo.",
-    "Clasificacion": "Negativa",
-    "PuntajeSatisfaccion": 1,
+    "Clasificacion": null,
+    "PuntajeSatisfaccion": null,
     "FuenteEncuesta": "EncuestaInterna"
   },
   {
@@ -3375,8 +3375,8 @@
     "IdProducto": 306,
     "Fecha": "2025-04-19",
     "Comentario": "El servicio fue r\u00E1pido y eficiente, estoy muy satisfecho.",
-    "Clasificacion": "Positiva",
-    "PuntajeSatisfaccion": 5,
+    "Clasificacion": null,
+    "PuntajeSatisfaccion": null,
     "FuenteEncuesta": "EncuestaInterna"
   },
   {
@@ -3385,8 +3385,8 @@
     "IdProducto": 366,
     "Fecha": "2025-03-02",
     "Comentario": "El producto dej\u00F3 de funcionar al poco tiempo de usarlo.",
-    "Clasificacion": "Negativa",
-    "PuntajeSatisfaccion": 2,
+    "Clasificacion": null,
+    "PuntajeSatisfaccion": null,
     "FuenteEncuesta": "EncuestaInterna"
   },
   {
@@ -3395,8 +3395,8 @@
     "IdProducto": 638,
     "Fecha": "2025-02-26",
     "Comentario": "El producto est\u00E1 bien, pero esperaba un poco m\u00E1s de calidad.",
-    "Clasificacion": "Neutra",
-    "PuntajeSatisfaccion": 3,
+    "Clasificacion": null,
+    "PuntajeSatisfaccion": null,
     "FuenteEncuesta": "EncuestaInterna"
   },
   {
@@ -3405,8 +3405,8 @@
     "IdProducto": 60,
     "Fecha": "2024-11-13",
     "Comentario": "Me encanta, es justo lo que necesitaba.",
-    "Clasificacion": "Positiva",
-    "PuntajeSatisfaccion": 5,
+    "Clasificacion": null,
+    "PuntajeSatisfaccion": null,
     "FuenteEncuesta": "EncuestaInterna"
   },
   {
@@ -3415,8 +3415,8 @@
     "IdProducto": 912,
     "Fecha": "2025-01-22",
     "Comentario": "La experiencia fue aceptable, aunque podr\u00EDa mejorar.",
-    "Clasificacion": "Neutra",
-    "PuntajeSatisfaccion": 3,
+    "Clasificacion": null,
+    "PuntajeSatisfaccion": null,
     "FuenteEncuesta": "EncuestaInterna"
   },
   {
@@ -3425,8 +3425,8 @@
     "IdProducto": 775,
     "Fecha": "2025-09-12",
     "Comentario": "No era lo que esperaba, muy decepcionado.",
-    "Clasificacion": "Negativa",
-    "PuntajeSatisfaccion": 1,
+    "Clasificacion": null,
+    "PuntajeSatisfaccion": null,
     "FuenteEncuesta": "EncuestaInterna"
   },
   {
@@ -3435,8 +3435,8 @@
     "IdProducto": 120,
     "Fecha": "2025-07-03",
     "Comentario": "El producto super\u00F3 mis expectativas, muy recomendable.",
-    "Clasificacion": "Positiva",
-    "PuntajeSatisfaccion": 5,
+    "Clasificacion": null,
+    "PuntajeSatisfaccion": null,
     "FuenteEncuesta": "EncuestaInterna"
   },
   {
@@ -3445,8 +3445,8 @@
     "IdProducto": 265,
     "Fecha": "2025-05-09",
     "Comentario": "El producto dej\u00F3 de funcionar al poco tiempo de usarlo.",
-    "Clasificacion": "Negativa",
-    "PuntajeSatisfaccion": 2,
+    "Clasificacion": null,
+    "PuntajeSatisfaccion": null,
     "FuenteEncuesta": "EncuestaInterna"
   },
   {
@@ -3455,8 +3455,8 @@
     "IdProducto": 682,
     "Fecha": "2025-08-13",
     "Comentario": "El servicio fue r\u00E1pido y eficiente, estoy muy satisfecho.",
-    "Clasificacion": "Positiva",
-    "PuntajeSatisfaccion": 4,
+    "Clasificacion": null,
+    "PuntajeSatisfaccion": null,
     "FuenteEncuesta": "EncuestaInterna"
   },
   {
@@ -3465,8 +3465,8 @@
     "IdProducto": 212,
     "Fecha": "2025-02-10",
     "Comentario": "El producto lleg\u00F3 en perfecto estado y antes de tiempo.",
-    "Clasificacion": "Positiva",
-    "PuntajeSatisfaccion": 5,
+    "Clasificacion": null,
+    "PuntajeSatisfaccion": null,
     "FuenteEncuesta": "EncuestaInterna"
   },
   {
@@ -3475,8 +3475,8 @@
     "IdProducto": 358,
     "Fecha": "2025-01-08",
     "Comentario": "Mala calidad, no lo recomiendo para nada.",
-    "Clasificacion": "Negativa",
-    "PuntajeSatisfaccion": 2,
+    "Clasificacion": null,
+    "PuntajeSatisfaccion": null,
     "FuenteEncuesta": "EncuestaInterna"
   },
   {
@@ -3485,8 +3485,8 @@
     "IdProducto": 350,
     "Fecha": "2025-08-06",
     "Comentario": "El producto dej\u00F3 de funcionar al poco tiempo de usarlo.",
-    "Clasificacion": "Negativa",
-    "PuntajeSatisfaccion": 1,
+    "Clasificacion": null,
+    "PuntajeSatisfaccion": null,
     "FuenteEncuesta": "EncuestaInterna"
   },
   {
@@ -3495,8 +3495,8 @@
     "IdProducto": 712,
     "Fecha": "2024-12-26",
     "Comentario": "El producto cumple su funci\u00F3n, nada especial.",
-    "Clasificacion": "Neutra",
-    "PuntajeSatisfaccion": 3,
+    "Clasificacion": null,
+    "PuntajeSatisfaccion": null,
     "FuenteEncuesta": "EncuestaInterna"
   },
   {
@@ -3505,8 +3505,8 @@
     "IdProducto": 268,
     "Fecha": "2024-09-14",
     "Comentario": "El servicio fue lento y el soporte no resolvi\u00F3 mi problema.",
-    "Clasificacion": "Negativa",
-    "PuntajeSatisfaccion": 2,
+    "Clasificacion": null,
+    "PuntajeSatisfaccion": null,
     "FuenteEncuesta": "EncuestaInterna"
   },
   {
@@ -3515,8 +3515,8 @@
     "IdProducto": 571,
     "Fecha": "2025-06-21",
     "Comentario": "El servicio fue lento y el soporte no resolvi\u00F3 mi problema.",
-    "Clasificacion": "Negativa",
-    "PuntajeSatisfaccion": 2,
+    "Clasificacion": null,
+    "PuntajeSatisfaccion": null,
     "FuenteEncuesta": "EncuestaInterna"
   },
   {
@@ -3525,8 +3525,8 @@
     "IdProducto": 861,
     "Fecha": "2025-04-11",
     "Comentario": "El producto lleg\u00F3 da\u00F1ado y no cumpli\u00F3 con lo prometido.",
-    "Clasificacion": "Negativa",
-    "PuntajeSatisfaccion": 1,
+    "Clasificacion": null,
+    "PuntajeSatisfaccion": null,
     "FuenteEncuesta": "EncuestaInterna"
   },
   {
@@ -3535,8 +3535,8 @@
     "IdProducto": 75,
     "Fecha": "2025-07-04",
     "Comentario": "El producto dej\u00F3 de funcionar al poco tiempo de usarlo.",
-    "Clasificacion": "Negativa",
-    "PuntajeSatisfaccion": 2,
+    "Clasificacion": null,
+    "PuntajeSatisfaccion": null,
     "FuenteEncuesta": "EncuestaInterna"
   },
   {
@@ -3545,8 +3545,8 @@
     "IdProducto": 995,
     "Fecha": "2024-12-20",
     "Comentario": "La experiencia fue aceptable, aunque podr\u00EDa mejorar.",
-    "Clasificacion": "Neutra",
-    "PuntajeSatisfaccion": 3,
+    "Clasificacion": null,
+    "PuntajeSatisfaccion": null,
     "FuenteEncuesta": "EncuestaInterna"
   },
   {
@@ -3555,8 +3555,8 @@
     "IdProducto": 47,
     "Fecha": "2025-04-18",
     "Comentario": "Mala calidad, no lo recomiendo para nada.",
-    "Clasificacion": "Negativa",
-    "PuntajeSatisfaccion": 1,
+    "Clasificacion": null,
+    "PuntajeSatisfaccion": null,
     "FuenteEncuesta": "EncuestaInterna"
   },
   {
@@ -3565,8 +3565,8 @@
     "IdProducto": 466,
     "Fecha": "2024-09-25",
     "Comentario": "El producto est\u00E1 bien, pero esperaba un poco m\u00E1s de calidad.",
-    "Clasificacion": "Neutra",
-    "PuntajeSatisfaccion": 3,
+    "Clasificacion": null,
+    "PuntajeSatisfaccion": null,
     "FuenteEncuesta": "EncuestaInterna"
   },
   {
@@ -3575,8 +3575,8 @@
     "IdProducto": 24,
     "Fecha": "2025-01-05",
     "Comentario": "El servicio fue lento y el soporte no resolvi\u00F3 mi problema.",
-    "Clasificacion": "Negativa",
-    "PuntajeSatisfaccion": 1,
+    "Clasificacion": null,
+    "PuntajeSatisfaccion": null,
     "FuenteEncuesta": "EncuestaInterna"
   },
   {
@@ -3585,8 +3585,8 @@
     "IdProducto": 274,
     "Fecha": "2025-01-10",
     "Comentario": "El servicio fue r\u00E1pido y eficiente, estoy muy satisfecho.",
-    "Clasificacion": "Positiva",
-    "PuntajeSatisfaccion": 5,
+    "Clasificacion": null,
+    "PuntajeSatisfaccion": null,
     "FuenteEncuesta": "EncuestaInterna"
   },
   {
@@ -3595,8 +3595,8 @@
     "IdProducto": 621,
     "Fecha": "2025-01-28",
     "Comentario": "El env\u00EDo fue normal, dentro del tiempo esperado.",
-    "Clasificacion": "Neutra",
-    "PuntajeSatisfaccion": 3,
+    "Clasificacion": null,
+    "PuntajeSatisfaccion": null,
     "FuenteEncuesta": "EncuestaInterna"
   },
   {
@@ -3605,8 +3605,8 @@
     "IdProducto": 532,
     "Fecha": "2025-07-27",
     "Comentario": "Ni malo ni excelente, simplemente regular.",
-    "Clasificacion": "Neutra",
-    "PuntajeSatisfaccion": 3,
+    "Clasificacion": null,
+    "PuntajeSatisfaccion": null,
     "FuenteEncuesta": "EncuestaInterna"
   },
   {
@@ -3615,8 +3615,8 @@
     "IdProducto": 639,
     "Fecha": "2025-04-20",
     "Comentario": "El producto est\u00E1 bien, pero esperaba un poco m\u00E1s de calidad.",
-    "Clasificacion": "Neutra",
-    "PuntajeSatisfaccion": 3,
+    "Clasificacion": null,
+    "PuntajeSatisfaccion": null,
     "FuenteEncuesta": "EncuestaInterna"
   },
   {
@@ -3625,8 +3625,8 @@
     "IdProducto": 126,
     "Fecha": "2025-02-28",
     "Comentario": "El servicio fue lento y el soporte no resolvi\u00F3 mi problema.",
-    "Clasificacion": "Negativa",
-    "PuntajeSatisfaccion": 1,
+    "Clasificacion": null,
+    "PuntajeSatisfaccion": null,
     "FuenteEncuesta": "EncuestaInterna"
   },
   {
@@ -3635,8 +3635,8 @@
     "IdProducto": 635,
     "Fecha": "2025-02-21",
     "Comentario": "La experiencia fue aceptable, aunque podr\u00EDa mejorar.",
-    "Clasificacion": "Neutra",
-    "PuntajeSatisfaccion": 3,
+    "Clasificacion": null,
+    "PuntajeSatisfaccion": null,
     "FuenteEncuesta": "EncuestaInterna"
   },
   {
@@ -3645,8 +3645,8 @@
     "IdProducto": 529,
     "Fecha": "2024-10-08",
     "Comentario": "No era lo que esperaba, muy decepcionado.",
-    "Clasificacion": "Negativa",
-    "PuntajeSatisfaccion": 1,
+    "Clasificacion": null,
+    "PuntajeSatisfaccion": null,
     "FuenteEncuesta": "EncuestaInterna"
   },
   {
@@ -3655,8 +3655,8 @@
     "IdProducto": 511,
     "Fecha": "2025-07-23",
     "Comentario": "La experiencia fue aceptable, aunque podr\u00EDa mejorar.",
-    "Clasificacion": "Neutra",
-    "PuntajeSatisfaccion": 3,
+    "Clasificacion": null,
+    "PuntajeSatisfaccion": null,
     "FuenteEncuesta": "EncuestaInterna"
   },
   {
@@ -3665,8 +3665,8 @@
     "IdProducto": 582,
     "Fecha": "2025-05-31",
     "Comentario": "Me encanta, es justo lo que necesitaba.",
-    "Clasificacion": "Positiva",
-    "PuntajeSatisfaccion": 5,
+    "Clasificacion": null,
+    "PuntajeSatisfaccion": null,
     "FuenteEncuesta": "EncuestaInterna"
   },
   {
@@ -3675,8 +3675,8 @@
     "IdProducto": 594,
     "Fecha": "2025-01-15",
     "Comentario": "El servicio fue r\u00E1pido y eficiente, estoy muy satisfecho.",
-    "Clasificacion": "Positiva",
-    "PuntajeSatisfaccion": 4,
+    "Clasificacion": null,
+    "PuntajeSatisfaccion": null,
     "FuenteEncuesta": "EncuestaInterna"
   },
   {
@@ -3685,8 +3685,8 @@
     "IdProducto": 150,
     "Fecha": "2025-03-30",
     "Comentario": "El producto dej\u00F3 de funcionar al poco tiempo de usarlo.",
-    "Clasificacion": "Negativa",
-    "PuntajeSatisfaccion": 2,
+    "Clasificacion": null,
+    "PuntajeSatisfaccion": null,
     "FuenteEncuesta": "EncuestaInterna"
   },
   {
@@ -3695,8 +3695,8 @@
     "IdProducto": 613,
     "Fecha": "2025-07-17",
     "Comentario": "Mala calidad, no lo recomiendo para nada.",
-    "Clasificacion": "Negativa",
-    "PuntajeSatisfaccion": 1,
+    "Clasificacion": null,
+    "PuntajeSatisfaccion": null,
     "FuenteEncuesta": "EncuestaInterna"
   },
   {
@@ -3705,8 +3705,8 @@
     "IdProducto": 510,
     "Fecha": "2025-07-10",
     "Comentario": "Excelente calidad, definitivamente volver\u00EDa a comprar.",
-    "Clasificacion": "Positiva",
-    "PuntajeSatisfaccion": 5,
+    "Clasificacion": null,
+    "PuntajeSatisfaccion": null,
     "FuenteEncuesta": "EncuestaInterna"
   },
   {
@@ -3715,8 +3715,8 @@
     "IdProducto": 800,
     "Fecha": "2025-01-01",
     "Comentario": "Me encanta, es justo lo que necesitaba.",
-    "Clasificacion": "Positiva",
-    "PuntajeSatisfaccion": 4,
+    "Clasificacion": null,
+    "PuntajeSatisfaccion": null,
     "FuenteEncuesta": "EncuestaInterna"
   },
   {
@@ -3725,8 +3725,8 @@
     "IdProducto": 169,
     "Fecha": "2025-06-25",
     "Comentario": "Ni malo ni excelente, simplemente regular.",
-    "Clasificacion": "Neutra",
-    "PuntajeSatisfaccion": 3,
+    "Clasificacion": null,
+    "PuntajeSatisfaccion": null,
     "FuenteEncuesta": "EncuestaInterna"
   },
   {
@@ -3735,8 +3735,8 @@
     "IdProducto": 970,
     "Fecha": "2025-05-05",
     "Comentario": "Mala calidad, no lo recomiendo para nada.",
-    "Clasificacion": "Negativa",
-    "PuntajeSatisfaccion": 2,
+    "Clasificacion": null,
+    "PuntajeSatisfaccion": null,
     "FuenteEncuesta": "EncuestaInterna"
   },
   {
@@ -3745,8 +3745,8 @@
     "IdProducto": 720,
     "Fecha": "2024-10-24",
     "Comentario": "El producto lleg\u00F3 en perfecto estado y antes de tiempo.",
-    "Clasificacion": "Positiva",
-    "PuntajeSatisfaccion": 4,
+    "Clasificacion": null,
+    "PuntajeSatisfaccion": null,
     "FuenteEncuesta": "EncuestaInterna"
   },
   {
@@ -3755,8 +3755,8 @@
     "IdProducto": 638,
     "Fecha": "2025-05-28",
     "Comentario": "El servicio fue r\u00E1pido y eficiente, estoy muy satisfecho.",
-    "Clasificacion": "Positiva",
-    "PuntajeSatisfaccion": 5,
+    "Clasificacion": null,
+    "PuntajeSatisfaccion": null,
     "FuenteEncuesta": "EncuestaInterna"
   },
   {
@@ -3765,8 +3765,8 @@
     "IdProducto": 757,
     "Fecha": "2024-11-03",
     "Comentario": "Ni malo ni excelente, simplemente regular.",
-    "Clasificacion": "Neutra",
-    "PuntajeSatisfaccion": 3,
+    "Clasificacion": null,
+    "PuntajeSatisfaccion": null,
     "FuenteEncuesta": "EncuestaInterna"
   },
   {
@@ -3775,8 +3775,8 @@
     "IdProducto": 876,
     "Fecha": "2025-03-05",
     "Comentario": "La experiencia fue aceptable, aunque podr\u00EDa mejorar.",
-    "Clasificacion": "Neutra",
-    "PuntajeSatisfaccion": 3,
+    "Clasificacion": null,
+    "PuntajeSatisfaccion": null,
     "FuenteEncuesta": "EncuestaInterna"
   },
   {
@@ -3785,8 +3785,8 @@
     "IdProducto": 39,
     "Fecha": "2025-05-19",
     "Comentario": "El producto lleg\u00F3 da\u00F1ado y no cumpli\u00F3 con lo prometido.",
-    "Clasificacion": "Negativa",
-    "PuntajeSatisfaccion": 1,
+    "Clasificacion": null,
+    "PuntajeSatisfaccion": null,
     "FuenteEncuesta": "EncuestaInterna"
   },
   {
@@ -3795,8 +3795,8 @@
     "IdProducto": 50,
     "Fecha": "2024-12-18",
     "Comentario": "El producto est\u00E1 bien, pero esperaba un poco m\u00E1s de calidad.",
-    "Clasificacion": "Neutra",
-    "PuntajeSatisfaccion": 3,
+    "Clasificacion": null,
+    "PuntajeSatisfaccion": null,
     "FuenteEncuesta": "EncuestaInterna"
   },
   {
@@ -3805,8 +3805,8 @@
     "IdProducto": 517,
     "Fecha": "2025-08-19",
     "Comentario": "No era lo que esperaba, muy decepcionado.",
-    "Clasificacion": "Negativa",
-    "PuntajeSatisfaccion": 1,
+    "Clasificacion": null,
+    "PuntajeSatisfaccion": null,
     "FuenteEncuesta": "EncuestaInterna"
   },
   {
@@ -3815,8 +3815,8 @@
     "IdProducto": 744,
     "Fecha": "2025-01-08",
     "Comentario": "El producto lleg\u00F3 da\u00F1ado y no cumpli\u00F3 con lo prometido.",
-    "Clasificacion": "Negativa",
-    "PuntajeSatisfaccion": 1,
+    "Clasificacion": null,
+    "PuntajeSatisfaccion": null,
     "FuenteEncuesta": "EncuestaInterna"
   },
   {
@@ -3825,8 +3825,8 @@
     "IdProducto": 865,
     "Fecha": "2025-09-02",
     "Comentario": "La experiencia fue aceptable, aunque podr\u00EDa mejorar.",
-    "Clasificacion": "Neutra",
-    "PuntajeSatisfaccion": 3,
+    "Clasificacion": null,
+    "PuntajeSatisfaccion": null,
     "FuenteEncuesta": "EncuestaInterna"
   },
   {
@@ -3835,8 +3835,8 @@
     "IdProducto": 476,
     "Fecha": "2024-09-26",
     "Comentario": "El producto dej\u00F3 de funcionar al poco tiempo de usarlo.",
-    "Clasificacion": "Negativa",
-    "PuntajeSatisfaccion": 1,
+    "Clasificacion": null,
+    "PuntajeSatisfaccion": null,
     "FuenteEncuesta": "EncuestaInterna"
   },
   {
@@ -3845,8 +3845,8 @@
     "IdProducto": 654,
     "Fecha": "2024-10-25",
     "Comentario": "Ni malo ni excelente, simplemente regular.",
-    "Clasificacion": "Neutra",
-    "PuntajeSatisfaccion": 3,
+    "Clasificacion": null,
+    "PuntajeSatisfaccion": null,
     "FuenteEncuesta": "EncuestaInterna"
   },
   {
@@ -3855,8 +3855,8 @@
     "IdProducto": 773,
     "Fecha": "2025-05-13",
     "Comentario": "El producto est\u00E1 bien, pero esperaba un poco m\u00E1s de calidad.",
-    "Clasificacion": "Neutra",
-    "PuntajeSatisfaccion": 3,
+    "Clasificacion": null,
+    "PuntajeSatisfaccion": null,
     "FuenteEncuesta": "EncuestaInterna"
   },
   {
@@ -3865,8 +3865,8 @@
     "IdProducto": 259,
     "Fecha": "2025-08-02",
     "Comentario": "El servicio fue r\u00E1pido y eficiente, estoy muy satisfecho.",
-    "Clasificacion": "Positiva",
-    "PuntajeSatisfaccion": 4,
+    "Clasificacion": null,
+    "PuntajeSatisfaccion": null,
     "FuenteEncuesta": "EncuestaInterna"
   },
   {
@@ -3875,8 +3875,8 @@
     "IdProducto": 95,
     "Fecha": "2024-12-03",
     "Comentario": "No era lo que esperaba, muy decepcionado.",
-    "Clasificacion": "Negativa",
-    "PuntajeSatisfaccion": 2,
+    "Clasificacion": null,
+    "PuntajeSatisfaccion": null,
     "FuenteEncuesta": "EncuestaInterna"
   },
   {
@@ -3885,8 +3885,8 @@
     "IdProducto": 38,
     "Fecha": "2025-09-04",
     "Comentario": "El producto lleg\u00F3 da\u00F1ado y no cumpli\u00F3 con lo prometido.",
-    "Clasificacion": "Negativa",
-    "PuntajeSatisfaccion": 1,
+    "Clasificacion": null,
+    "PuntajeSatisfaccion": null,
     "FuenteEncuesta": "EncuestaInterna"
   },
   {
@@ -3895,8 +3895,8 @@
     "IdProducto": 610,
     "Fecha": "2025-06-28",
     "Comentario": "El producto super\u00F3 mis expectativas, muy recomendable.",
-    "Clasificacion": "Positiva",
-    "PuntajeSatisfaccion": 4,
+    "Clasificacion": null,
+    "PuntajeSatisfaccion": null,
     "FuenteEncuesta": "EncuestaInterna"
   },
   {
@@ -3905,8 +3905,8 @@
     "IdProducto": 54,
     "Fecha": "2025-01-06",
     "Comentario": "Ni malo ni excelente, simplemente regular.",
-    "Clasificacion": "Neutra",
-    "PuntajeSatisfaccion": 3,
+    "Clasificacion": null,
+    "PuntajeSatisfaccion": null,
     "FuenteEncuesta": "EncuestaInterna"
   },
   {
@@ -3915,8 +3915,8 @@
     "IdProducto": 166,
     "Fecha": "2025-01-15",
     "Comentario": "El producto dej\u00F3 de funcionar al poco tiempo de usarlo.",
-    "Clasificacion": "Negativa",
-    "PuntajeSatisfaccion": 2,
+    "Clasificacion": null,
+    "PuntajeSatisfaccion": null,
     "FuenteEncuesta": "EncuestaInterna"
   },
   {
@@ -3925,8 +3925,8 @@
     "IdProducto": 520,
     "Fecha": "2024-10-09",
     "Comentario": "El producto dej\u00F3 de funcionar al poco tiempo de usarlo.",
-    "Clasificacion": "Negativa",
-    "PuntajeSatisfaccion": 1,
+    "Clasificacion": null,
+    "PuntajeSatisfaccion": null,
     "FuenteEncuesta": "EncuestaInterna"
   },
   {
@@ -3935,8 +3935,8 @@
     "IdProducto": 567,
     "Fecha": "2025-04-26",
     "Comentario": "El env\u00EDo fue normal, dentro del tiempo esperado.",
-    "Clasificacion": "Neutra",
-    "PuntajeSatisfaccion": 3,
+    "Clasificacion": null,
+    "PuntajeSatisfaccion": null,
     "FuenteEncuesta": "EncuestaInterna"
   },
   {
@@ -3945,8 +3945,8 @@
     "IdProducto": 483,
     "Fecha": "2024-10-12",
     "Comentario": "El producto cumple su funci\u00F3n, nada especial.",
-    "Clasificacion": "Neutra",
-    "PuntajeSatisfaccion": 3,
+    "Clasificacion": null,
+    "PuntajeSatisfaccion": null,
     "FuenteEncuesta": "EncuestaInterna"
   },
   {
@@ -3955,8 +3955,8 @@
     "IdProducto": 929,
     "Fecha": "2025-08-26",
     "Comentario": "El producto lleg\u00F3 da\u00F1ado y no cumpli\u00F3 con lo prometido.",
-    "Clasificacion": "Negativa",
-    "PuntajeSatisfaccion": 2,
+    "Clasificacion": null,
+    "PuntajeSatisfaccion": null,
     "FuenteEncuesta": "EncuestaInterna"
   },
   {
@@ -3965,8 +3965,8 @@
     "IdProducto": 618,
     "Fecha": "2025-06-25",
     "Comentario": "Ni malo ni excelente, simplemente regular.",
-    "Clasificacion": "Neutra",
-    "PuntajeSatisfaccion": 3,
+    "Clasificacion": null,
+    "PuntajeSatisfaccion": null,
     "FuenteEncuesta": "EncuestaInterna"
   },
   {
@@ -3975,8 +3975,8 @@
     "IdProducto": 224,
     "Fecha": "2025-05-05",
     "Comentario": "Excelente calidad, definitivamente volver\u00EDa a comprar.",
-    "Clasificacion": "Positiva",
-    "PuntajeSatisfaccion": 5,
+    "Clasificacion": null,
+    "PuntajeSatisfaccion": null,
     "FuenteEncuesta": "EncuestaInterna"
   },
   {
@@ -3985,8 +3985,8 @@
     "IdProducto": 444,
     "Fecha": "2025-03-28",
     "Comentario": "Me encanta, es justo lo que necesitaba.",
-    "Clasificacion": "Positiva",
-    "PuntajeSatisfaccion": 5,
+    "Clasificacion": null,
+    "PuntajeSatisfaccion": null,
     "FuenteEncuesta": "EncuestaInterna"
   },
   {
@@ -3995,8 +3995,8 @@
     "IdProducto": 836,
     "Fecha": "2025-08-08",
     "Comentario": "No era lo que esperaba, muy decepcionado.",
-    "Clasificacion": "Negativa",
-    "PuntajeSatisfaccion": 1,
+    "Clasificacion": null,
+    "PuntajeSatisfaccion": null,
     "FuenteEncuesta": "EncuestaInterna"
   },
   {
@@ -4005,8 +4005,8 @@
     "IdProducto": 319,
     "Fecha": "2025-01-06",
     "Comentario": "El producto lleg\u00F3 da\u00F1ado y no cumpli\u00F3 con lo prometido.",
-    "Clasificacion": "Negativa",
-    "PuntajeSatisfaccion": 2,
+    "Clasificacion": null,
+    "PuntajeSatisfaccion": null,
     "FuenteEncuesta": "EncuestaInterna"
   },
   {
@@ -4015,8 +4015,8 @@
     "IdProducto": 336,
     "Fecha": "2024-09-20",
     "Comentario": "La experiencia fue aceptable, aunque podr\u00EDa mejorar.",
-    "Clasificacion": "Neutra",
-    "PuntajeSatisfaccion": 3,
+    "Clasificacion": null,
+    "PuntajeSatisfaccion": null,
     "FuenteEncuesta": "EncuestaInterna"
   },
   {
@@ -4025,8 +4025,8 @@
     "IdProducto": 323,
     "Fecha": "2025-07-16",
     "Comentario": "La experiencia fue aceptable, aunque podr\u00EDa mejorar.",
-    "Clasificacion": "Neutra",
-    "PuntajeSatisfaccion": 3,
+    "Clasificacion": null,
+    "PuntajeSatisfaccion": null,
     "FuenteEncuesta": "EncuestaInterna"
   },
   {
@@ -4035,8 +4035,8 @@
     "IdProducto": 453,
     "Fecha": "2025-06-23",
     "Comentario": "El servicio fue r\u00E1pido y eficiente, estoy muy satisfecho.",
-    "Clasificacion": "Positiva",
-    "PuntajeSatisfaccion": 4,
+    "Clasificacion": null,
+    "PuntajeSatisfaccion": null,
     "FuenteEncuesta": "EncuestaInterna"
   },
   {
@@ -4045,8 +4045,8 @@
     "IdProducto": 215,
     "Fecha": "2025-03-05",
     "Comentario": "Excelente calidad, definitivamente volver\u00EDa a comprar.",
-    "Clasificacion": "Positiva",
-    "PuntajeSatisfaccion": 5,
+    "Clasificacion": null,
+    "PuntajeSatisfaccion": null,
     "FuenteEncuesta": "EncuestaInterna"
   },
   {
@@ -4055,8 +4055,8 @@
     "IdProducto": 789,
     "Fecha": "2025-05-05",
     "Comentario": "El producto cumple su funci\u00F3n, nada especial.",
-    "Clasificacion": "Neutra",
-    "PuntajeSatisfaccion": 3,
+    "Clasificacion": null,
+    "PuntajeSatisfaccion": null,
     "FuenteEncuesta": "EncuestaInterna"
   },
   {
@@ -4065,8 +4065,8 @@
     "IdProducto": 307,
     "Fecha": "2025-04-26",
     "Comentario": "Ni malo ni excelente, simplemente regular.",
-    "Clasificacion": "Neutra",
-    "PuntajeSatisfaccion": 3,
+    "Clasificacion": null,
+    "PuntajeSatisfaccion": null,
     "FuenteEncuesta": "EncuestaInterna"
   },
   {
@@ -4075,8 +4075,8 @@
     "IdProducto": 601,
     "Fecha": "2025-04-01",
     "Comentario": "El producto lleg\u00F3 en perfecto estado y antes de tiempo.",
-    "Clasificacion": "Positiva",
-    "PuntajeSatisfaccion": 5,
+    "Clasificacion": null,
+    "PuntajeSatisfaccion": null,
     "FuenteEncuesta": "EncuestaInterna"
   },
   {
@@ -4085,8 +4085,8 @@
     "IdProducto": 985,
     "Fecha": "2024-11-25",
     "Comentario": "Ni malo ni excelente, simplemente regular.",
-    "Clasificacion": "Neutra",
-    "PuntajeSatisfaccion": 3,
+    "Clasificacion": null,
+    "PuntajeSatisfaccion": null,
     "FuenteEncuesta": "EncuestaInterna"
   },
   {
@@ -4095,8 +4095,8 @@
     "IdProducto": 698,
     "Fecha": "2025-07-29",
     "Comentario": "El producto cumple su funci\u00F3n, nada especial.",
-    "Clasificacion": "Neutra",
-    "PuntajeSatisfaccion": 3,
+    "Clasificacion": null,
+    "PuntajeSatisfaccion": null,
     "FuenteEncuesta": "EncuestaInterna"
   },
   {
@@ -4105,8 +4105,8 @@
     "IdProducto": 95,
     "Fecha": "2025-08-04",
     "Comentario": "El env\u00EDo fue normal, dentro del tiempo esperado.",
-    "Clasificacion": "Neutra",
-    "PuntajeSatisfaccion": 3,
+    "Clasificacion": null,
+    "PuntajeSatisfaccion": null,
     "FuenteEncuesta": "EncuestaInterna"
   },
   {
@@ -4115,8 +4115,8 @@
     "IdProducto": 364,
     "Fecha": "2025-08-28",
     "Comentario": "El producto est\u00E1 bien, pero esperaba un poco m\u00E1s de calidad.",
-    "Clasificacion": "Neutra",
-    "PuntajeSatisfaccion": 3,
+    "Clasificacion": null,
+    "PuntajeSatisfaccion": null,
     "FuenteEncuesta": "EncuestaInterna"
   },
   {
@@ -4125,8 +4125,8 @@
     "IdProducto": 213,
     "Fecha": "2024-10-21",
     "Comentario": "Excelente calidad, definitivamente volver\u00EDa a comprar.",
-    "Clasificacion": "Positiva",
-    "PuntajeSatisfaccion": 4,
+    "Clasificacion": null,
+    "PuntajeSatisfaccion": null,
     "FuenteEncuesta": "EncuestaInterna"
   },
   {
@@ -4135,8 +4135,8 @@
     "IdProducto": 689,
     "Fecha": "2025-06-19",
     "Comentario": "Ni malo ni excelente, simplemente regular.",
-    "Clasificacion": "Neutra",
-    "PuntajeSatisfaccion": 3,
+    "Clasificacion": null,
+    "PuntajeSatisfaccion": null,
     "FuenteEncuesta": "EncuestaInterna"
   },
   {
@@ -4145,8 +4145,8 @@
     "IdProducto": 632,
     "Fecha": "2025-08-15",
     "Comentario": "El producto lleg\u00F3 da\u00F1ado y no cumpli\u00F3 con lo prometido.",
-    "Clasificacion": "Negativa",
-    "PuntajeSatisfaccion": 2,
+    "Clasificacion": null,
+    "PuntajeSatisfaccion": null,
     "FuenteEncuesta": "EncuestaInterna"
   },
   {
@@ -4155,8 +4155,8 @@
     "IdProducto": 996,
     "Fecha": "2024-10-21",
     "Comentario": "El producto lleg\u00F3 da\u00F1ado y no cumpli\u00F3 con lo prometido.",
-    "Clasificacion": "Negativa",
-    "PuntajeSatisfaccion": 1,
+    "Clasificacion": null,
+    "PuntajeSatisfaccion": null,
     "FuenteEncuesta": "EncuestaInterna"
   },
   {
@@ -4165,8 +4165,8 @@
     "IdProducto": 722,
     "Fecha": "2024-10-25",
     "Comentario": "Me encanta, es justo lo que necesitaba.",
-    "Clasificacion": "Positiva",
-    "PuntajeSatisfaccion": 4,
+    "Clasificacion": null,
+    "PuntajeSatisfaccion": null,
     "FuenteEncuesta": "EncuestaInterna"
   },
   {
@@ -4175,8 +4175,8 @@
     "IdProducto": 190,
     "Fecha": "2024-09-22",
     "Comentario": "El servicio fue r\u00E1pido y eficiente, estoy muy satisfecho.",
-    "Clasificacion": "Positiva",
-    "PuntajeSatisfaccion": 5,
+    "Clasificacion": null,
+    "PuntajeSatisfaccion": null,
     "FuenteEncuesta": "EncuestaInterna"
   },
   {
@@ -4185,8 +4185,8 @@
     "IdProducto": 412,
     "Fecha": "2025-08-15",
     "Comentario": "Me encanta, es justo lo que necesitaba.",
-    "Clasificacion": "Positiva",
-    "PuntajeSatisfaccion": 4,
+    "Clasificacion": null,
+    "PuntajeSatisfaccion": null,
     "FuenteEncuesta": "EncuestaInterna"
   },
   {
@@ -4195,8 +4195,8 @@
     "IdProducto": 840,
     "Fecha": "2025-03-18",
     "Comentario": "La experiencia fue aceptable, aunque podr\u00EDa mejorar.",
-    "Clasificacion": "Neutra",
-    "PuntajeSatisfaccion": 3,
+    "Clasificacion": null,
+    "PuntajeSatisfaccion": null,
     "FuenteEncuesta": "EncuestaInterna"
   },
   {
@@ -4205,8 +4205,8 @@
     "IdProducto": 274,
     "Fecha": "2025-06-02",
     "Comentario": "El producto lleg\u00F3 en perfecto estado y antes de tiempo.",
-    "Clasificacion": "Positiva",
-    "PuntajeSatisfaccion": 4,
+    "Clasificacion": null,
+    "PuntajeSatisfaccion": null,
     "FuenteEncuesta": "EncuestaInterna"
   },
   {
@@ -4215,8 +4215,8 @@
     "IdProducto": 790,
     "Fecha": "2024-11-16",
     "Comentario": "El producto lleg\u00F3 en perfecto estado y antes de tiempo.",
-    "Clasificacion": "Positiva",
-    "PuntajeSatisfaccion": 5,
+    "Clasificacion": null,
+    "PuntajeSatisfaccion": null,
     "FuenteEncuesta": "EncuestaInterna"
   },
   {
@@ -4225,8 +4225,8 @@
     "IdProducto": 624,
     "Fecha": "2025-07-09",
     "Comentario": "Excelente calidad, definitivamente volver\u00EDa a comprar.",
-    "Clasificacion": "Positiva",
-    "PuntajeSatisfaccion": 5,
+    "Clasificacion": null,
+    "PuntajeSatisfaccion": null,
     "FuenteEncuesta": "EncuestaInterna"
   },
   {
@@ -4235,8 +4235,8 @@
     "IdProducto": 360,
     "Fecha": "2024-10-16",
     "Comentario": "El servicio fue r\u00E1pido y eficiente, estoy muy satisfecho.",
-    "Clasificacion": "Positiva",
-    "PuntajeSatisfaccion": 4,
+    "Clasificacion": null,
+    "PuntajeSatisfaccion": null,
     "FuenteEncuesta": "EncuestaInterna"
   },
   {
@@ -4245,8 +4245,8 @@
     "IdProducto": 979,
     "Fecha": "2025-06-10",
     "Comentario": "El producto cumple su funci\u00F3n, nada especial.",
-    "Clasificacion": "Neutra",
-    "PuntajeSatisfaccion": 3,
+    "Clasificacion": null,
+    "PuntajeSatisfaccion": null,
     "FuenteEncuesta": "EncuestaInterna"
   },
   {
@@ -4255,8 +4255,8 @@
     "IdProducto": 246,
     "Fecha": "2024-09-26",
     "Comentario": "El producto dej\u00F3 de funcionar al poco tiempo de usarlo.",
-    "Clasificacion": "Negativa",
-    "PuntajeSatisfaccion": 1,
+    "Clasificacion": null,
+    "PuntajeSatisfaccion": null,
     "FuenteEncuesta": "EncuestaInterna"
   },
   {
@@ -4265,8 +4265,8 @@
     "IdProducto": 703,
     "Fecha": "2025-07-25",
     "Comentario": "El servicio fue r\u00E1pido y eficiente, estoy muy satisfecho.",
-    "Clasificacion": "Positiva",
-    "PuntajeSatisfaccion": 4,
+    "Clasificacion": null,
+    "PuntajeSatisfaccion": null,
     "FuenteEncuesta": "EncuestaInterna"
   },
   {
@@ -4275,8 +4275,8 @@
     "IdProducto": 466,
     "Fecha": "2025-09-14",
     "Comentario": "El producto lleg\u00F3 da\u00F1ado y no cumpli\u00F3 con lo prometido.",
-    "Clasificacion": "Negativa",
-    "PuntajeSatisfaccion": 2,
+    "Clasificacion": null,
+    "PuntajeSatisfaccion": null,
     "FuenteEncuesta": "EncuestaInterna"
   },
   {
@@ -4285,8 +4285,8 @@
     "IdProducto": 949,
     "Fecha": "2025-07-24",
     "Comentario": "El producto dej\u00F3 de funcionar al poco tiempo de usarlo.",
-    "Clasificacion": "Negativa",
-    "PuntajeSatisfaccion": 1,
+    "Clasificacion": null,
+    "PuntajeSatisfaccion": null,
     "FuenteEncuesta": "EncuestaInterna"
   },
   {
@@ -4295,8 +4295,8 @@
     "IdProducto": 560,
     "Fecha": "2025-06-27",
     "Comentario": "El producto lleg\u00F3 da\u00F1ado y no cumpli\u00F3 con lo prometido.",
-    "Clasificacion": "Negativa",
-    "PuntajeSatisfaccion": 1,
+    "Clasificacion": null,
+    "PuntajeSatisfaccion": null,
     "FuenteEncuesta": "EncuestaInterna"
   },
   {
@@ -4305,8 +4305,8 @@
     "IdProducto": 326,
     "Fecha": "2024-10-04",
     "Comentario": "No era lo que esperaba, muy decepcionado.",
-    "Clasificacion": "Negativa",
-    "PuntajeSatisfaccion": 1,
+    "Clasificacion": null,
+    "PuntajeSatisfaccion": null,
     "FuenteEncuesta": "EncuestaInterna"
   },
   {
@@ -4315,8 +4315,8 @@
     "IdProducto": 56,
     "Fecha": "2025-04-29",
     "Comentario": "La experiencia fue aceptable, aunque podr\u00EDa mejorar.",
-    "Clasificacion": "Neutra",
-    "PuntajeSatisfaccion": 3,
+    "Clasificacion": null,
+    "PuntajeSatisfaccion": null,
     "FuenteEncuesta": "EncuestaInterna"
   },
   {
@@ -4325,8 +4325,8 @@
     "IdProducto": 708,
     "Fecha": "2025-04-12",
     "Comentario": "El producto lleg\u00F3 en perfecto estado y antes de tiempo.",
-    "Clasificacion": "Positiva",
-    "PuntajeSatisfaccion": 5,
+    "Clasificacion": null,
+    "PuntajeSatisfaccion": null,
     "FuenteEncuesta": "EncuestaInterna"
   },
   {
@@ -4335,8 +4335,8 @@
     "IdProducto": 519,
     "Fecha": "2025-03-28",
     "Comentario": "El producto cumple su funci\u00F3n, nada especial.",
-    "Clasificacion": "Neutra",
-    "PuntajeSatisfaccion": 3,
+    "Clasificacion": null,
+    "PuntajeSatisfaccion": null,
     "FuenteEncuesta": "EncuestaInterna"
   },
   {
@@ -4345,8 +4345,8 @@
     "IdProducto": 605,
     "Fecha": "2025-08-07",
     "Comentario": "Me encanta, es justo lo que necesitaba.",
-    "Clasificacion": "Positiva",
-    "PuntajeSatisfaccion": 5,
+    "Clasificacion": null,
+    "PuntajeSatisfaccion": null,
     "FuenteEncuesta": "EncuestaInterna"
   },
   {
@@ -4355,8 +4355,8 @@
     "IdProducto": 288,
     "Fecha": "2025-01-15",
     "Comentario": "Me encanta, es justo lo que necesitaba.",
-    "Clasificacion": "Positiva",
-    "PuntajeSatisfaccion": 5,
+    "Clasificacion": null,
+    "PuntajeSatisfaccion": null,
     "FuenteEncuesta": "EncuestaInterna"
   },
   {
@@ -4365,8 +4365,8 @@
     "IdProducto": 903,
     "Fecha": "2024-10-30",
     "Comentario": "El producto est\u00E1 bien, pero esperaba un poco m\u00E1s de calidad.",
-    "Clasificacion": "Neutra",
-    "PuntajeSatisfaccion": 3,
+    "Clasificacion": null,
+    "PuntajeSatisfaccion": null,
     "FuenteEncuesta": "EncuestaInterna"
   },
   {
@@ -4375,8 +4375,8 @@
     "IdProducto": 671,
     "Fecha": "2024-12-25",
     "Comentario": "La experiencia fue aceptable, aunque podr\u00EDa mejorar.",
-    "Clasificacion": "Neutra",
-    "PuntajeSatisfaccion": 3,
+    "Clasificacion": null,
+    "PuntajeSatisfaccion": null,
     "FuenteEncuesta": "EncuestaInterna"
   },
   {
@@ -4385,8 +4385,8 @@
     "IdProducto": 22,
     "Fecha": "2024-09-19",
     "Comentario": "El producto lleg\u00F3 da\u00F1ado y no cumpli\u00F3 con lo prometido.",
-    "Clasificacion": "Negativa",
-    "PuntajeSatisfaccion": 2,
+    "Clasificacion": null,
+    "PuntajeSatisfaccion": null,
     "FuenteEncuesta": "EncuestaInterna"
   },
   {
@@ -4395,8 +4395,8 @@
     "IdProducto": 591,
     "Fecha": "2024-10-09",
     "Comentario": "Me encanta, es justo lo que necesitaba.",
-    "Clasificacion": "Positiva",
-    "PuntajeSatisfaccion": 4,
+    "Clasificacion": null,
+    "PuntajeSatisfaccion": null,
     "FuenteEncuesta": "EncuestaInterna"
   },
   {
@@ -4405,8 +4405,8 @@
     "IdProducto": 429,
     "Fecha": "2025-05-06",
     "Comentario": "El producto dej\u00F3 de funcionar al poco tiempo de usarlo.",
-    "Clasificacion": "Negativa",
-    "PuntajeSatisfaccion": 1,
+    "Clasificacion": null,
+    "PuntajeSatisfaccion": null,
     "FuenteEncuesta": "EncuestaInterna"
   },
   {
@@ -4415,8 +4415,8 @@
     "IdProducto": 29,
     "Fecha": "2025-07-02",
     "Comentario": "El servicio fue r\u00E1pido y eficiente, estoy muy satisfecho.",
-    "Clasificacion": "Positiva",
-    "PuntajeSatisfaccion": 4,
+    "Clasificacion": null,
+    "PuntajeSatisfaccion": null,
     "FuenteEncuesta": "EncuestaInterna"
   },
   {
@@ -4425,8 +4425,8 @@
     "IdProducto": 96,
     "Fecha": "2024-10-07",
     "Comentario": "La experiencia fue aceptable, aunque podr\u00EDa mejorar.",
-    "Clasificacion": "Neutra",
-    "PuntajeSatisfaccion": 3,
+    "Clasificacion": null,
+    "PuntajeSatisfaccion": null,
     "FuenteEncuesta": "EncuestaInterna"
   },
   {
@@ -4435,8 +4435,8 @@
     "IdProducto": 246,
     "Fecha": "2025-01-06",
     "Comentario": "Ni malo ni excelente, simplemente regular.",
-    "Clasificacion": "Neutra",
-    "PuntajeSatisfaccion": 3,
+    "Clasificacion": null,
+    "PuntajeSatisfaccion": null,
     "FuenteEncuesta": "EncuestaInterna"
   },
   {
@@ -4445,8 +4445,8 @@
     "IdProducto": 630,
     "Fecha": "2024-12-16",
     "Comentario": "El producto dej\u00F3 de funcionar al poco tiempo de usarlo.",
-    "Clasificacion": "Negativa",
-    "PuntajeSatisfaccion": 2,
+    "Clasificacion": null,
+    "PuntajeSatisfaccion": null,
     "FuenteEncuesta": "EncuestaInterna"
   },
   {
@@ -4455,8 +4455,8 @@
     "IdProducto": 752,
     "Fecha": "2024-11-18",
     "Comentario": "El producto lleg\u00F3 en perfecto estado y antes de tiempo.",
-    "Clasificacion": "Positiva",
-    "PuntajeSatisfaccion": 4,
+    "Clasificacion": null,
+    "PuntajeSatisfaccion": null,
     "FuenteEncuesta": "EncuestaInterna"
   },
   {
@@ -4465,8 +4465,8 @@
     "IdProducto": 332,
     "Fecha": "2024-09-27",
     "Comentario": "Me encanta, es justo lo que necesitaba.",
-    "Clasificacion": "Positiva",
-    "PuntajeSatisfaccion": 4,
+    "Clasificacion": null,
+    "PuntajeSatisfaccion": null,
     "FuenteEncuesta": "EncuestaInterna"
   },
   {
@@ -4475,8 +4475,8 @@
     "IdProducto": 714,
     "Fecha": "2025-06-25",
     "Comentario": "Ni malo ni excelente, simplemente regular.",
-    "Clasificacion": "Neutra",
-    "PuntajeSatisfaccion": 3,
+    "Clasificacion": null,
+    "PuntajeSatisfaccion": null,
     "FuenteEncuesta": "EncuestaInterna"
   },
   {
@@ -4485,8 +4485,8 @@
     "IdProducto": 481,
     "Fecha": "2024-11-04",
     "Comentario": "El producto lleg\u00F3 en perfecto estado y antes de tiempo.",
-    "Clasificacion": "Positiva",
-    "PuntajeSatisfaccion": 4,
+    "Clasificacion": null,
+    "PuntajeSatisfaccion": null,
     "FuenteEncuesta": "EncuestaInterna"
   },
   {
@@ -4495,8 +4495,8 @@
     "IdProducto": 954,
     "Fecha": "2025-09-08",
     "Comentario": "Excelente calidad, definitivamente volver\u00EDa a comprar.",
-    "Clasificacion": "Positiva",
-    "PuntajeSatisfaccion": 5,
+    "Clasificacion": null,
+    "PuntajeSatisfaccion": null,
     "FuenteEncuesta": "EncuestaInterna"
   },
   {
@@ -4505,8 +4505,8 @@
     "IdProducto": 505,
     "Fecha": "2024-09-26",
     "Comentario": "El producto lleg\u00F3 en perfecto estado y antes de tiempo.",
-    "Clasificacion": "Positiva",
-    "PuntajeSatisfaccion": 4,
+    "Clasificacion": null,
+    "PuntajeSatisfaccion": null,
     "FuenteEncuesta": "EncuestaInterna"
   },
   {
@@ -4515,8 +4515,8 @@
     "IdProducto": 160,
     "Fecha": "2025-01-19",
     "Comentario": "El producto est\u00E1 bien, pero esperaba un poco m\u00E1s de calidad.",
-    "Clasificacion": "Neutra",
-    "PuntajeSatisfaccion": 3,
+    "Clasificacion": null,
+    "PuntajeSatisfaccion": null,
     "FuenteEncuesta": "EncuestaInterna"
   },
   {
@@ -4525,8 +4525,8 @@
     "IdProducto": 111,
     "Fecha": "2024-09-19",
     "Comentario": "Ni malo ni excelente, simplemente regular.",
-    "Clasificacion": "Neutra",
-    "PuntajeSatisfaccion": 3,
+    "Clasificacion": null,
+    "PuntajeSatisfaccion": null,
     "FuenteEncuesta": "EncuestaInterna"
   },
   {
@@ -4535,8 +4535,8 @@
     "IdProducto": 374,
     "Fecha": "2024-10-04",
     "Comentario": "El producto lleg\u00F3 en perfecto estado y antes de tiempo.",
-    "Clasificacion": "Positiva",
-    "PuntajeSatisfaccion": 5,
+    "Clasificacion": null,
+    "PuntajeSatisfaccion": null,
     "FuenteEncuesta": "EncuestaInterna"
   },
   {
@@ -4545,8 +4545,8 @@
     "IdProducto": 864,
     "Fecha": "2024-10-13",
     "Comentario": "El producto est\u00E1 bien, pero esperaba un poco m\u00E1s de calidad.",
-    "Clasificacion": "Neutra",
-    "PuntajeSatisfaccion": 3,
+    "Clasificacion": null,
+    "PuntajeSatisfaccion": null,
     "FuenteEncuesta": "EncuestaInterna"
   },
   {
@@ -4555,8 +4555,8 @@
     "IdProducto": 209,
     "Fecha": "2025-02-13",
     "Comentario": "El producto lleg\u00F3 da\u00F1ado y no cumpli\u00F3 con lo prometido.",
-    "Clasificacion": "Negativa",
-    "PuntajeSatisfaccion": 1,
+    "Clasificacion": null,
+    "PuntajeSatisfaccion": null,
     "FuenteEncuesta": "EncuestaInterna"
   },
   {
@@ -4565,8 +4565,8 @@
     "IdProducto": 225,
     "Fecha": "2025-08-21",
     "Comentario": "El producto est\u00E1 bien, pero esperaba un poco m\u00E1s de calidad.",
-    "Clasificacion": "Neutra",
-    "PuntajeSatisfaccion": 3,
+    "Clasificacion": null,
+    "PuntajeSatisfaccion": null,
     "FuenteEncuesta": "EncuestaInterna"
   },
   {
@@ -4575,8 +4575,8 @@
     "IdProducto": 482,
     "Fecha": "2025-07-13",
     "Comentario": "El producto super\u00F3 mis expectativas, muy recomendable.",
-    "Clasificacion": "Positiva",
-    "PuntajeSatisfaccion": 4,
+    "Clasificacion": null,
+    "PuntajeSatisfaccion": null,
     "FuenteEncuesta": "EncuestaInterna"
   },
   {
@@ -4585,8 +4585,8 @@
     "IdProducto": 795,
     "Fecha": "2025-01-22",
     "Comentario": "El servicio fue lento y el soporte no resolvi\u00F3 mi problema.",
-    "Clasificacion": "Negativa",
-    "PuntajeSatisfaccion": 1,
+    "Clasificacion": null,
+    "PuntajeSatisfaccion": null,
     "FuenteEncuesta": "EncuestaInterna"
   },
   {
@@ -4595,8 +4595,8 @@
     "IdProducto": 353,
     "Fecha": "2025-05-04",
     "Comentario": "Excelente calidad, definitivamente volver\u00EDa a comprar.",
-    "Clasificacion": "Positiva",
-    "PuntajeSatisfaccion": 5,
+    "Clasificacion": null,
+    "PuntajeSatisfaccion": null,
     "FuenteEncuesta": "EncuestaInterna"
   },
   {
@@ -4605,8 +4605,8 @@
     "IdProducto": 330,
     "Fecha": "2025-04-27",
     "Comentario": "El producto lleg\u00F3 en perfecto estado y antes de tiempo.",
-    "Clasificacion": "Positiva",
-    "PuntajeSatisfaccion": 4,
+    "Clasificacion": null,
+    "PuntajeSatisfaccion": null,
     "FuenteEncuesta": "EncuestaInterna"
   },
   {
@@ -4615,8 +4615,8 @@
     "IdProducto": 302,
     "Fecha": "2025-05-09",
     "Comentario": "El servicio fue r\u00E1pido y eficiente, estoy muy satisfecho.",
-    "Clasificacion": "Positiva",
-    "PuntajeSatisfaccion": 4,
+    "Clasificacion": null,
+    "PuntajeSatisfaccion": null,
     "FuenteEncuesta": "EncuestaInterna"
   },
   {
@@ -4625,8 +4625,8 @@
     "IdProducto": 229,
     "Fecha": "2024-10-09",
     "Comentario": "No era lo que esperaba, muy decepcionado.",
-    "Clasificacion": "Negativa",
-    "PuntajeSatisfaccion": 2,
+    "Clasificacion": null,
+    "PuntajeSatisfaccion": null,
     "FuenteEncuesta": "EncuestaInterna"
   },
   {
@@ -4635,8 +4635,8 @@
     "IdProducto": 13,
     "Fecha": "2025-04-11",
     "Comentario": "El producto dej\u00F3 de funcionar al poco tiempo de usarlo.",
-    "Clasificacion": "Negativa",
-    "PuntajeSatisfaccion": 1,
+    "Clasificacion": null,
+    "PuntajeSatisfaccion": null,
     "FuenteEncuesta": "EncuestaInterna"
   },
   {
@@ -4645,8 +4645,8 @@
     "IdProducto": 818,
     "Fecha": "2024-10-07",
     "Comentario": "El producto dej\u00F3 de funcionar al poco tiempo de usarlo.",
-    "Clasificacion": "Negativa",
-    "PuntajeSatisfaccion": 1,
+    "Clasificacion": null,
+    "PuntajeSatisfaccion": null,
     "FuenteEncuesta": "EncuestaInterna"
   },
   {
@@ -4655,8 +4655,8 @@
     "IdProducto": 318,
     "Fecha": "2025-09-07",
     "Comentario": "Ni malo ni excelente, simplemente regular.",
-    "Clasificacion": "Neutra",
-    "PuntajeSatisfaccion": 3,
+    "Clasificacion": null,
+    "PuntajeSatisfaccion": null,
     "FuenteEncuesta": "EncuestaInterna"
   },
   {
@@ -4665,8 +4665,8 @@
     "IdProducto": 400,
     "Fecha": "2024-09-24",
     "Comentario": "El env\u00EDo fue normal, dentro del tiempo esperado.",
-    "Clasificacion": "Neutra",
-    "PuntajeSatisfaccion": 3,
+    "Clasificacion": null,
+    "PuntajeSatisfaccion": null,
     "FuenteEncuesta": "EncuestaInterna"
   },
   {
@@ -4675,8 +4675,8 @@
     "IdProducto": 73,
     "Fecha": "2025-08-08",
     "Comentario": "Me encanta, es justo lo que necesitaba.",
-    "Clasificacion": "Positiva",
-    "PuntajeSatisfaccion": 5,
+    "Clasificacion": null,
+    "PuntajeSatisfaccion": null,
     "FuenteEncuesta": "EncuestaInterna"
   },
   {
@@ -4685,8 +4685,8 @@
     "IdProducto": 240,
     "Fecha": "2025-06-11",
     "Comentario": "Excelente calidad, definitivamente volver\u00EDa a comprar.",
-    "Clasificacion": "Positiva",
-    "PuntajeSatisfaccion": 4,
+    "Clasificacion": null,
+    "PuntajeSatisfaccion": null,
     "FuenteEncuesta": "EncuestaInterna"
   },
   {
@@ -4695,8 +4695,8 @@
     "IdProducto": 532,
     "Fecha": "2025-08-07",
     "Comentario": "Ni malo ni excelente, simplemente regular.",
-    "Clasificacion": "Neutra",
-    "PuntajeSatisfaccion": 3,
+    "Clasificacion": null,
+    "PuntajeSatisfaccion": null,
     "FuenteEncuesta": "EncuestaInterna"
   },
   {
@@ -4705,8 +4705,8 @@
     "IdProducto": 715,
     "Fecha": "2024-11-01",
     "Comentario": "Ni malo ni excelente, simplemente regular.",
-    "Clasificacion": "Neutra",
-    "PuntajeSatisfaccion": 3,
+    "Clasificacion": null,
+    "PuntajeSatisfaccion": null,
     "FuenteEncuesta": "EncuestaInterna"
   },
   {
@@ -4715,8 +4715,8 @@
     "IdProducto": 75,
     "Fecha": "2025-04-08",
     "Comentario": "Me encanta, es justo lo que necesitaba.",
-    "Clasificacion": "Positiva",
-    "PuntajeSatisfaccion": 5,
+    "Clasificacion": null,
+    "PuntajeSatisfaccion": null,
     "FuenteEncuesta": "EncuestaInterna"
   },
   {
@@ -4725,8 +4725,8 @@
     "IdProducto": 704,
     "Fecha": "2024-09-18",
     "Comentario": "El producto est\u00E1 bien, pero esperaba un poco m\u00E1s de calidad.",
-    "Clasificacion": "Neutra",
-    "PuntajeSatisfaccion": 3,
+    "Clasificacion": null,
+    "PuntajeSatisfaccion": null,
     "FuenteEncuesta": "EncuestaInterna"
   },
   {
@@ -4735,8 +4735,8 @@
     "IdProducto": 659,
     "Fecha": "2024-12-24",
     "Comentario": "Ni malo ni excelente, simplemente regular.",
-    "Clasificacion": "Neutra",
-    "PuntajeSatisfaccion": 3,
+    "Clasificacion": null,
+    "PuntajeSatisfaccion": null,
     "FuenteEncuesta": "EncuestaInterna"
   },
   {
@@ -4745,8 +4745,8 @@
     "IdProducto": 340,
     "Fecha": "2025-03-03",
     "Comentario": "El producto cumple su funci\u00F3n, nada especial.",
-    "Clasificacion": "Neutra",
-    "PuntajeSatisfaccion": 3,
+    "Clasificacion": null,
+    "PuntajeSatisfaccion": null,
     "FuenteEncuesta": "EncuestaInterna"
   },
   {
@@ -4755,8 +4755,8 @@
     "IdProducto": 864,
     "Fecha": "2025-03-22",
     "Comentario": "Me encanta, es justo lo que necesitaba.",
-    "Clasificacion": "Positiva",
-    "PuntajeSatisfaccion": 5,
+    "Clasificacion": null,
+    "PuntajeSatisfaccion": null,
     "FuenteEncuesta": "EncuestaInterna"
   },
   {
@@ -4765,8 +4765,8 @@
     "IdProducto": 668,
     "Fecha": "2025-06-06",
     "Comentario": "El producto dej\u00F3 de funcionar al poco tiempo de usarlo.",
-    "Clasificacion": "Negativa",
-    "PuntajeSatisfaccion": 2,
+    "Clasificacion": null,
+    "PuntajeSatisfaccion": null,
     "FuenteEncuesta": "EncuestaInterna"
   },
   {
@@ -4775,8 +4775,8 @@
     "IdProducto": 255,
     "Fecha": "2025-04-03",
     "Comentario": "El producto lleg\u00F3 da\u00F1ado y no cumpli\u00F3 con lo prometido.",
-    "Clasificacion": "Negativa",
-    "PuntajeSatisfaccion": 1,
+    "Clasificacion": null,
+    "PuntajeSatisfaccion": null,
     "FuenteEncuesta": "EncuestaInterna"
   },
   {
@@ -4785,8 +4785,8 @@
     "IdProducto": 507,
     "Fecha": "2025-04-11",
     "Comentario": "El producto dej\u00F3 de funcionar al poco tiempo de usarlo.",
-    "Clasificacion": "Negativa",
-    "PuntajeSatisfaccion": 1,
+    "Clasificacion": null,
+    "PuntajeSatisfaccion": null,
     "FuenteEncuesta": "EncuestaInterna"
   },
   {
@@ -4795,8 +4795,8 @@
     "IdProducto": 970,
     "Fecha": "2025-02-11",
     "Comentario": "No era lo que esperaba, muy decepcionado.",
-    "Clasificacion": "Negativa",
-    "PuntajeSatisfaccion": 2,
+    "Clasificacion": null,
+    "PuntajeSatisfaccion": null,
     "FuenteEncuesta": "EncuestaInterna"
   },
   {
@@ -4805,8 +4805,8 @@
     "IdProducto": 586,
     "Fecha": "2024-11-23",
     "Comentario": "Ni malo ni excelente, simplemente regular.",
-    "Clasificacion": "Neutra",
-    "PuntajeSatisfaccion": 3,
+    "Clasificacion": null,
+    "PuntajeSatisfaccion": null,
     "FuenteEncuesta": "EncuestaInterna"
   },
   {
@@ -4815,8 +4815,8 @@
     "IdProducto": 474,
     "Fecha": "2025-01-22",
     "Comentario": "No era lo que esperaba, muy decepcionado.",
-    "Clasificacion": "Negativa",
-    "PuntajeSatisfaccion": 1,
+    "Clasificacion": null,
+    "PuntajeSatisfaccion": null,
     "FuenteEncuesta": "EncuestaInterna"
   },
   {
@@ -4825,8 +4825,8 @@
     "IdProducto": 287,
     "Fecha": "2025-01-02",
     "Comentario": "Ni malo ni excelente, simplemente regular.",
-    "Clasificacion": "Neutra",
-    "PuntajeSatisfaccion": 3,
+    "Clasificacion": null,
+    "PuntajeSatisfaccion": null,
     "FuenteEncuesta": "EncuestaInterna"
   },
   {
@@ -4835,8 +4835,8 @@
     "IdProducto": 80,
     "Fecha": "2025-01-24",
     "Comentario": "El producto dej\u00F3 de funcionar al poco tiempo de usarlo.",
-    "Clasificacion": "Negativa",
-    "PuntajeSatisfaccion": 1,
+    "Clasificacion": null,
+    "PuntajeSatisfaccion": null,
     "FuenteEncuesta": "EncuestaInterna"
   },
   {
@@ -4845,8 +4845,8 @@
     "IdProducto": 67,
     "Fecha": "2025-05-06",
     "Comentario": "El producto dej\u00F3 de funcionar al poco tiempo de usarlo.",
-    "Clasificacion": "Negativa",
-    "PuntajeSatisfaccion": 1,
+    "Clasificacion": null,
+    "PuntajeSatisfaccion": null,
     "FuenteEncuesta": "EncuestaInterna"
   },
   {
@@ -4855,8 +4855,8 @@
     "IdProducto": 584,
     "Fecha": "2024-12-26",
     "Comentario": "El producto dej\u00F3 de funcionar al poco tiempo de usarlo.",
-    "Clasificacion": "Negativa",
-    "PuntajeSatisfaccion": 2,
+    "Clasificacion": null,
+    "PuntajeSatisfaccion": null,
     "FuenteEncuesta": "EncuestaInterna"
   },
   {
@@ -4865,8 +4865,8 @@
     "IdProducto": 969,
     "Fecha": "2025-06-27",
     "Comentario": "Mala calidad, no lo recomiendo para nada.",
-    "Clasificacion": "Negativa",
-    "PuntajeSatisfaccion": 1,
+    "Clasificacion": null,
+    "PuntajeSatisfaccion": null,
     "FuenteEncuesta": "EncuestaInterna"
   },
   {
@@ -4875,8 +4875,8 @@
     "IdProducto": 659,
     "Fecha": "2025-07-24",
     "Comentario": "El producto dej\u00F3 de funcionar al poco tiempo de usarlo.",
-    "Clasificacion": "Negativa",
-    "PuntajeSatisfaccion": 2,
+    "Clasificacion": null,
+    "PuntajeSatisfaccion": null,
     "FuenteEncuesta": "EncuestaInterna"
   },
   {
@@ -4885,8 +4885,8 @@
     "IdProducto": 858,
     "Fecha": "2025-08-07",
     "Comentario": "El producto lleg\u00F3 da\u00F1ado y no cumpli\u00F3 con lo prometido.",
-    "Clasificacion": "Negativa",
-    "PuntajeSatisfaccion": 2,
+    "Clasificacion": null,
+    "PuntajeSatisfaccion": null,
     "FuenteEncuesta": "EncuestaInterna"
   },
   {
@@ -4895,8 +4895,8 @@
     "IdProducto": 271,
     "Fecha": "2025-04-26",
     "Comentario": "No era lo que esperaba, muy decepcionado.",
-    "Clasificacion": "Negativa",
-    "PuntajeSatisfaccion": 2,
+    "Clasificacion": null,
+    "PuntajeSatisfaccion": null,
     "FuenteEncuesta": "EncuestaInterna"
   },
   {
@@ -4905,8 +4905,8 @@
     "IdProducto": 844,
     "Fecha": "2025-03-24",
     "Comentario": "El env\u00EDo fue normal, dentro del tiempo esperado.",
-    "Clasificacion": "Neutra",
-    "PuntajeSatisfaccion": 3,
+    "Clasificacion": null,
+    "PuntajeSatisfaccion": null,
     "FuenteEncuesta": "EncuestaInterna"
   },
   {
@@ -4915,8 +4915,8 @@
     "IdProducto": 637,
     "Fecha": "2024-09-17",
     "Comentario": "Me encanta, es justo lo que necesitaba.",
-    "Clasificacion": "Positiva",
-    "PuntajeSatisfaccion": 4,
+    "Clasificacion": null,
+    "PuntajeSatisfaccion": null,
     "FuenteEncuesta": "EncuestaInterna"
   },
   {
@@ -4925,8 +4925,8 @@
     "IdProducto": 989,
     "Fecha": "2024-12-27",
     "Comentario": "El producto lleg\u00F3 da\u00F1ado y no cumpli\u00F3 con lo prometido.",
-    "Clasificacion": "Negativa",
-    "PuntajeSatisfaccion": 1,
+    "Clasificacion": null,
+    "PuntajeSatisfaccion": null,
     "FuenteEncuesta": "EncuestaInterna"
   },
   {
@@ -4935,8 +4935,8 @@
     "IdProducto": 702,
     "Fecha": "2025-03-29",
     "Comentario": "Excelente calidad, definitivamente volver\u00EDa a comprar.",
-    "Clasificacion": "Positiva",
-    "PuntajeSatisfaccion": 4,
+    "Clasificacion": null,
+    "PuntajeSatisfaccion": null,
     "FuenteEncuesta": "EncuestaInterna"
   },
   {
@@ -4945,8 +4945,8 @@
     "IdProducto": 550,
     "Fecha": "2025-01-12",
     "Comentario": "El producto lleg\u00F3 da\u00F1ado y no cumpli\u00F3 con lo prometido.",
-    "Clasificacion": "Negativa",
-    "PuntajeSatisfaccion": 1,
+    "Clasificacion": null,
+    "PuntajeSatisfaccion": null,
     "FuenteEncuesta": "EncuestaInterna"
   },
   {
@@ -4955,8 +4955,8 @@
     "IdProducto": 480,
     "Fecha": "2025-03-26",
     "Comentario": "El producto super\u00F3 mis expectativas, muy recomendable.",
-    "Clasificacion": "Positiva",
-    "PuntajeSatisfaccion": 4,
+    "Clasificacion": null,
+    "PuntajeSatisfaccion": null,
     "FuenteEncuesta": "EncuestaInterna"
   },
   {
@@ -4965,8 +4965,8 @@
     "IdProducto": 609,
     "Fecha": "2025-04-05",
     "Comentario": "El producto lleg\u00F3 da\u00F1ado y no cumpli\u00F3 con lo prometido.",
-    "Clasificacion": "Negativa",
-    "PuntajeSatisfaccion": 2,
+    "Clasificacion": null,
+    "PuntajeSatisfaccion": null,
     "FuenteEncuesta": "EncuestaInterna"
   },
   {
@@ -4975,8 +4975,8 @@
     "IdProducto": 90,
     "Fecha": "2025-01-28",
     "Comentario": "El servicio fue r\u00E1pido y eficiente, estoy muy satisfecho.",
-    "Clasificacion": "Positiva",
-    "PuntajeSatisfaccion": 4,
+    "Clasificacion": null,
+    "PuntajeSatisfaccion": null,
     "FuenteEncuesta": "EncuestaInterna"
   },
   {
@@ -4985,8 +4985,8 @@
     "IdProducto": 140,
     "Fecha": "2025-06-13",
     "Comentario": "Mala calidad, no lo recomiendo para nada.",
-    "Clasificacion": "Negativa",
-    "PuntajeSatisfaccion": 1,
+    "Clasificacion": null,
+    "PuntajeSatisfaccion": null,
     "FuenteEncuesta": "EncuestaInterna"
   },
   {
@@ -4995,8 +4995,8 @@
     "IdProducto": 96,
     "Fecha": "2025-03-01",
     "Comentario": "El producto est\u00E1 bien, pero esperaba un poco m\u00E1s de calidad.",
-    "Clasificacion": "Neutra",
-    "PuntajeSatisfaccion": 3,
+    "Clasificacion": null,
+    "PuntajeSatisfaccion": null,
     "FuenteEncuesta": "EncuestaInterna"
   }
 ]

@@ -1,4 +1,4 @@
-﻿using ETLWorker;
+using ETLWorker;
 using ETLWorker.Abstractions;
 using ETLWorker.Extractors;
 using ETLWorker.Loaders;
@@ -41,8 +41,8 @@ builder.Services.AddTransient<IExtractor<Encuesta>>(
 builder.Services.AddTransient<IExtractor<ComentarioSocial>>(
     sp => sp.GetRequiredService<CsvExtractor>());
 
-// ReviewWeb usa CsvExtractor
-builder.Services.AddTransient<IExtractor<ReviewWeb>>(sp => sp.GetRequiredService<CsvExtractor>());
+// DatabaseExtractor
+builder.Services.AddTransient<IExtractor<ReviewWeb>, DatabaseExtractor>();
 
 // ApiExtractor
 builder.Services.AddTransient<ApiExtractor>();
@@ -73,5 +73,3 @@ builder.Services.AddHostedService<EtlWorker>();
 
 var host = builder.Build();
 host.Run();
-
-
